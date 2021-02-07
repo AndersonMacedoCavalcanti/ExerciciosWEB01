@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Aplicar CSS ao documento HTML">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Aplicar SCRIPT javascript externo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" afterDir="false" />
     </list>
@@ -94,7 +94,7 @@
       <workItem from="1612397190413" duration="159000" />
       <workItem from="1612629081360" duration="2521000" />
       <workItem from="1612636987050" duration="2314000" />
-      <workItem from="1612719239295" duration="3867000" />
+      <workItem from="1612719239295" duration="4528000" />
     </task>
     <task id="LOCAL-00001" summary="primeiras tags">
       <created>1612720909764</created>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612722626703</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Aplicar SCRIPT javascript externo">
+      <created>1612723350745</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612723350745</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +153,8 @@
     <MESSAGE value="Compreendendo espaços vazios e comentários" />
     <MESSAGE value="Adicionar caracteres especiais" />
     <MESSAGE value="Aplicar CSS ao documento HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aplicar CSS ao documento HTML" />
+    <MESSAGE value="Aplicar SCRIPT javascript externo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicar SCRIPT javascript externo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
