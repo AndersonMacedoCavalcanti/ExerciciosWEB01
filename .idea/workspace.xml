@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adicionar caracteres especiais">
-      <change afterPath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Aplicar CSS ao documento HTML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug. HeadDoDocumento.html">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -68,11 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name=" HeadDoDocumento.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/HTML/ HeadDoDocumento.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="PrimeirasTags.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/HTML/PrimeirasTags.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug. HeadDoDocumento.html" />
         <item itemvalue="JavaScript Debug.PrimeirasTags.html" />
       </list>
     </recent_temporary>
@@ -90,7 +94,7 @@
       <workItem from="1612397190413" duration="159000" />
       <workItem from="1612629081360" duration="2521000" />
       <workItem from="1612636987050" duration="2314000" />
-      <workItem from="1612719239295" duration="3120000" />
+      <workItem from="1612719239295" duration="3867000" />
     </task>
     <task id="LOCAL-00001" summary="primeiras tags">
       <created>1612720909764</created>
@@ -113,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612721946504</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aplicar CSS ao documento HTML">
+      <created>1612722626703</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612722626703</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +145,8 @@
     <MESSAGE value="primeiras tags" />
     <MESSAGE value="Compreendendo espaços vazios e comentários" />
     <MESSAGE value="Adicionar caracteres especiais" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionar caracteres especiais" />
+    <MESSAGE value="Aplicar CSS ao documento HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicar CSS ao documento HTML" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
