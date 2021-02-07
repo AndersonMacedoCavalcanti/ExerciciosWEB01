@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="primeiras tags">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adicionar caracteres especiais">
+      <change afterPath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/PrimeirasTags.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/PrimeirasTags.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +12,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,13 +35,16 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ntFaU2GZ02hTIqH4hici4j1mPI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -80,7 +90,7 @@
       <workItem from="1612397190413" duration="159000" />
       <workItem from="1612629081360" duration="2521000" />
       <workItem from="1612636987050" duration="2314000" />
-      <workItem from="1612719239295" duration="2477000" />
+      <workItem from="1612719239295" duration="3120000" />
     </task>
     <task id="LOCAL-00001" summary="primeiras tags">
       <created>1612720909764</created>
@@ -89,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612720909764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Compreendendo espaços vazios e comentários">
+      <created>1612721816298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612721816298</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adicionar caracteres especiais">
+      <created>1612721946504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612721946504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +132,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiras tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiras tags" />
+    <MESSAGE value="Compreendendo espaços vazios e comentários" />
+    <MESSAGE value="Adicionar caracteres especiais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionar caracteres especiais" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
