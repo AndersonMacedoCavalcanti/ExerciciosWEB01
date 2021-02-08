@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Meta tag">
-      <change afterPath="$PROJECT_DIR$/HTML/Unidade05-Textododocumento.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" afterDir="false" />
-    </list>
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adicionando Heading 1,2,3,4,5,6 e hgroup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +100,7 @@
       <workItem from="1612629081360" duration="2521000" />
       <workItem from="1612636987050" duration="2314000" />
       <workItem from="1612719239295" duration="5777000" />
-      <workItem from="1612822183620" duration="1540000" />
+      <workItem from="1612822183620" duration="1840000" />
     </task>
     <task id="LOCAL-00001" summary="primeiras tags">
       <created>1612720909764</created>
@@ -155,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612823338919</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adicionando Heading 1,2,3,4,5,6 e hgroup">
+      <created>1612823938346</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612823938346</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +184,8 @@
     <MESSAGE value="Aplicar SCRIPT javascript externo" />
     <MESSAGE value="Meta tag" />
     <MESSAGE value="Meta Refresh" />
-    <option name="LAST_COMMIT_MESSAGE" value="Meta Refresh" />
+    <MESSAGE value="Adicionando Heading 1,2,3,4,5,6 e hgroup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Heading 1,2,3,4,5,6 e hgroup" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
