@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Meta tag">
+      <change afterPath="$PROJECT_DIR$/HTML/Unidade05-Textododocumento.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" afterDir="false" />
     </list>
@@ -50,13 +51,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
+    </key>
+  </component>
   <component name="RunManager" selected="JavaScript Debug. HeadDoDocumento.html">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name=" HeadDoDocumento.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/HTML/ HeadDoDocumento.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -84,7 +104,7 @@
       <workItem from="1612629081360" duration="2521000" />
       <workItem from="1612636987050" duration="2314000" />
       <workItem from="1612719239295" duration="5777000" />
-      <workItem from="1612822183620" duration="923000" />
+      <workItem from="1612822183620" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="primeiras tags">
       <created>1612720909764</created>
@@ -128,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612723915056</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Meta Refresh">
+      <created>1612823338919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612823338919</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +180,8 @@
     <MESSAGE value="Aplicar CSS ao documento HTML" />
     <MESSAGE value="Aplicar SCRIPT javascript externo" />
     <MESSAGE value="Meta tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Meta tag" />
+    <MESSAGE value="Meta Refresh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Meta Refresh" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
