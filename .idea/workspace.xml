@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Aplicar SCRIPT javascript externo">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Meta tag">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/ HeadDoDocumento.html" afterDir="false" />
     </list>
@@ -57,17 +57,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="JavaScript Debug. HeadDoDocumento.html">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name=" HeadDoDocumento.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/HTML/ HeadDoDocumento.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -94,7 +83,8 @@
       <workItem from="1612397190413" duration="159000" />
       <workItem from="1612629081360" duration="2521000" />
       <workItem from="1612636987050" duration="2314000" />
-      <workItem from="1612719239295" duration="4528000" />
+      <workItem from="1612719239295" duration="5777000" />
+      <workItem from="1612822183620" duration="923000" />
     </task>
     <task id="LOCAL-00001" summary="primeiras tags">
       <created>1612720909764</created>
@@ -131,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612723350745</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Meta tag">
+      <created>1612723915056</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612723915056</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +144,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiras tags" />
@@ -154,7 +152,8 @@
     <MESSAGE value="Adicionar caracteres especiais" />
     <MESSAGE value="Aplicar CSS ao documento HTML" />
     <MESSAGE value="Aplicar SCRIPT javascript externo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aplicar SCRIPT javascript externo" />
+    <MESSAGE value="Meta tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Meta tag" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -8,10 +8,31 @@
     <meta name="Keywords" content="HTML, CURSO, FORNT"> <!--Palavra chaves da pagina-->
     <meta name="description" content="pagina do exercicio"> <!--Descricao da pagina-->
     <meta name="application-name" content="imedia brasil">
+    <meta http-equiv="refresh" content="2"> <!--Atualiza a pagina a cada 2 segundos-->
+
+    <!--Exemplo so para mostra o refresh refreshando-->
+
+    <style>
+        #number{
+            font-size: 50px;
+            margin-top: -1px;
+            margin-left: 40px;
+        }
+    </style>
+
+
+    <script>
+        function sorteioNumember(){
+            number.innerHTML = (Math.random() * 10).toFixed(0);
+        }
+        window.onload = sorteioNumember;
+    </script>
 
 
 </head>
 <body>
+<p>numero aleatorio</p>
+<p id="number"></p>
 <footer>
 
 </footer>
