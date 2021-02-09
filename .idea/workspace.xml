@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adicionando parágrafo">
-      <change beforePath="$PROJECT_DIR$/HTML/Unidade05-Textododocumento.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Unidade05-Textododocumento.html" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Criar um link para uma imagem">
+      <change afterPath="$PROJECT_DIR$/HTML/Unidade08-ComoCriarListas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/star_77949.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -60,21 +63,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug. HeadDoDocumento.html">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name=" HeadDoDocumento.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/HTML/ HeadDoDocumento.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -102,7 +95,9 @@
       <workItem from="1612629081360" duration="2521000" />
       <workItem from="1612636987050" duration="2314000" />
       <workItem from="1612719239295" duration="5777000" />
-      <workItem from="1612822183620" duration="2219000" />
+      <workItem from="1612822183620" duration="5584000" />
+      <workItem from="1612890010527" duration="642000" />
+      <workItem from="1612904654949" duration="5813000" />
     </task>
     <task id="LOCAL-00001" summary="primeiras tags">
       <created>1612720909764</created>
@@ -174,7 +169,98 @@
       <option name="project" value="LOCAL" />
       <updated>1612824313761</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Line Break">
+      <created>1612824535609</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612824535609</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Usar uma marcação - italico, destaque...">
+      <created>1612824788296</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612824788296</updated>
+    </task>
+    <task id="LOCAL-00013" summary=" Trabalhando com lista">
+      <created>1612825282436</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612825282436</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Usar as tags &quot;i&quot; e &quot;em&quot;">
+      <created>1612825861432</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1612825861432</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Usar as tags b e strong">
+      <created>1612826050077</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1612826050077</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Usando imagens">
+      <created>1612827163096</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1612827163096</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Alterando alinhamento da imagem">
+      <created>1612905586576</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1612905586576</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Alinhando imagem">
+      <created>1612906158044</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612906158044</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Utilizar os elementos figure e figcaption">
+      <created>1612906655102</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1612906655102</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Criar um hiperlink">
+      <created>1612907773689</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612907773689</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Compreender os links relativos">
+      <created>1612908081914</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1612908081914</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Criar um link para dentro da própria página">
+      <created>1612909417904</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1612909417904</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Criar um link para uma imagem">
+      <created>1612909715336</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1612909715336</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +279,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="primeiras tags" />
     <MESSAGE value="Compreendendo espaços vazios e comentários" />
     <MESSAGE value="Adicionar caracteres especiais" />
@@ -202,7 +289,20 @@
     <MESSAGE value="Meta Refresh" />
     <MESSAGE value="Adicionando Heading 1,2,3,4,5,6 e hgroup" />
     <MESSAGE value="Adicionando parágrafo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando parágrafo" />
+    <MESSAGE value="Line Break" />
+    <MESSAGE value="Usar uma marcação - italico, destaque..." />
+    <MESSAGE value=" Trabalhando com lista" />
+    <MESSAGE value="Usar as tags &quot;i&quot; e &quot;em&quot;" />
+    <MESSAGE value="Usar as tags b e strong" />
+    <MESSAGE value="Usando imagens" />
+    <MESSAGE value="Alterando alinhamento da imagem" />
+    <MESSAGE value="Alinhando imagem" />
+    <MESSAGE value="Utilizar os elementos figure e figcaption" />
+    <MESSAGE value="Criar um hiperlink" />
+    <MESSAGE value="Compreender os links relativos" />
+    <MESSAGE value="Criar um link para dentro da própria página" />
+    <MESSAGE value="Criar um link para uma imagem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criar um link para uma imagem" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
