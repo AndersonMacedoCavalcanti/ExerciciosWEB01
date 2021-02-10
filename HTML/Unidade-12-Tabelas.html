@@ -4,18 +4,44 @@
     <title>Unidade 12</title>
     <meta charset="UTF-8">
     <style>
-        #tb01{
-            width: 200px;
+        table{
+            width: 900px;
+            border-spacing: 0;
+            border-right: lightslategrey 1px solid;
         }
-        table td{
-            border-left: dodgerblue 1px solid;
-            border-bottom: dodgerblue 1px solid;
-            /*border-radius: 10px 10px; (para arredondar a borda)*/
-            padding: 5px 10px;
+        caption{
+            font-size: 30px;
+            font-family: "Arial Black",serif;
+            border: lightslategrey 1px solid;
+            background-color: lightgrey;
+        }
+
+        table tr {
+            margin: 10px;
+        }
+        td{
+            border: lightslategrey 0.1px solid;
+            border-right: none;
+            border-top: none;
             text-align: center;
-            background-color: cornflowerblue;
-            color: white;
+            padding: 5px 15px;
+            font-size: 20px;
         }
+
+        tbody tr:nth-child(odd){ /*even e para os pares, odd para os impares*/
+            background-color: gainsboro;
+        }
+
+        tfoot td{
+            color: darkgray;
+        }
+
+        thead td{
+            font-size: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+
     </style>
 </head>
 <body>
@@ -26,16 +52,63 @@
 
 
     <table id="tb01">
-        <tr> <!--Coluna-->
-            <td>Brasil</td> <!--linha-->
-            <td>01</td>
-        </tr>
+        <caption>Olimpiadas do Rio de Janeiro 2016</caption> <!--Titulo da tabela-->
+        <thead>
+            <tr>
+                <td></td>
+                <td>Ouro</td>
+                <td>Prata</td>
+                <td>Bronze</td>
+                <td>Total</td>
+            </tr>
+        </thead> <!--cabecario da tabela-->
+        <tfoot>
+            <tr>
+                <td></td>
+                <td>Ouro</td>
+                <td>Prata</td>
+                <td>Bronze</td>
+                <td>Total</td>
+            </tr>
+        </tfoot> <!--rodape da tabela-->
 
-        <tr>
-            <td>Canada</td>
-            <td>07</td>
+        <tbody>
+            <tr>
+                <td>Brasil</td>
+                <td>04</td>
+                <td>06</td>
+                <td>01</td>
+                <td>11</td>
 
-        </tr>
+            </tr>
+
+            <tr>
+                <td>Canada</td>
+                <td>10</td>
+                <td>08</td>
+                <td>01</td>
+                <td>19</td>
+
+            </tr>
+
+            <tr>
+                <td>Chile</td>
+                <td>03</td>
+                <td>03</td>
+                <td>01</td>
+                <td>07</td>
+
+            </tr>
+
+            <tr>
+                <td>EUA</td>
+                <td>02</td>
+                <td>01</td>
+                <td>06</td>
+                <td>09</td>
+
+            </tr>
+        </tbody> <!--corpo da tabela-->
     </table>
 
 
