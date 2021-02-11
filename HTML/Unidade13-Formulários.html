@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+    <title>Unidade 13</title>
+    <meta charset="UTF-8">
+    <style>
+
+        body {
+            width: 560px;
+            border: 1px solid #ddd;
+            margin: 10px auto;
+            background-color: #FFF;
+            padding: 10px 30px;
+            border-radius: 5px;
+        }
+
+        form{
+            width: 180px;
+        }
+        input{
+            height: 20px;
+            margin: 10px 5px;
+        }
+        label{
+            font-family: sans-serif,Arial;
+            font-size: 20px;
+            margin: 10px 5px;
+        }
+        #submit{
+            border-radius: 10px 10px;
+            height: 50px;
+            width: 80px;
+            color: #dddddd;
+            background-color: cornflowerblue;
+        }
+
+    </style>
+
+</head>
+<body>
+<header>
+    <nav></nav>
+</header>
+<main>
+
+    <section>
+    <form id="myForm" method="GET" action="https://java-spring-boot-aula01.herokuapp.com/users">
+
+        <label for="user">Nome Completo</label>
+        <input type="text" name="user" id="user" autocomplete="off" maxlength="50">
+        <label for="email">E-mail</label>
+        <input type="email" name="email" id="email" autocomplete="off" maxlength="100">
+        <label for="phone">phone</label>
+        <input type="tel" name="phone" id="phone" autocomplete="off" maxlength="13">
+        <label for="password">password</label>
+        <input type="password" name="password" id="password" autocomplete="off">
+        <input type="submit" value="Salvar" id="submit">
+    </form>
+    </section>
+
+
+    <section></section>
+    <article></article>
+    <aside></aside>
+</main>
+<footer></footer>
+</body>
+</html>
