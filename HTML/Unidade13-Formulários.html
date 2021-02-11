@@ -5,13 +5,18 @@
     <meta charset="UTF-8">
     <style>
 
+        section{
+            background-color: white;
+            padding: 20px 20px;
+            border-radius: 5px  5px;
+        }
+
         body {
             width: 560px;
             border: 1px solid #ddd;
             margin: 10px auto;
-            background-color: #FFF;
-            padding: 10px 30px;
-            border-radius: 5px;
+            background-color: #F0F0F0;
+            border-radius: 5px  5px;
         }
 
         form{
@@ -47,7 +52,7 @@
     <form id="myForm" method="GET" action="https://java-spring-boot-aula01.herokuapp.com/users">
 
         <label for="user">Nome Completo</label>
-        <input type="text" name="user" id="user" autocomplete="off" maxlength="50">
+        <input type="text" name="user" id="user" autocomplete="off" maxlength="50" placeholder="Insira seu nome" autofocus>
         <label for="email">E-mail</label>
         <input type="email" name="email" id="email" autocomplete="off" maxlength="100">
         <label for="phone">phone</label>
