@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Criar um link para uma imagem">
-      <change afterPath="$PROJECT_DIR$/HTML/Unidade08-ComoCriarListas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/star_77949.png" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Tabela semântica">
+      <change afterPath="$PROJECT_DIR$/HTML/Unidade13-Formulários.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/estruturahtml5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML" />
@@ -97,7 +96,9 @@
       <workItem from="1612719239295" duration="5777000" />
       <workItem from="1612822183620" duration="5584000" />
       <workItem from="1612890010527" duration="642000" />
-      <workItem from="1612904654949" duration="5813000" />
+      <workItem from="1612904654949" duration="7993000" />
+      <workItem from="1612992888930" duration="8361000" />
+      <workItem from="1613074990556" duration="6819000" />
     </task>
     <task id="LOCAL-00001" summary="primeiras tags">
       <created>1612720909764</created>
@@ -260,7 +261,77 @@
       <option name="project" value="LOCAL" />
       <updated>1612909715336</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Criação de listas">
+      <created>1612910537528</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1612910537528</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Criação de listas">
+      <created>1612910724256</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1612910724256</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Criação de sub-listas">
+      <created>1612910748800</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1612910748800</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Criação de menu vertical com listas">
+      <created>1612911556465</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1612911556465</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Criar um menu horizontal">
+      <created>1612911787075</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1612911787075</updated>
+    </task>
+    <task id="LOCAL-00029" summary="elementos estruturais do HTML5">
+      <created>1612995795006</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1612995795006</updated>
+    </task>
+    <task id="LOCAL-00030" summary="elementos estruturais do HTML5 - continuacao">
+      <created>1612996682392</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1612996682392</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Criando sua primeira tabela">
+      <created>1612998220432</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1612998220432</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Tabela semântica">
+      <created>1613000966402</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1613000966402</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Usando do colgroup e col">
+      <created>1613077757507</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1613077757507</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,12 +351,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="primeiras tags" />
-    <MESSAGE value="Compreendendo espaços vazios e comentários" />
-    <MESSAGE value="Adicionar caracteres especiais" />
-    <MESSAGE value="Aplicar CSS ao documento HTML" />
-    <MESSAGE value="Aplicar SCRIPT javascript externo" />
-    <MESSAGE value="Meta tag" />
     <MESSAGE value="Meta Refresh" />
     <MESSAGE value="Adicionando Heading 1,2,3,4,5,6 e hgroup" />
     <MESSAGE value="Adicionando parágrafo" />
@@ -302,7 +367,16 @@
     <MESSAGE value="Compreender os links relativos" />
     <MESSAGE value="Criar um link para dentro da própria página" />
     <MESSAGE value="Criar um link para uma imagem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criar um link para uma imagem" />
+    <MESSAGE value="Criação de listas" />
+    <MESSAGE value="Criação de sub-listas" />
+    <MESSAGE value="Criação de menu vertical com listas" />
+    <MESSAGE value="Criar um menu horizontal" />
+    <MESSAGE value="elementos estruturais do HTML5" />
+    <MESSAGE value="elementos estruturais do HTML5 - continuacao" />
+    <MESSAGE value="Criando sua primeira tabela" />
+    <MESSAGE value="Tabela semântica" />
+    <MESSAGE value="Usando do colgroup e col" />
+    <option name="LAST_COMMIT_MESSAGE" value="Usando do colgroup e col" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
