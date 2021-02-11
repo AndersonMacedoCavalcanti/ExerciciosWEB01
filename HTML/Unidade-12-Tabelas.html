@@ -29,7 +29,7 @@
         }
 
         tbody tr:nth-child(odd){ /*even e para os pares, odd para os impares*/
-            background-color: gainsboro;
+            background-color: #ddd;
         }
 
         tfoot td{
@@ -39,6 +39,18 @@
         thead td{
             font-size: 20px;
             font-family: Arial, sans-serif;
+        }
+
+        .coluna1{
+            background-color: #F0F0F0;
+        }
+
+        .coluna3{
+            background-color: #F0F0F0;
+        }
+
+        .coluna5{
+            background-color: #F0F0F0;
         }
 
 
@@ -52,6 +64,15 @@
 
 
     <table id="tb01">
+
+        <colgroup>
+            <col class="coluna1">
+            <col>
+            <col class="coluna3">
+            <col>
+            <col class="coluna5">
+        </colgroup>
+
         <caption>Olimpiadas do Rio de Janeiro 2016</caption> <!--Titulo da tabela-->
         <thead>
             <tr>
