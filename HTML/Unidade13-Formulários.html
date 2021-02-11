@@ -41,6 +41,12 @@
 
     </style>
 
+    <script>
+        function mostrarResultado() {
+            document.getElementById("resultado").innerHTML = document.getElementById("pessoas").value;
+        }
+    </script>
+
 </head>
 <body>
 <header>
@@ -73,6 +79,10 @@
             <option value="Nokia">Nokia</option>
             <option value="Samsung">Samsung</option>
         </datalist>
+
+        <label for="pessoas">Pessoas em Casa</label>
+        <input type="range" id="pessoas" name="pessoas" max="15" min="1" onchange="mostrarResultado()">
+        <span id="resultado"></span>
 
         <input type="submit" value="Salvar" id="submit">
     </form>
