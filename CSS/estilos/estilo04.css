@@ -13,6 +13,8 @@ p{
     text-indent: 1em; /*Paragrafo no texto*/
     line-height: 1.5; /*espacamento entre as linhas*/
     text-transform: capitalize; /*Primeiras letras maiusculas*/
+    letter-spacing: -0.1em; /*Espacamente das letras*/
+    word-spacing: 1.1em; /*Espacamento entre as palavras*/
 }
 #preco{
     text-decoration: line-through; /*Texto Riscado*/
