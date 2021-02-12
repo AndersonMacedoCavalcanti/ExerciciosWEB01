@@ -1,4 +1,21 @@
-p{
-    font-family: 'Hanalei', cursive;
-    font-size: 30px;
+body{
+    font-family: "Roboto Light",sans-serif;
 }
+
+h1{
+    font-size: 2.5em;
+    font-style: italic;
+}
+p{
+    font-size: 1.2em;
+    font-weight: 400; /*a forca do negrito*/
+    text-align: left; /*Alinhamento do texto, centro, direita etc*/
+    text-indent: 1em; /*Paragrafo no texto*/
+    line-height: 1.5; /*espacamento entre as linhas*/
+    text-transform: capitalize; /*Primeiras letras maiusculas*/
+}
+#preco{
+    text-decoration: line-through; /*Texto Riscado*/
+}
+
+
