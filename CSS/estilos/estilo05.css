@@ -33,4 +33,5 @@
     /*background: linear-gradient(to bottom,orangered,blueviolet,blue); /*linear = tipo de gradiente // to right = direcao // cores inicial e final*/
     /*background: linear-gradient(to left,orangered,blueviolet,blue); /*linear = tipo de gradiente // to right = direcao // cores inicial e final*/
     border-radius: 80px 20px 80px 90px;
+    transform: rotate(50deg); /*Rotacao*/
 }
