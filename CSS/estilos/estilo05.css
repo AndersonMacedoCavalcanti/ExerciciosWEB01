@@ -1,0 +1,12 @@
+#sombra{
+    margin: 10px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: gray 1px solid;
+    box-shadow:10px 10px 10px -5px silver; /*sombra lateral(valores positivos = sombra para direita e negativos = esquerda)//
+    sombra para baixo ou  cima// borra da sombra // aproximacao da parede // cor da sombra  */
+}
+#sombraTexto{
+    text-shadow: 2px 2px 10px red;
+}
