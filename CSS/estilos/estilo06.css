@@ -45,7 +45,8 @@ body{
     width: 100px;
     height: 100px;
     background-color: blue;
-    float: left;
+    float: right;
+
 
 }
 
@@ -55,6 +56,7 @@ body{
     height: 100px;
     background-color: yellow;
     float: left;
+    clear: both; /*o elemento nao tera ninguem a sua esquerda*/
 }
 
 #janela3{
@@ -62,6 +64,7 @@ body{
     width: 100px;
     height: 100px;
     background-color: red;
-    float: left;
+    float: right;
+    clear: left;
 
 }
