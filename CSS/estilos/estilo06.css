@@ -1,0 +1,28 @@
+
+body{
+    background-color: #F0F0F0;
+
+}
+
+#princial{
+    width: 750px;
+    margin: 0 auto; /*o auto centraliza*/
+    background-color: silver;
+    padding: 10px;
+    text-indent: 10px;
+}
+
+#princial:after{ /*forma para corrigir o tamanho da janela principal (aquele erro da janela subir)*/
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.janela{
+    width: 350px;
+    background-color: green;
+    padding: 5px;
+    float: left;
+    margin: 5px;
+
+}
