@@ -24,5 +24,44 @@ body{
     padding: 5px;
     float: left;
     margin: 5px;
+}
+
+#principal2{
+    background-color: bisque;
+    width: 750px;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+#principal2:after{
+    display: table;
+    content: "";
+    clear: both;
+}
+
+
+#janela1{
+    margin:20px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    float: left;
+
+}
+
+#janela2{
+    margin:20px;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+}
+
+#janela3{
+    margin:20px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: left;
 
 }
