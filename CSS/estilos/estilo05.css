@@ -22,3 +22,15 @@
     /*background: linear-gradient(to left,orangered,blueviolet,blue); /*linear = tipo de gradiente // to right = direcao // cores inicial e final*/
     border-radius: 80px 20px 80px 90px;
 }
+
+#gradienteRadial{
+    margin: 10px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    background: radial-gradient(blueviolet,blue); /*linear = tipo de gradiente // to right = direcao // cores inicial e final*/
+    /*background: linear-gradient(to top,orangered,blueviolet,blue); /*linear = tipo de gradiente // to right = direcao // cores inicial e final*/
+    /*background: linear-gradient(to bottom,orangered,blueviolet,blue); /*linear = tipo de gradiente // to right = direcao // cores inicial e final*/
+    /*background: linear-gradient(to left,orangered,blueviolet,blue); /*linear = tipo de gradiente // to right = direcao // cores inicial e final*/
+    border-radius: 80px 20px 80px 90px;
+}
