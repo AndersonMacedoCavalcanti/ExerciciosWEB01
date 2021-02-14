@@ -6,23 +6,104 @@
     <link href="estilos/estilo06.css" rel="stylesheet">
 </head>
 <body>
-<main>
-    <header>
-        <nav></nav>
-    </header>
+<header id="headerPrinc">
+    <div id="barra">
+        <div id="image">
+        <img id="logo" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI0LjMuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkNhbWFkYV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgMTAwMCAxMDAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxMDAwIDEwMDA7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojQ0MwMDAwO30KCS5zdDF7ZmlsbDojRkZGRkZGO30KPC9zdHlsZT4KPHJlY3QgY2xhc3M9InN0MCIgd2lkdGg9IjEwMDAiIGhlaWdodD0iMTAwMCIvPgo8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMjE0LDQxOS41YzAtNDIsMzQuMy03Ni4zLDc2LjMtNzYuM2g1Ny45di00Mi43aC01OC4zYy02Ni0xLjQtMTIwLjQsNTEuMi0xMjEuNSwxMTcuMgoJYy0xLjEsNjYsNTEuMiwxMjAuNCwxMTcuMiwxMjEuNWMxLjQsMCwyLjgsMCw0LjIsMGgxMTIuM2M2LTAuNCwxMC45LTUuMywxMS4zLTExLjNWMzA2LjVjLTAuNC0xMiw3LjQtMjIuMiwxOS4xLTI1LjQKCWM5LjktMi44LDIzLjMsMCwzMi41LDE1LjVMNTM1LDQxNy40YzMyLjgsNTYuOSw2Ny4xLDExNS44LDY3LjgsMTE2LjVjMy41LDYsOC41LDguOCwxMy4xLDcuNGMzLjktMS4xLDYuNC00LjksNi40LTguOHYtMjI2CgljLTAuNC0xMiw3LjQtMjIuMiwxOS4xLTI1LjRjOS41LTIuOCwyMy4zLDAsMzIuMSwxNS41YzAuNCwwLjcsMjQuNyw0Mi43LDY1LDExMS45YzM1LjMsNjEuMSw3MiwxMjQuMyw3Mi43LDEyNS43CgljMy41LDYsOC41LDguOCwxMy4xLDcuNGMzLjktMS4xLDYuNC00LjksNi40LTguOFYyMzkuOGgtNDMuMXYxNzQuMWMwLDAtNzIuNC0xMjQuNi03NS42LTEyOS45Yy00NS45LTc4LTEzMi40LTQ1LjktMTMyLjQsMjEuMgoJdjEwOC44YzAsMC03Mi40LTEyNC4zLTc1LjYtMTI5LjljLTQ1LjktNzgtMTMyLjQtNDUuOS0xMzIuOCwyMS4ydjE3OC43YzAsNi43LTQuOSwxMi0xMS43LDEyaC0wLjRoLTY4LjkKCUMyNDguMiw0OTUuOCwyMTQsNDYxLjksMjE0LDQxOS41TDIxNCw0MTkuNXoiLz4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTg0Ny4xLDIzOS44djI5Mi43YzAuNCwxMi03LjgsMjIuMi0xOS4xLDI1LjRjLTIuMSwwLjctNC42LDEuMS02LjcsMC43Yy04LjUsMC0xOC40LTQuMi0yNS44LTE2LjJsLTcyLjctMTI1LjcKCWwtNjQuNi0xMTEuOWMtMy41LTYtOC41LTguOC0xMi43LTcuNGMtMy45LDEuMS02LjQsNC45LTYuNCw4Ljh2MjI2YzAuNCwxMi03LjQsMjIuMi0xOS4xLDI1LjRjLTkuOSwyLjUtMjMuMywwLTMyLjUtMTUuNQoJbC02Ny44LTExNi45bC02OS45LTEyMC44Yy0zLjUtNi04LjUtOC44LTEzLjEtNy40Yy0zLjksMS4xLTYuNCw0LjktNi40LDguOHYyMjFjLTAuNCwxNS41LTEzLjEsMjguMi0yOC42LDI4LjZIMjg5LjkKCWMtNzUuNiwxLjEtMTM3LjctNTktMTM4LjgtMTM0LjVjLTEuMS03NS42LDU5LTEzNy43LDEzNC41LTEzOC44YzEuNCwwLDIuOCwwLDQuMiwwaDU4LjN2LTQyLjRoLTU4LjMKCWMtOTkuNi0xLjQtMTgxLjEsNzgtMTgyLjYsMTc3LjNzNzgsMTgwLjgsMTc3LjMsMTgyLjJjMS44LDAsMy41LDAsNC45LDBoMTEzLjNjNDMuMSwwLDcwLjYtMjUuMSw3MC42LTcxLjdWNDI1LjEKCWMwLDAsNzIuNCwxMjQuNiw3NS42LDEzMC4zYzQ1LjksNzgsMTMyLjQsNDUuNiwxMzIuNC0yMS41VjQyNS4xYzAsMCw3Mi40LDEyNC42LDc1LjYsMTMwLjNjNDUuOSw3OCwxMzIuNCw0NS42LDEzMi40LTIxLjVWMjM5LjgKCUg4NDcuMXoiLz4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTMxNSw2NTYuOGM2LDQuOSw5LjUsMTIuNyw4LjgsMjAuNWMwLDQuOS0xLjEsOS45LTMuOSwxNC4xYy0yLjUsNC4yLTYuNCw3LjQtMTAuNiw5LjVsMCwwCgljMTIsMi44LDIwLjEsMTQuMSwxOS40LDI2LjVjMC40LDYtMS44LDEyLjQtNC45LDE3LjNjLTMuNSw0LjktOC4xLDguNS0xMy44LDEwLjljLTYuNCwyLjUtMTMuMSwzLjktMTkuOCwzLjloLTUxLjlWNjUwLjFoNTAuNQoJQzMwMC41LDY0OS43LDMwOS4zLDY1MS44LDMxNSw2NTYuOHogTTI2Miw2NjguNHYyNC43aDI0YzMuOSwwLjQsNy44LTAuNywxMC45LTMuMmM0LjktNS4zLDQuOS0xMy40LDAtMTguNAoJYy0zLjItMi4xLTcuMS0zLjUtMTAuOS0zLjJMMjYyLDY2OC40eiBNMjYyLDcxMS45djI4LjZoMjcuNWM0LjIsMC40LDguNS0xLjEsMTItMy45YzUuMy02LDUuMy0xNS4yLDAtMjEuMmMtMy4yLTIuOC03LjQtNC4yLTEyLTMuOQoJTDI2Miw3MTEuOXoiLz4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTQ0MC4zLDc1Mi41YzAuNCwyLjUsMS4xLDQuNiwyLjEsNi43aC0yNC40Yy0xLjQtNC42LTIuMS05LjItMi44LTE0LjFsLTEuOC0xNC4xYzAtMy45LTEuOC03LjgtNC42LTEwLjYKCWMtMy41LTIuNS03LjQtMy41LTExLjctMy4yaC0yNHY0MmgtMjRWNjQ5LjdoNTAuNWMxMy4xLDAsMjMsMi44LDI5LjMsOC4xYzYuNCw1LjYsOS45LDE0LjEsOS41LDIzYzAsNS42LTEuNCwxMS43LTQuMiwxNi42CgljLTIuOCw0LjktNy40LDguNS0xMi40LDEwLjZjNC4yLDEuNCw4LjEsMy45LDEwLjYsNy40YzIuNSwzLjksNC4yLDguNSw0LjYsMTMuNGwxLjgsMTMuNEM0MzkuMyw3NDYuNSw0NDAsNzUwLDQ0MC4zLDc1Mi41egoJIE00MTMuOCw2ODMuNmMwLTEwLjItNi0xNS4yLTE4LTE1LjJoLTIzdjMwLjRoMjNDNDA3LjgsNjk4LjgsNDEzLjgsNjkzLjksNDEzLjgsNjgzLjZ6Ii8+CjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik01MzEuOCw3MzQuOGgtNDFsLTcuOCwyNC43aC0yNS44bDM2LjQtMTA5LjhoMzVsMzcuMSwxMDkuOGgtMjYuMUw1MzEuOCw3MzQuOHogTTUxMC42LDY2N2wtMTQuNSw0OS4xaDMwLjcKCUw1MTEuNyw2NjdINTEwLjZ6Ii8+CjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik02NDEuOSw2NTAuNGM2LDIuMSwxMC45LDYsMTQuOCwxMS4zYzMuNSw0LjksNS42LDEwLjksNS42LDE3LjNoLTI0LjRjLTAuNC0zLjktMi41LTcuNC01LjYtOS41CgljLTMuOS0yLjUtOC41LTMuNS0xMy40LTMuMmMtNC42LTAuNC05LjUsMS4xLTEzLjQsMy41Yy0zLjIsMi4xLTQuOSw1LjYtNC45LDkuMmMwLDIuOCwwLjcsNS4zLDIuOCw3LjRjMi4xLDEuOCw0LjYsMy4yLDcuNCwzLjUKCWwyNy45LDZjMTgsMy45LDI3LjIsMTQuMSwyNy4yLDMwLjdjMCw2LjctMS44LDEzLjEtNS4zLDE4LjRjLTMuOSw1LjMtOC44LDkuNS0xNS4yLDEyYy03LjEsMy4yLTE1LjIsNC42LTIzLDQuMgoJYy0xNC4xLDAtMjUuNC0zLjItMzMuOS05LjJjLTguMS01LjYtMTMuMS0xNS41LTEyLjctMjUuNHYtMS40aDI0djEuMWMwLDQuNiwyLjEsOC41LDUuNiwxMS4zYzQuOSwzLjIsMTAuNiw0LjYsMTYuMiw0LjIKCWM1LjMsMC40LDEwLjYtMS4xLDE1LjItMy45YzMuMi0yLjEsNC45LTYsNC45LTkuOWMwLTMuMi0xLjEtNi40LTMuNS04LjVjLTMuNS0yLjUtNy40LTQuMi0xMS43LTQuOWwtMjMuNy00LjkKCWMtMTcuNy0zLjUtMjYuMS0xMy44LTI2LjEtMzBjLTAuNC02LjcsMS44LTEzLjEsNS42LTE4LjRjMy45LTUuMyw5LjItOS4yLDE1LjUtMTEuN2M3LjEtMi44LDE0LjUtMy45LDIyLjItMy45CglDNjI3LjgsNjQ2LjIsNjM1LjIsNjQ3LjYsNjQxLjksNjUwLjR6Ii8+CjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik03MTMuMyw3NTkuNWgtMjQuN1Y2NDkuN2gyNC43Vjc1OS41eiIvPgo8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNzY1LjksNzM5LjRoNTEuNnYyMC4xaC03NS45VjY0OS43aDI0LjRWNzM5LjR6Ii8+Cjwvc3ZnPgo="
+             alt="logo cnn brasil" title="CNN BRASIL">
+        </div>
 
-    <div id="principal2">
-        <div id="janela1"></div>
-        <div id="janela2"></div>
-        <div id="janela3"></div>
+        <div id="naveg">
+            <nav id="navPrinc">
+            <ul>
+                <li><a href="https://www.cnnbrasil.com.br/ao-vivo">Ao Vivo</a></li>
+                <li><a href="https://www.cnnbrasil.com.br/politica">Politica</a></li>
+                <li><a href="https://www.cnnbrasil.com.br/nacional">Nacional</a></li>
+                <li><a href="https://www.cnnbrasil.com.br/business">Business</a></li>
+                <li><a href="https://www.cnnbrasil.com.br/internacional">Internacional</a></li>
+                <li><a href="https://www.cnnbrasil.com.br/saude">Saude</a></li>
+                <li><a href="https://www.cnnbrasil.com.br/tecnologia">Tecnologia</a></li>
+                <li><a href="https://www.cnnbrasil.com.br/esporte">Esporte</a></li>
+
+            </ul>
+        </nav>
     </div>
-
+        </div>
+</header>
+<main>
 
 
     <section></section>
-    <article></article>
+    <article id="article01">
+        <header>
+            <h1>Terremoto que atingiu região de Fukushima provoca abalo 10 anos depois no Japão</h1>
+            <p class="infoPost">Junko Ogura, da CNN<br>14 de fevereiro de 2021 às 05:00</p>
+        </header>
+        <figure>
+        <img src="../HTML/imagens/terremoto-causou-estragos-e-deixou-feridos-e-desabrigados.webp" alt="Imagem de rua destruida pelo terremoto" title="destruicao causada pelo terremoto">
+        <figcaption>
+            Terremoto causou estragos e deixou feridos e desabrigados<br>
+            <span class="authorIMG">Foto: Reuters</span>
+        </figcaption>
+        </figure>
+        <p>A Agência Meteorológica do Japão afirmou que considera o terremoto de sábado (13) na costa leste do país
+            como um abalo secundário do terremoto mortal de magnitude 9,0 que atingiu a mesma área há quase 10 anos.
+        </p>
+        <p> O terremoto de 11 de março de 2011 causou o pior desastre nuclear do país. Três reatores da usina
+            nuclear de Daiichi, em Fukushima, derreteram, liberando materiais radioativos no ar e forçando mais
+            de 100 mil pessoas a evacuarem a região.
+        </p>
+        <p>
+            Mais de 20 mil pessoas morreram ou desapareceram no terremoto e tsunami. Centenas de milhares perderam suas casas.
+        </p>
+        <p>
+            O primeiro-ministro do Japão, Yoshihide Suga, assegurou ao povo que, depois do terremoto de sábado, “nenhuma anormalidade” foi relatada nas usinas nucleares da região.
+        </p>
+        <p>
+            Falando a repórteres de seu escritório na manhã de domingo (14, no horário local), Suga disse que, embora os danos ainda
+            estejam sendo avaliados, vítimas graves não foram registradas. No entanto, ele pediu aos residentes da área afetada que
+            ficassem em casa e se preparassem para mais tremores secundários.
+        </p>
+
+
+    </article>
+
+    <article  id="article02">
+        <header>
+            <h1>Número de mortos sobe para 50 em inundação no Himalaia; 150 seguem desaparecidos
+            </h1>
+            <p class="infoPost">Saurabh Sharma, da Reuters
+                <br>14 de fevereiro de 2021 às 09:21
+            </p>
+        </header>
+        <figure>
+            <img src="../HTML/imagens/inundacao-provocada-pelo-deslizamento-de-uma-geleira-no-himalaia-no-norte-da-in.webp" alt="deslizamento" title="deslizamento">
+            <figcaption>
+                Inundação provocada pelo deslizamento de uma geleira no Himalaia, no Norte da Índia
+                <br>
+                <span class="authorIMG">Foto: REUTERS TV/via REUTERS</span>
+            </figcaption>
+        </figure>
+        <p>
+            As equipes de resgate retiraram mais nove corpos do local de uma enchente repentina na região do Himalaia, no norte da Índia, neste domingo (14). Uma semana após o desastre, o número de mortos aumenta para 50, com mais de 150 desaparecidos, disseram as autoridades.
+        </p>
+        <p>
+            A inundação repentina no estado de Uttarakhand, desencadeada pelo que os cientistas disseram que poderia ter sido uma grande avalanche de gelo da geleira, enviou água, rochas e detritos descendo o vale do rio Dhauliganga, destruindo barragens e pontes.
+        </p>
+        <p>
+            As equipes de resgate estão usando máquinas pesadas de escavação, na corrida para libertar dezenas de trabalhadores da construção de barragens presos em um túnel subterrâneo, conectado a um projeto hidrelétrico que está sendo construído pela estatal National Thermal Power Corporation.
+        </p>
+        <p>
+            "Ainda não perdemos todas as esperanças. Esperamos encontrar mais sobreviventes", disse à Reuters o alto funcionário do governo na região, Swati Bhadoriya. As autoridades disseram que 154 pessoas ainda estão desaparecidas.        </p>
+        <p>
+            Especialistas alertaram que ainda pode haver grandes quantidades de rochas, destroços, gelo e água que podem ser desalojados, tornando os esforços de resgate arriscados.
+        </p>
+    </article>
+
     <aside></aside>
-    <footer></footer>
+    <footer>
+        <small>© 2021 Cable News Network Brasil. Uma empresa NOVUS MÍDIA. Todos os direitos reservados.</small>
+    </footer>
 </main>
 </body>
 </html>
