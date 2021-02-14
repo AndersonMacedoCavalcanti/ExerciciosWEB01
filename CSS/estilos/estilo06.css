@@ -4,67 +4,37 @@ body{
 
 }
 
-#princial{
-    width: 750px;
-    margin: 0 auto; /*o auto centraliza*/
-    background-color: silver;
-    padding: 10px;
-    text-indent: 10px;
-}
-
-#princial:after{ /*forma para corrigir o tamanho da janela principal (aquele erro da janela subir)*/
-    content: "";
-    display: table;
-    clear: both;
-}
-
-.janela{
-    width: 350px;
-    background-color: green;
-    padding: 5px;
-    float: left;
-    margin: 5px;
-}
-
 #principal2{
     background-color: bisque;
     width: 750px;
     margin: 10px auto;
     padding: 10px;
+    overflow: hidden; /*outra forma de corrigir aquele erro da parte de tras subir e sair de tras dp objetos*/
 }
 
-#principal2:after{
-    display: table;
-    content: "";
-    clear: both;
+
+div{
+    float: left;
 }
 
 
 #janela1{
     margin:20px;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: blue;
-    float: right;
-
-
 }
 
 #janela2{
     margin:20px;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: yellow;
-    float: left;
-    clear: both; /*o elemento nao tera ninguem a sua esquerda*/
 }
 
 #janela3{
     margin:20px;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: red;
-    float: right;
-    clear: left;
-
 }
