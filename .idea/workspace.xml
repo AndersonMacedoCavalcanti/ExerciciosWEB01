@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Aplicar CSS grid - layout centro, lateral...">
-      <change afterPath="$PROJECT_DIR$/CSS/Unidade09-PageLayouts-LayoutAdaptivo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/estilos/estilo09.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Layout Flexivel">
+      <change beforePath="$PROJECT_DIR$/CSS/estilos/estilo09.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/estilos/estilo09.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,14 +104,7 @@
       <workItem from="1613242045553" duration="629000" />
       <workItem from="1613247889231" duration="7612000" />
       <workItem from="1613312858654" duration="16223000" />
-      <workItem from="1613401602286" duration="5769000" />
-    </task>
-    <task id="LOCAL-00017" summary="Alterando alinhamento da imagem">
-      <created>1612905586576</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1612905586576</updated>
+      <workItem from="1613401602286" duration="6088000" />
     </task>
     <task id="LOCAL-00018" summary="Alinhando imagem">
       <created>1612906158044</created>
@@ -451,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613406398734</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Layout Flexivel">
+      <created>1613407585606</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1613407585606</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +469,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adicionar um type range" />
     <MESSAGE value="Adicionar um type color" />
     <MESSAGE value="Adicionar um type search" />
     <MESSAGE value="subindo arquivos" />
@@ -496,7 +493,8 @@
     <MESSAGE value="Como aplicar Clip ( Máscara )" />
     <MESSAGE value="Controlar conteúdo com barra de rolagem" />
     <MESSAGE value="Aplicar CSS grid - layout centro, lateral..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Aplicar CSS grid - layout centro, lateral..." />
+    <MESSAGE value="Layout Flexivel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Layout Flexivel" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
