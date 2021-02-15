@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Layout Flexivel">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Configurando larguras&#10;máximas e mínimas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Unidade09-PageLayouts-LayoutAdaptivo.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Unidade09-PageLayouts-LayoutAdaptivo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/estilos/estilo09.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/estilos/estilo09.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/imagens/terremoto-causou-estragos-e-deixou-feridos-e-desabrigados.webp" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/imagens/terremoto-causou-estragos-e-deixou-feridos-e-desabrigados.webp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,14 +107,7 @@
       <workItem from="1613242045553" duration="629000" />
       <workItem from="1613247889231" duration="7612000" />
       <workItem from="1613312858654" duration="16223000" />
-      <workItem from="1613401602286" duration="6088000" />
-    </task>
-    <task id="LOCAL-00018" summary="Alinhando imagem">
-      <created>1612906158044</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1612906158044</updated>
+      <workItem from="1613401602286" duration="7715000" />
     </task>
     <task id="LOCAL-00019" summary="Utilizar os elementos figure e figcaption">
       <created>1612906655102</created>
@@ -449,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613407585606</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Configurando larguras&#10;máximas e mínimas">
+      <created>1613407752900</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1613407752900</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,7 +472,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adicionar um type color" />
     <MESSAGE value="Adicionar um type search" />
     <MESSAGE value="subindo arquivos" />
     <MESSAGE value=" CSS externo" />
@@ -494,7 +496,8 @@
     <MESSAGE value="Controlar conteúdo com barra de rolagem" />
     <MESSAGE value="Aplicar CSS grid - layout centro, lateral..." />
     <MESSAGE value="Layout Flexivel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Layout Flexivel" />
+    <MESSAGE value="Configurando larguras&#10;máximas e mínimas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configurando larguras&#10;máximas e mínimas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

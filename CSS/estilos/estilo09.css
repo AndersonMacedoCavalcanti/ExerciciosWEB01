@@ -14,7 +14,7 @@ article, aside, section, header,footer,nav{
 
 main{
     width: 75%;
-    height: 1080px;
+    height: 100%;
     margin: 0 auto;
     box-shadow:silver 0 0 10px;
     background-color: white;
@@ -56,8 +56,7 @@ li{
 
 #esquerda{
     width: 66%;
-    height: 1000px;
-    background-color: aquamarine;
+    height: 92.7%;
     float: left;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -66,12 +65,29 @@ li{
 
 #direita{
     width: 32%;
-    height: 1000px;
-    background-color: aqua;
+    height: 92.7%;
     float: left;
     margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#terremoto{
+    margin: 10% 13% 5%;
+    width: 80%;
+    height: 60%;
+}
+
+#terremoto2{
+    margin: 10% 13% 5%;
+    width: 70%;
+    height: 20%;
+}
+
+
+p{
+    margin: 0 4%;
+    text-indent: 1%;
 }
 
 footer{
