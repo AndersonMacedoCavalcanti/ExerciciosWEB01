@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adicionar um type range">
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/estruturahtml5.png" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Controlar conteúdo com barra de rolagem">
+      <change afterPath="$PROJECT_DIR$/CSS/Unidade08-PageLayouts-LayoutFixo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/estilos/estilo08.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/cnn.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/Unidade13-Formulários.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/Unidade13-Formulários.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/estilos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
@@ -60,6 +61,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS\estilos" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -98,112 +101,13 @@
       <workItem from="1612890010527" duration="642000" />
       <workItem from="1612904654949" duration="7993000" />
       <workItem from="1612992888930" duration="8361000" />
-      <workItem from="1613074990556" duration="9408000" />
-    </task>
-    <task id="LOCAL-00001" summary="primeiras tags">
-      <created>1612720909764</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1612720909764</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Compreendendo espaços vazios e comentários">
-      <created>1612721816298</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1612721816298</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Adicionar caracteres especiais">
-      <created>1612721946504</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1612721946504</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Aplicar CSS ao documento HTML">
-      <created>1612722626703</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1612722626703</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Aplicar SCRIPT javascript externo">
-      <created>1612723350745</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1612723350745</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Meta tag">
-      <created>1612723915056</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1612723915056</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Meta Refresh">
-      <created>1612823338919</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1612823338919</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Adicionando Heading 1,2,3,4,5,6 e hgroup">
-      <created>1612823938346</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1612823938346</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Adicionando parágrafo">
-      <created>1612824298502</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1612824298502</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Adicionando parágrafo">
-      <created>1612824313761</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1612824313761</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Line Break">
-      <created>1612824535609</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1612824535609</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Usar uma marcação - italico, destaque...">
-      <created>1612824788296</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1612824788296</updated>
-    </task>
-    <task id="LOCAL-00013" summary=" Trabalhando com lista">
-      <created>1612825282436</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1612825282436</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Usar as tags &quot;i&quot; e &quot;em&quot;">
-      <created>1612825861432</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1612825861432</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Usar as tags b e strong">
-      <created>1612826050077</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1612826050077</updated>
+      <workItem from="1613074990556" duration="12142000" />
+      <workItem from="1613165517433" duration="60000" />
+      <workItem from="1613165799484" duration="3793000" />
+      <workItem from="1613242045553" duration="629000" />
+      <workItem from="1613247889231" duration="7612000" />
+      <workItem from="1613312858654" duration="16223000" />
+      <workItem from="1613401602286" duration="4457000" />
     </task>
     <task id="LOCAL-00016" summary="Usando imagens">
       <created>1612827163096</created>
@@ -380,7 +284,175 @@
       <option name="project" value="LOCAL" />
       <updated>1613085475702</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Adicionar um type color">
+      <created>1613085673935</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1613085673935</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Adicionar um type search">
+      <created>1613085811720</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1613085811720</updated>
+    </task>
+    <task id="LOCAL-00043" summary="subindo arquivos">
+      <created>1613085872331</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1613085872331</updated>
+    </task>
+    <task id="LOCAL-00044" summary=" CSS externo">
+      <created>1613088139840</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1613088139840</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Propriedade de cascata">
+      <created>1613088397020</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1613088397020</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Web Fonts">
+      <created>1613166686273</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1613166686273</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Web Fonts">
+      <created>1613168907025</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1613168907025</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Espaçamento entre linhas e palavras">
+      <created>1613169192920</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1613169192920</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Sombra">
+      <created>1613252875592</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1613252875592</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Gradiente Linear">
+      <created>1613253824723</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1613253824724</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Gradiente Radial">
+      <created>1613254050244</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1613254050244</updated>
+    </task>
+    <task id="LOCAL-00052" summary="tecnica layout janelas">
+      <created>1613255299076</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1613255299076</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Rotacao de formas">
+      <created>1613256138163</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1613256138163</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Elementos Floats">
+      <created>1613257087251</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1613257087251</updated>
+    </task>
+    <task id="LOCAL-00055" summary=" Compreender o Clear">
+      <created>1613257457966</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1613257457966</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Controlando elementos com overflow">
+      <created>1613313341887</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1613313341888</updated>
+    </task>
+    <task id="LOCAL-00057" summary="teste com layout e menu">
+      <created>1613326560446</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1613326560509</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Static Positioning">
+      <created>1613327173791</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1613327173791</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Relative positioning">
+      <created>1613327462195</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1613327462195</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Absolute positioning">
+      <created>1613327894265</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1613327894265</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Fixed Positioning">
+      <created>1613328054518</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1613328054518</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Controlando profundidade">
+      <created>1613328471875</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1613328471875</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Como aplicar Clip ( Máscara )">
+      <created>1613328927896</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1613328927896</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Controlar conteúdo com barra de rolagem">
+      <created>1613329185527</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1613329185527</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,32 +472,32 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Usar as tags &quot;i&quot; e &quot;em&quot;" />
-    <MESSAGE value="Usar as tags b e strong" />
-    <MESSAGE value="Usando imagens" />
-    <MESSAGE value="Alterando alinhamento da imagem" />
-    <MESSAGE value="Alinhando imagem" />
-    <MESSAGE value="Utilizar os elementos figure e figcaption" />
-    <MESSAGE value="Criar um hiperlink" />
-    <MESSAGE value="Compreender os links relativos" />
-    <MESSAGE value="Criar um link para dentro da própria página" />
-    <MESSAGE value="Criar um link para uma imagem" />
-    <MESSAGE value="Criação de listas" />
-    <MESSAGE value="Criação de sub-listas" />
-    <MESSAGE value="Criação de menu vertical com listas" />
-    <MESSAGE value="Criar um menu horizontal" />
-    <MESSAGE value="elementos estruturais do HTML5" />
-    <MESSAGE value="elementos estruturais do HTML5 - continuacao" />
-    <MESSAGE value="Criando sua primeira tabela" />
-    <MESSAGE value="Tabela semântica" />
-    <MESSAGE value="Usando do colgroup e col" />
-    <MESSAGE value="Criação de um formulário simples" />
-    <MESSAGE value="Adicionar um placeholder e um autofocus/ajuste no css" />
-    <MESSAGE value="Adicionar um campo de número" />
-    <MESSAGE value="Adicionar um campo datepicker" />
     <MESSAGE value="Adicionar um datalist ao um input text" />
     <MESSAGE value="Adicionar um type range" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionar um type range" />
+    <MESSAGE value="Adicionar um type color" />
+    <MESSAGE value="Adicionar um type search" />
+    <MESSAGE value="subindo arquivos" />
+    <MESSAGE value=" CSS externo" />
+    <MESSAGE value="Propriedade de cascata" />
+    <MESSAGE value="Web Fonts" />
+    <MESSAGE value="Espaçamento entre linhas e palavras" />
+    <MESSAGE value="Sombra" />
+    <MESSAGE value="Gradiente Linear" />
+    <MESSAGE value="Gradiente Radial" />
+    <MESSAGE value="tecnica layout janelas" />
+    <MESSAGE value="Rotacao de formas" />
+    <MESSAGE value="Elementos Floats" />
+    <MESSAGE value=" Compreender o Clear" />
+    <MESSAGE value="Controlando elementos com overflow" />
+    <MESSAGE value="teste com layout e menu" />
+    <MESSAGE value="Static Positioning" />
+    <MESSAGE value="Relative positioning" />
+    <MESSAGE value="Absolute positioning" />
+    <MESSAGE value="Fixed Positioning" />
+    <MESSAGE value="Controlando profundidade" />
+    <MESSAGE value="Como aplicar Clip ( Máscara )" />
+    <MESSAGE value="Controlar conteúdo com barra de rolagem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Controlar conteúdo com barra de rolagem" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
