@@ -1,8 +1,9 @@
-var a = 5;
-var b = 5;
+var cpf = "335.466.845.33";
+var numeros = 333;
 
-if(a === b){
-    console.log("sao iguais")
-}else {
-    console.log("nao sao iguais")
+if( cpf === numeros){
+    console.log("elas SAO super iguais")
+}else{
+    console.log("elas NAO sao super iguais")
+
 }
