@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Controlar conteúdo com barra de rolagem">
-      <change afterPath="$PROJECT_DIR$/CSS/Unidade08-PageLayouts-LayoutFixo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/estilos/estilo08.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/cnn.svg" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Aplicar CSS grid - layout centro, lateral...">
+      <change afterPath="$PROJECT_DIR$/CSS/Unidade09-PageLayouts-LayoutAdaptivo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/estilos/estilo09.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/estilos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
@@ -61,8 +60,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -107,14 +106,7 @@
       <workItem from="1613242045553" duration="629000" />
       <workItem from="1613247889231" duration="7612000" />
       <workItem from="1613312858654" duration="16223000" />
-      <workItem from="1613401602286" duration="4457000" />
-    </task>
-    <task id="LOCAL-00016" summary="Usando imagens">
-      <created>1612827163096</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1612827163096</updated>
+      <workItem from="1613401602286" duration="5769000" />
     </task>
     <task id="LOCAL-00017" summary="Alterando alinhamento da imagem">
       <created>1612905586576</created>
@@ -452,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613329185527</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Aplicar CSS grid - layout centro, lateral...">
+      <created>1613406398723</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1613406398734</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +471,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adicionar um datalist ao um input text" />
     <MESSAGE value="Adicionar um type range" />
     <MESSAGE value="Adicionar um type color" />
     <MESSAGE value="Adicionar um type search" />
@@ -497,7 +495,8 @@
     <MESSAGE value="Controlando profundidade" />
     <MESSAGE value="Como aplicar Clip ( Máscara )" />
     <MESSAGE value="Controlar conteúdo com barra de rolagem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Controlar conteúdo com barra de rolagem" />
+    <MESSAGE value="Aplicar CSS grid - layout centro, lateral..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aplicar CSS grid - layout centro, lateral..." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
