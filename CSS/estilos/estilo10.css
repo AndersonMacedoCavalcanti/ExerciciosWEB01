@@ -1,49 +1,19 @@
-nav ul{
+ul{
     margin: 0;
     padding: 0;
-    text-align: center; /*centraliza os texto*/
-}
-nav{
-    width: 600px;
-    margin: 0 auto;
+    list-style: none;
 }
 
-nav ul li{
-float: left;
-    display: inline-block;
-    position: relative;
-
+ul li{
+    width: 200px;
+    padding: 5px;
+    background: #ddd;
+    margin-bottom: 1px;
 }
 
-nav ul li a{
-    display: inline-block;
-    text-decoration: none;
-    color: darkslategrey;
-    background-color: #F0F0F0;
-    padding: 5px 10px;
-    border: darkslategrey 1px solid;
-    margin-right: -5px; /*coloca uma linha em cima da outra para ela nao engrossar */
-    width: 100px;
+ul li:nth-child(2n+1) { /*voce pode usar pulos (2n = 2 em 2 ou 3n ..... pode adicionar +1 para pegar o primeiro
+elemento tambem (2n+1))*/
+    background-color: darkcyan;
 
-}
-
-nav ul li a:hover{
-    background-color: darkolivegreen;
-
-}
-
-nav ul li ul {
-    display: none; /*esconde os submenus*/
-    position: absolute; /*para os itens do submenu ficarem um a baixo do outro*/
-    padding: 5px 0;
-}
-
-nav ul li:hover ul {
-    display: block; /*faz aparecer o menu*/
-}
-
-nav ul li ul li a{
-    width: 96px;
-    margin-bottom: -5px; /*coloca uma linha em cima da outra para ela nao engrossar */
 
 }

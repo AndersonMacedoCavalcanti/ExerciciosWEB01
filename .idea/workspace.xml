@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Criar um menu horizontal">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Criar um menu Drop Down - submenu escondido">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/Unidade10-ListaMania.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Unidade10-ListaMania.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/estilos/estilo10.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/estilos/estilo10.css" afterDir="false" />
@@ -106,14 +106,7 @@
       <workItem from="1613242045553" duration="629000" />
       <workItem from="1613247889231" duration="7612000" />
       <workItem from="1613312858654" duration="16223000" />
-      <workItem from="1613401602286" duration="12161000" />
-    </task>
-    <task id="LOCAL-00025" summary="Criação de listas">
-      <created>1612910724256</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1612910724256</updated>
+      <workItem from="1613401602286" duration="12788000" />
     </task>
     <task id="LOCAL-00026" summary="Criação de sub-listas">
       <created>1612910748800</created>
@@ -451,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613412178637</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Criar um menu Drop Down - submenu escondido">
+      <created>1613414069249</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1613414069249</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +471,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Sombra" />
     <MESSAGE value="Gradiente Linear" />
     <MESSAGE value="Gradiente Radial" />
     <MESSAGE value="tecnica layout janelas" />
@@ -496,7 +495,8 @@
     <MESSAGE value=" Personalizar primeira, última e&#10;qualquer ocorrência da lista." />
     <MESSAGE value="Criar um menu vertical" />
     <MESSAGE value="Criar um menu horizontal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criar um menu horizontal" />
+    <MESSAGE value="Criar um menu Drop Down - submenu escondido" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criar um menu Drop Down - submenu escondido" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
