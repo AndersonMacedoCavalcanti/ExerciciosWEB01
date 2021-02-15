@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Criar elementos com cores alternadas">
-      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/PrincípiosBásicos.js" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Compreender Loops">
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade04-Funções.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.PrincípiosBásicos.js">
+  <component name="RunManager" selected="Node.js.Unidade04-Funções.js">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -91,8 +91,12 @@
     <configuration name="PrincípiosBásicos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/PrincípiosBásicos.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
       <method v="2" />
     </configuration>
+    <configuration name="Unidade04-Funções.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade04-Funções.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Unidade04-Funções.js" />
         <item itemvalue="Node.js.PrincípiosBásicos.js" />
         <item itemvalue="JavaScript Debug. HeadDoDocumento.html" />
         <item itemvalue="JavaScript Debug.PrimeirasTags.html" />
@@ -124,28 +128,7 @@
       <workItem from="1613247889231" duration="7612000" />
       <workItem from="1613312858654" duration="16223000" />
       <workItem from="1613401602286" duration="12841000" />
-      <workItem from="1613425116847" duration="1418000" />
-    </task>
-    <task id="LOCAL-00027" summary="Criação de menu vertical com listas">
-      <created>1612911556465</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1612911556465</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Criar um menu horizontal">
-      <created>1612911787075</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1612911787075</updated>
-    </task>
-    <task id="LOCAL-00029" summary="elementos estruturais do HTML5">
-      <created>1612995795006</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1612995795006</updated>
+      <workItem from="1613425116847" duration="4253000" />
     </task>
     <task id="LOCAL-00030" summary="elementos estruturais do HTML5 - continuacao">
       <created>1612996682392</created>
@@ -469,7 +452,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613414491565</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Operadores de Comparação e ação condicional&#10;IF-ELSE">
+      <created>1613426777569</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1613426777573</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Operadores de Comparação de Tipos">
+      <created>1613427054866</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1613427054866</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Compreender Loops">
+      <created>1613428583963</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1613428583963</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,9 +493,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Gradiente Radial" />
-    <MESSAGE value="tecnica layout janelas" />
-    <MESSAGE value="Rotacao de formas" />
     <MESSAGE value="Elementos Floats" />
     <MESSAGE value=" Compreender o Clear" />
     <MESSAGE value="Controlando elementos com overflow" />
@@ -514,7 +515,10 @@
     <MESSAGE value="Criar um menu horizontal" />
     <MESSAGE value="Criar um menu Drop Down - submenu escondido" />
     <MESSAGE value="Criar elementos com cores alternadas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criar elementos com cores alternadas" />
+    <MESSAGE value="Operadores de Comparação e ação condicional&#10;IF-ELSE" />
+    <MESSAGE value="Operadores de Comparação de Tipos" />
+    <MESSAGE value="Compreender Loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compreender Loops" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
