@@ -1,0 +1,10 @@
+ul, ol{
+    background-color: aqua;
+}
+
+li{
+    background-color: midnightblue;
+    color: white;
+    padding: 5px;
+    list-style-position: inside; /*coloca os elementos dentro do li*/
+}

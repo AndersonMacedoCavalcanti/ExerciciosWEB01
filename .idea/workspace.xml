@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Configurando larguras&#10;máximas e mínimas">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Redimensionar imagens">
+      <change afterPath="$PROJECT_DIR$/CSS/Unidade10-ListaMania.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/estilos/estilo10.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Unidade09-PageLayouts-LayoutAdaptivo.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Unidade09-PageLayouts-LayoutAdaptivo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/estilos/estilo09.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/estilos/estilo09.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/imagens/terremoto-causou-estragos-e-deixou-feridos-e-desabrigados.webp" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/imagens/terremoto-causou-estragos-e-deixou-feridos-e-desabrigados.webp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/estilos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
@@ -61,8 +60,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS\estilos" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -107,14 +106,7 @@
       <workItem from="1613242045553" duration="629000" />
       <workItem from="1613247889231" duration="7612000" />
       <workItem from="1613312858654" duration="16223000" />
-      <workItem from="1613401602286" duration="7715000" />
-    </task>
-    <task id="LOCAL-00019" summary="Utilizar os elementos figure e figcaption">
-      <created>1612906655102</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1612906655102</updated>
+      <workItem from="1613401602286" duration="8628000" />
     </task>
     <task id="LOCAL-00020" summary="Criar um hiperlink">
       <created>1612907773689</created>
@@ -452,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613407752900</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Redimensionar imagens">
+      <created>1613409427318</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1613409427318</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +471,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adicionar um type search" />
     <MESSAGE value="subindo arquivos" />
     <MESSAGE value=" CSS externo" />
     <MESSAGE value="Propriedade de cascata" />
@@ -497,7 +495,8 @@
     <MESSAGE value="Aplicar CSS grid - layout centro, lateral..." />
     <MESSAGE value="Layout Flexivel" />
     <MESSAGE value="Configurando larguras&#10;máximas e mínimas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configurando larguras&#10;máximas e mínimas" />
+    <MESSAGE value="Redimensionar imagens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redimensionar imagens" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
