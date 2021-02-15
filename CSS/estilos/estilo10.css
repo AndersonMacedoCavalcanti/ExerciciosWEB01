@@ -1,12 +1,23 @@
-ol{
-    list-style-type: lower-latin;
-}
 
 ul{
     list-style-type: circle;
 
 }
-li{
+li:first-child{ /*aplica ao primeiro elemento*/
     background-color: aliceblue;
     padding: 5px;
+    color: midnightblue;
 }
+
+li:last-child{ /*aplica ao ultimo elemento*/
+    background-color: aliceblue;
+    padding: 5px;
+    color: brown;
+}
+
+li:nth-child(3){ /*aplica ao numero do elemento no caso o terceiro elemento ou usar o (odd) impares e (even) pares*/
+    background-color: aliceblue;
+    padding: 5px;
+    color: orangered;
+}
+
