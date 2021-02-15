@@ -1,9 +1,44 @@
-var cpf = "335.466.845.33";
-var numeros = 333;
 
-if( cpf === numeros){
-    console.log("elas SAO super iguais")
-}else{
-    console.log("elas NAO sao super iguais")
+//------------------ While ---------------------
+console.log("------------------------------------------------------------")
 
+
+
+
+var numero = 0;
+
+while (numero<=10){
+    console.log(numero)
+    numero++
 }
+
+//---------------For ---------------------------
+console.log("------------------------------------------------------------")
+
+
+
+
+
+var list = ["anderson","macedo","cavalcanti"]
+
+for (var i = 0; i<3;i++){
+    console.log(list[i])
+}
+
+
+//----------------------DO While-------------------------
+
+console.log("------------------------------------------------------------")
+
+
+
+
+var numero2 = 0
+
+do{
+    numero2++
+    console.log("ok")
+
+}while (numero2<10){
+}
+
