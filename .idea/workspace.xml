@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Redimensionar imagens">
-      <change afterPath="$PROJECT_DIR$/CSS/Unidade10-ListaMania.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/estilos/estilo10.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="list-style-position: inside;">
+      <change beforePath="$PROJECT_DIR$/CSS/Unidade10-ListaMania.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Unidade10-ListaMania.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/estilos/estilo10.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/estilos/estilo10.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,14 +105,7 @@
       <workItem from="1613242045553" duration="629000" />
       <workItem from="1613247889231" duration="7612000" />
       <workItem from="1613312858654" duration="16223000" />
-      <workItem from="1613401602286" duration="8628000" />
-    </task>
-    <task id="LOCAL-00020" summary="Criar um hiperlink">
-      <created>1612907773689</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1612907773689</updated>
+      <workItem from="1613401602286" duration="8938000" />
     </task>
     <task id="LOCAL-00021" summary="Compreender os links relativos">
       <created>1612908081914</created>
@@ -451,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613409427318</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="list-style-position: inside;">
+      <created>1613410351846</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1613410351846</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +470,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="subindo arquivos" />
     <MESSAGE value=" CSS externo" />
     <MESSAGE value="Propriedade de cascata" />
     <MESSAGE value="Web Fonts" />
@@ -496,7 +494,8 @@
     <MESSAGE value="Layout Flexivel" />
     <MESSAGE value="Configurando larguras&#10;máximas e mínimas" />
     <MESSAGE value="Redimensionar imagens" />
-    <option name="LAST_COMMIT_MESSAGE" value="Redimensionar imagens" />
+    <MESSAGE value="list-style-position: inside;" />
+    <option name="LAST_COMMIT_MESSAGE" value="list-style-position: inside;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
