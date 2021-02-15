@@ -1,23 +1,23 @@
-
-ul{
-    list-style-type: circle;
-
-}
-li:first-child{ /*aplica ao primeiro elemento*/
-    background-color: aliceblue;
-    padding: 5px;
-    color: midnightblue;
+nav ul{
+    margin: 0;
+    padding: 0;
 }
 
-li:last-child{ /*aplica ao ultimo elemento*/
-    background-color: aliceblue;
-    padding: 5px;
-    color: brown;
+nav ul li{
+    list-style-type: none; /*removendo o estilo de lista*/
 }
 
-li:nth-child(3){ /*aplica ao numero do elemento no caso o terceiro elemento ou usar o (odd) impares e (even) pares*/
-    background-color: aliceblue;
-    padding: 5px;
-    color: orangered;
+nav ul li a{
+    text-decoration: none; /*removendo o sublinhado do texto*/
+    background-color: darkslategrey;
+    color: white;
+    padding: 5px; /*espaco interno dos elementos*/
+    margin: 1px; /*espaco entre o menu*/
+    display: block; /*para que os elementos ocupem seus lugares uma abaixo do outro*/
+    width: 200px;
 }
 
+nav ul li a:hover{
+    background-color: darkolivegreen;
+
+}
