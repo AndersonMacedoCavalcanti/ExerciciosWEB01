@@ -1,10 +1,14 @@
 nav ul{
     margin: 0;
     padding: 0;
+    text-align: center; /*centraliza os texto*/
 }
 
 nav ul li{
     list-style-type: none; /*removendo o estilo de lista*/
+    display: inline-block; /*coloca um ao lado do outro e ocupando o seu proprio espaco*/
+    text-align: center; /*centraliza os texto*/
+
 }
 
 nav ul li a{
@@ -12,9 +16,9 @@ nav ul li a{
     background-color: darkslategrey;
     color: white;
     padding: 5px; /*espaco interno dos elementos*/
-    margin: 1px; /*espaco entre o menu*/
-    display: block; /*para que os elementos ocupem seus lugares uma abaixo do outro*/
-    width: 200px;
+    width: 100px;
+    display: inline-block; /*deixa o objeto ocupando o seu proprio espaco*/ /*Possui por padrao 3 a 4 pixels de separacao*/
+    margin-right: -2px;
 }
 
 nav ul li a:hover{
