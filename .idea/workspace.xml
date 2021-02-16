@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Como trabalhar com toLowerCase e toUpperCase">
-      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade08-Date.js" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="correcao toUpperCase / trabalhando com datas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVASCRIPT/Unidade07-Strings.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade07-Strings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASCRIPT/Unidade08-Date.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade08-Date.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,35 +131,7 @@
       <workItem from="1613312858654" duration="16223000" />
       <workItem from="1613401602286" duration="12841000" />
       <workItem from="1613425116847" duration="6780000" />
-      <workItem from="1613438612943" duration="8919000" />
-    </task>
-    <task id="LOCAL-00037" summary="Adicionar um campo de número">
-      <created>1613084012738</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1613084012738</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Adicionar um campo datepicker">
-      <created>1613084348224</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1613084348224</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Adicionar um datalist ao um input text">
-      <created>1613084766987</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1613084766987</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Adicionar um type range">
-      <created>1613085475702</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1613085475702</updated>
+      <workItem from="1613438612943" duration="9654000" />
     </task>
     <task id="LOCAL-00041" summary="Adicionar um type color">
       <created>1613085673935</created>
@@ -477,7 +448,35 @@
       <option name="project" value="LOCAL" />
       <updated>1613445498692</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Como trabalhar com Data">
+      <created>1613447833070</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1613447833070</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Como trabalhar com Data">
+      <created>1613447895613</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1613447895613</updated>
+    </task>
+    <task id="LOCAL-00088" summary="correcao">
+      <created>1613447919479</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1613447919480</updated>
+    </task>
+    <task id="LOCAL-00089" summary="correcao toUpperCase / trabalhando com datas">
+      <created>1613447984631</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1613447984631</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,9 +496,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fixed Positioning" />
-    <MESSAGE value="Controlando profundidade" />
-    <MESSAGE value="Como aplicar Clip ( Máscara )" />
     <MESSAGE value="Controlar conteúdo com barra de rolagem" />
     <MESSAGE value="Aplicar CSS grid - layout centro, lateral..." />
     <MESSAGE value="Layout Flexivel" />
@@ -522,7 +518,10 @@
     <MESSAGE value="Como trabalhar com charAt&#10;e split" />
     <MESSAGE value="Como trabalhar com substr" />
     <MESSAGE value="Como trabalhar com toLowerCase e toUpperCase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Como trabalhar com toLowerCase e toUpperCase" />
+    <MESSAGE value="correcao" />
+    <MESSAGE value="Como trabalhar com Data" />
+    <MESSAGE value="correcao toUpperCase / trabalhando com datas" />
+    <option name="LAST_COMMIT_MESSAGE" value="correcao toUpperCase / trabalhando com datas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
