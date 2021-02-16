@@ -7,9 +7,10 @@
     <script src="jqueryScript/jquery-3.5.1.min.js"></script>
     <script>
         $(function () {
-            $("h1").html("Formacao Desenvolvimento WEB Completo"); // adicionando valor dentro de um elemento ja existente
-            $("ul#listaCursos").append("<li>Curso Bootstrap Fundamental</li>"); // criando e adicionado um novo elemento - (append - adicona no final)
-            $("ul#listaCursos").prepend("<li>Curso Bootstrap Fundamental</li>");// criando e adicionado um novo elemento - (prepend - adicona no comeco)
+            $("a").attr("title","Alpes suicos"); // Adicionar atributos usando attr
+            $("a").attr("target","_blank");
+            $("a").removeAttr("target") // remover atributos
+
 
         })
     </script>
@@ -20,14 +21,8 @@
         <nav>
         </nav>
     </header>
-    <h1></h1>
-    <ul id="listaCursos">
-        <li>Curso HTML5 Essencial</li>
-        <li>Curso CSS3 Essencial</li>
-        <li>Curso Javascript Essencial</li>
-        <li>Curso jQuery Fundamental</li>
 
-    </ul>
+    <a href="../HTML/imagens/estruturahtml5.png"><img src="../HTML/imagens/estruturahtml5.png" alt=""></a>
 
     <section></section>
     <article></article>
