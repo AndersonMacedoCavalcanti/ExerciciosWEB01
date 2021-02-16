@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="functions">
-      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/arrays.js" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Array, Ordenacao">
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade06-Números.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASCRIPT/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade05-Array.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,24 +69,19 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.arrays.js">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.Unidade06-Números.js">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name=" HeadDoDocumento.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/HTML/ HeadDoDocumento.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="PrimeirasTags.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/HTML/PrimeirasTags.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="PrincípiosBásicos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/PrincípiosBásicos.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
@@ -94,16 +90,19 @@
     <configuration name="Unidade04-Funções.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade04-Funções.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
       <method v="2" />
     </configuration>
-    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/arrays.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
+    <configuration name="Unidade05-Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade05-Array.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unidade06-Números.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade06-Números.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.arrays.js" />
+        <item itemvalue="Node.js.Unidade06-Números.js" />
+        <item itemvalue="Node.js.Unidade05-Array.js" />
         <item itemvalue="Node.js.Unidade04-Funções.js" />
         <item itemvalue="Node.js.PrincípiosBásicos.js" />
         <item itemvalue="JavaScript Debug. HeadDoDocumento.html" />
-        <item itemvalue="JavaScript Debug.PrimeirasTags.html" />
       </list>
     </recent_temporary>
   </component>
@@ -132,14 +131,8 @@
       <workItem from="1613247889231" duration="7612000" />
       <workItem from="1613312858654" duration="16223000" />
       <workItem from="1613401602286" duration="12841000" />
-      <workItem from="1613425116847" duration="6397000" />
-    </task>
-    <task id="LOCAL-00031" summary="Criando sua primeira tabela">
-      <created>1612998220432</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1612998220432</updated>
+      <workItem from="1613425116847" duration="6780000" />
+      <workItem from="1613438612943" duration="3723000" />
     </task>
     <task id="LOCAL-00032" summary="Tabela semântica">
       <created>1613000966402</created>
@@ -477,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613429754078</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Array, Ordenacao">
+      <created>1613431875250</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1613431875251</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +497,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Compreender o Clear" />
     <MESSAGE value="Controlando elementos com overflow" />
     <MESSAGE value="teste com layout e menu" />
     <MESSAGE value="Static Positioning" />
@@ -522,7 +521,8 @@
     <MESSAGE value="Operadores de Comparação de Tipos" />
     <MESSAGE value="Compreender Loops" />
     <MESSAGE value="functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="functions" />
+    <MESSAGE value="Array, Ordenacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array, Ordenacao" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
