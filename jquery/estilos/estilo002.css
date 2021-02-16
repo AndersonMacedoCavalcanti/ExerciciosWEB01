@@ -1,10 +1,18 @@
-html,body,main{
-    margin: 0;
-    padding: 0;
-}
 
-div{
+#janela{
+    position: absolute;
+    top: 20px;
+    left: 50px;
     height: 200px;
     width: 200px;
     background-color: darkcyan;
+}
+
+#janelinha{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: orangered;
 }

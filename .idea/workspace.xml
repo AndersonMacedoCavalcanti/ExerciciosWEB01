@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Remover, alterar e embrulhar elementos">
-      <change afterPath="$PROJECT_DIR$/jquery/Unidade05-ScrollingConteúdo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/estilos/estilo002.css" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Detectar as dimensões da janela de um documento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/Unidade05-ScrollingConteúdo.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/Unidade05-ScrollingConteúdo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/estilos/estilo002.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/estilos/estilo002.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,14 +140,7 @@
       <workItem from="1613425116847" duration="6780000" />
       <workItem from="1613438612943" duration="10576000" />
       <workItem from="1613449359855" duration="2383000" />
-      <workItem from="1613489477218" duration="4103000" />
-    </task>
-    <task id="LOCAL-00048" summary="Espaçamento entre linhas e palavras">
-      <created>1613169192920</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1613169192920</updated>
+      <workItem from="1613489477218" duration="5053000" />
     </task>
     <task id="LOCAL-00049" summary="Sombra">
       <created>1613252875592</created>
@@ -485,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613492834883</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary=" Detectar as dimensões da janela de um documento">
+      <created>1613493820387</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1613493820388</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +505,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Personalizar primeira, última e&#10;qualquer ocorrência da lista." />
     <MESSAGE value="Criar um menu vertical" />
     <MESSAGE value="Criar um menu horizontal" />
     <MESSAGE value="Criar um menu Drop Down - submenu escondido" />
@@ -530,7 +529,8 @@
     <MESSAGE value="Adicionando conteudo a pagina com jquery" />
     <MESSAGE value="Alterar atributos de um elemento" />
     <MESSAGE value=" Remover, alterar e embrulhar elementos" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Remover, alterar e embrulhar elementos" />
+    <MESSAGE value=" Detectar as dimensões da janela de um documento" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Detectar as dimensões da janela de um documento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

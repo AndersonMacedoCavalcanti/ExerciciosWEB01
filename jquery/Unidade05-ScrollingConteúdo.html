@@ -7,11 +7,13 @@
     <script src="jqueryScript/jquery-3.5.1.min.js"></script>
     <script>
         $(function () {
-            console.log("Largura = " + $(window).width()) // e apenas o tamanho que voce enxerga na tela
-            console.log("Altura = " + $(window).height())
+            console.log("posicao top do elemento: " + $("#janela").position().top); // retorna a posicao do elemento
+            console.log("posicao left do elemento: " + $("#janela").position().left);
 
-            console.log("Largura = " + $(document).width()) // e o tamanho de tod.. o conteudo da pagina web
-            console.log("Altura = " + $(document).height())
+            console.log("posicao top do elemento: " + $("#janelinha").offset().top); // retorna a posicao do elemento com relacao ao body (avo)
+            console.log("posicao left do elemento: " + $("#janelinha").offset().left);
+
+            $("#janela").offsetParent().css("background-color" ,"#ff0"); // offsetParent se refere ao elemento pai do elemento
 
         });
     </script>
@@ -23,7 +25,7 @@
     </header>
 
     <div id="janela">
-
+        <div id="janelinha"></div>
     </div>
 
     <section></section>
