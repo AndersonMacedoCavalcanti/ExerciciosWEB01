@@ -7,10 +7,10 @@
     <script src="jqueryScript/jquery-3.5.1.min.js"></script>
     <script>
         $(function () {
-            $("a").attr("title","Alpes suicos"); // Adicionar atributos usando attr
-            $("a").attr("target","_blank");
-            $("a").removeAttr("target") // remover atributos
-
+             $("li:last").remove("li") // remove elemento
+            $("li.especificou").remove("li") // remove elemento com base na class ou id
+            $("li:last").replaceWith("<li>Curso Amazon</li>") // alterar o elemento
+            $("ul").wrapAll("<div style= 'border:1px solid #Ccc'></div>") // embrular um elemento por fora
 
         })
     </script>
@@ -22,7 +22,12 @@
         </nav>
     </header>
 
-    <a href="../HTML/imagens/estruturahtml5.png"><img src="../HTML/imagens/estruturahtml5.png" alt=""></a>
+    <ul>
+        <li>Curso HTML5 Essencial</li>
+        <li class="especificou">Curso CSS3 Essencial</li>
+        <li>Curso Bootstrap</li>
+        <li id="java">Curso Javascript</li>
+    </ul>
 
     <section></section>
     <article></article>

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adicionando conteudo a pagina com jquery">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Alterar atributos de um elemento">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jquery/Unidade04-Alémdobásico.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/Unidade04-Alémdobásico.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/estilos/estilo001.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/estilos/estilo001.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,14 +138,7 @@
       <workItem from="1613425116847" duration="6780000" />
       <workItem from="1613438612943" duration="10576000" />
       <workItem from="1613449359855" duration="2383000" />
-      <workItem from="1613489477218" duration="2533000" />
-    </task>
-    <task id="LOCAL-00046" summary="Web Fonts">
-      <created>1613166686273</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1613166686273</updated>
+      <workItem from="1613489477218" duration="3146000" />
     </task>
     <task id="LOCAL-00047" summary="Web Fonts">
       <created>1613168907025</created>
@@ -483,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613491767913</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Alterar atributos de um elemento">
+      <created>1613492147326</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1613492147326</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +503,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="list-style-position: inside;" />
     <MESSAGE value="Personalizar aparência de uma&#10;lista" />
     <MESSAGE value=" Personalizar primeira, última e&#10;qualquer ocorrência da lista." />
     <MESSAGE value="Criar um menu vertical" />
@@ -528,7 +527,8 @@
     <MESSAGE value="Como trabalhar com objeto definir um método" />
     <MESSAGE value="JQUERY / Inserir conteúdo" />
     <MESSAGE value="Adicionando conteudo a pagina com jquery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando conteudo a pagina com jquery" />
+    <MESSAGE value="Alterar atributos de um elemento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterar atributos de um elemento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
