@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Detectar as dimensões da janela de um documento">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Encontrar a posição de um elemento">
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/bubble_chat_message_conversation_icon_181497.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/coffee_cup_icon_181496.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jquery/Unidade05-ScrollingConteúdo.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/Unidade05-ScrollingConteúdo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jquery/estilos/estilo002.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/estilos/estilo002.css" afterDir="false" />
@@ -140,14 +142,7 @@
       <workItem from="1613425116847" duration="6780000" />
       <workItem from="1613438612943" duration="10576000" />
       <workItem from="1613449359855" duration="2383000" />
-      <workItem from="1613489477218" duration="5053000" />
-    </task>
-    <task id="LOCAL-00049" summary="Sombra">
-      <created>1613252875592</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1613252875592</updated>
+      <workItem from="1613489477218" duration="6513000" />
     </task>
     <task id="LOCAL-00050" summary="Gradiente Linear">
       <created>1613253824723</created>
@@ -485,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613493820388</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Encontrar a posição de um elemento">
+      <created>1613494869439</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1613494869439</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +507,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Criar um menu vertical" />
     <MESSAGE value="Criar um menu horizontal" />
     <MESSAGE value="Criar um menu Drop Down - submenu escondido" />
     <MESSAGE value="Criar elementos com cores alternadas" />
@@ -530,7 +531,8 @@
     <MESSAGE value="Alterar atributos de um elemento" />
     <MESSAGE value=" Remover, alterar e embrulhar elementos" />
     <MESSAGE value=" Detectar as dimensões da janela de um documento" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Detectar as dimensões da janela de um documento" />
+    <MESSAGE value="Encontrar a posição de um elemento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encontrar a posição de um elemento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -7,26 +7,26 @@
     <script src="jqueryScript/jquery-3.5.1.min.js"></script>
     <script>
         $(function () {
-            console.log("posicao top do elemento: " + $("#janela").position().top); // retorna a posicao do elemento
-            console.log("posicao left do elemento: " + $("#janela").position().left);
-
-            console.log("posicao top do elemento: " + $("#janelinha").offset().top); // retorna a posicao do elemento com relacao ao body (avo)
-            console.log("posicao left do elemento: " + $("#janelinha").offset().left);
-
-            $("#janela").offsetParent().css("background-color" ,"#ff0"); // offsetParent se refere ao elemento pai do elemento
-
+            $("nav li:nth-child(2)").click(function () { // AO CLICAR CHAMA A FUNCAO
+               $("html,body").animate({scrollTop:80}, 1000); //SCROLL E A BARRA DE ROLAGEM, 80 e a quantidade de pixels
+               //que ira se movimentar e 1000 e tempo
+            });
         });
     </script>
 </head>
 <body>
 <main>
     <header>
-        <nav></nav>
+        <nav>
+            <ul>
+                <li id="tela1"></li>
+                <li id="tela2"></li>
+            </ul>
+        </nav>
     </header>
 
-    <div id="janela">
-        <div id="janelinha"></div>
-    </div>
+    <div id="primeira"></div>
+    <div id="segunda"></div>
 
     <section></section>
     <article></article>
