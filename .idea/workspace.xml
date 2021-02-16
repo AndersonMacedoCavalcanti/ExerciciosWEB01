@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="correcao toUpperCase / trabalhando com datas">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Como trabalhar com objeto definir um método">
+      <change afterPath="$PROJECT_DIR$/jquery/Unidade04-Alémdobásico.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/estilos/estilo001.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jqueryScript/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ExerciciosAula01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ExerciciosAula01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVASCRIPT/Unidade08-Date.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade08-Date.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,10 +72,12 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\jqueryScript\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Unidade08-Date.js">
+  <component name="RunManager" selected="JavaScript Debug.Unidade04-Alémdobásico.html">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -80,10 +89,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unidade04-Funções.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade04-Funções.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
-      <method v="2" />
-    </configuration>
-    <configuration name="Unidade05-Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade05-Array.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
+    <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Unidade06-Números.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade06-Números.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
@@ -95,13 +101,16 @@
     <configuration name="Unidade08-Date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade08-Date.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
       <method v="2" />
     </configuration>
+    <configuration name="Unidade09-Object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade09-Object.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Unidade04-Alémdobásico.html" />
+        <item itemvalue="Node.js.Unidade09-Object.js" />
         <item itemvalue="Node.js.Unidade08-Date.js" />
         <item itemvalue="Node.js.Unidade07-Strings.js" />
         <item itemvalue="Node.js.Unidade06-Números.js" />
-        <item itemvalue="Node.js.Unidade05-Array.js" />
-        <item itemvalue="Node.js.Unidade04-Funções.js" />
       </list>
     </recent_temporary>
   </component>
@@ -131,28 +140,9 @@
       <workItem from="1613312858654" duration="16223000" />
       <workItem from="1613401602286" duration="12841000" />
       <workItem from="1613425116847" duration="6780000" />
-      <workItem from="1613438612943" duration="9654000" />
-    </task>
-    <task id="LOCAL-00041" summary="Adicionar um type color">
-      <created>1613085673935</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1613085673935</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Adicionar um type search">
-      <created>1613085811720</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1613085811720</updated>
-    </task>
-    <task id="LOCAL-00043" summary="subindo arquivos">
-      <created>1613085872331</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1613085872331</updated>
+      <workItem from="1613438612943" duration="10576000" />
+      <workItem from="1613449359855" duration="2383000" />
+      <workItem from="1613489477218" duration="1275000" />
     </task>
     <task id="LOCAL-00044" summary=" CSS externo">
       <created>1613088139840</created>
@@ -476,7 +466,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613447984631</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary=" Como trabalhar com Hora">
+      <created>1613448427368</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1613448427368</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Como trabalhar com objeto Object">
+      <created>1613448648998</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1613448648998</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Como trabalhar com objeto definir um método">
+      <created>1613448965986</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1613448965986</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,9 +507,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Controlar conteúdo com barra de rolagem" />
-    <MESSAGE value="Aplicar CSS grid - layout centro, lateral..." />
-    <MESSAGE value="Layout Flexivel" />
     <MESSAGE value="Configurando larguras&#10;máximas e mínimas" />
     <MESSAGE value="Redimensionar imagens" />
     <MESSAGE value="list-style-position: inside;" />
@@ -521,7 +529,10 @@
     <MESSAGE value="correcao" />
     <MESSAGE value="Como trabalhar com Data" />
     <MESSAGE value="correcao toUpperCase / trabalhando com datas" />
-    <option name="LAST_COMMIT_MESSAGE" value="correcao toUpperCase / trabalhando com datas" />
+    <MESSAGE value=" Como trabalhar com Hora" />
+    <MESSAGE value="Como trabalhar com objeto Object" />
+    <MESSAGE value="Como trabalhar com objeto definir um método" />
+    <option name="LAST_COMMIT_MESSAGE" value="Como trabalhar com objeto definir um método" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
