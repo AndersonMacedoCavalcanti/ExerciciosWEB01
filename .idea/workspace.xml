@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Array, Ordenacao">
-      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade06-Números.js" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="arquivo renomeado">
+      <change afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade07-Strings.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVASCRIPT/arrays.js" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASCRIPT/Unidade05-Array.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Unidade06-Números.js">
+  <component name="RunManager" selected="Node.js.Unidade07-Strings.js">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -80,9 +79,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name=" HeadDoDocumento.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/HTML/ HeadDoDocumento.html" useBuiltInWebServerPort="true">
-      <method v="2" />
     </configuration>
     <configuration name="PrincípiosBásicos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/PrincípiosBásicos.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
       <method v="2" />
@@ -96,13 +92,16 @@
     <configuration name="Unidade06-Números.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade06-Números.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
       <method v="2" />
     </configuration>
+    <configuration name="Unidade07-Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade07-Strings.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Unidade07-Strings.js" />
         <item itemvalue="Node.js.Unidade06-Números.js" />
         <item itemvalue="Node.js.Unidade05-Array.js" />
         <item itemvalue="Node.js.Unidade04-Funções.js" />
         <item itemvalue="Node.js.PrincípiosBásicos.js" />
-        <item itemvalue="JavaScript Debug. HeadDoDocumento.html" />
       </list>
     </recent_temporary>
   </component>
@@ -132,21 +131,7 @@
       <workItem from="1613312858654" duration="16223000" />
       <workItem from="1613401602286" duration="12841000" />
       <workItem from="1613425116847" duration="6780000" />
-      <workItem from="1613438612943" duration="3723000" />
-    </task>
-    <task id="LOCAL-00032" summary="Tabela semântica">
-      <created>1613000966402</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1613000966402</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Usando do colgroup e col">
-      <created>1613077757507</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1613077757507</updated>
+      <workItem from="1613438612943" duration="4106000" />
     </task>
     <task id="LOCAL-00034" summary="Criação de um formulário simples">
       <created>1613083102366</created>
@@ -477,7 +462,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613431875251</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Criar um sorteio de Mega-sena">
+      <created>1613442433696</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1613442433697</updated>
+    </task>
+    <task id="LOCAL-00082" summary="arquivo renomeado">
+      <created>1613442461036</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1613442461037</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,8 +496,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Controlando elementos com overflow" />
-    <MESSAGE value="teste com layout e menu" />
     <MESSAGE value="Static Positioning" />
     <MESSAGE value="Relative positioning" />
     <MESSAGE value="Absolute positioning" />
@@ -522,7 +519,9 @@
     <MESSAGE value="Compreender Loops" />
     <MESSAGE value="functions" />
     <MESSAGE value="Array, Ordenacao" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array, Ordenacao" />
+    <MESSAGE value="Criar um sorteio de Mega-sena" />
+    <MESSAGE value="arquivo renomeado" />
+    <option name="LAST_COMMIT_MESSAGE" value="arquivo renomeado" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
