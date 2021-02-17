@@ -1,7 +1,7 @@
 #janela{
     width: 200px;
     height: 200px;
-    background-color: midnightblue;
+    background-color: transparent;
     cursor: pointer;
 }
 main{

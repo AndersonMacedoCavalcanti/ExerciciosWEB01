@@ -4,18 +4,16 @@ $(function () {
 
     $(function () {
 
-        $("#mostrar").on("click",mostarPorMou)
-
-        $("#esconder").on("click",esconderPorMou)
+        $("#verde").on("click",{cor: "green",altura:"400px"},mudarCor)
+        $("#vermelho").on("click",{cor: "red",altura:"800px"},mudarCor)
+        $("#azul").on("click",{cor: "blue",altura:"100px"},mudarCor)
 
     })
 
-    function mostarPorMou() {
-        $("#janela").show()
-    }
 
-    function esconderPorMou() {
-        $("#janela").hide()
+    function mudarCor(parametro) {
+        // $cor = parametro.data.cor - pode usar essa variavel ou diretamente
+        $("#janela").css("background-color",parametro.data.cor).css("height",parametro.data.altura) //data = a dado
     }
 
 
