@@ -1,7 +1,7 @@
 $(function () {
 
     function animar() {
-        $("#janelaPrinc").animate({left:"-=110"},1000)
+        $("#janelaPrinc").animate({left:"-=200"},1000)
     }
 
     $(function () {

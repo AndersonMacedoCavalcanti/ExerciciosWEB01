@@ -1,11 +1,21 @@
+html,body,main{
+
+}
+#janelaprincPrinc{
+    position: absolute;
+    height: 200px;
+    clip: rect(0 200px 200px 0);
+}
+
 #janelaPrinc {
     height: 300px;
-    position: absolute;
+    position: relative;
     border-radius: 80px 80px 50px 10px;
 }
 
 img{
-    width: 100px;
-    height: 80px;
+    width: 200px;
+    height: 200px;
+    float: left;
 }
 
