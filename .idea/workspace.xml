@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Projeto - Criar um Image Rotator -&#10;aula 2">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Projeto - Criar um Image Rotator -&#10;aula 3">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jquery/Unidade07-AnimaçõeseEfeitos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/Unidade07-AnimaçõeseEfeitos.html" afterDir="false" />
@@ -136,14 +136,7 @@
       <workItem from="1613499681307" duration="759000" />
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
-      <workItem from="1613581949250" duration="16416000" />
-    </task>
-    <task id="LOCAL-00061" summary="Fixed Positioning">
-      <created>1613328054518</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1613328054518</updated>
+      <workItem from="1613581949250" duration="18234000" />
     </task>
     <task id="LOCAL-00062" summary="Controlando profundidade">
       <created>1613328471875</created>
@@ -481,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613597627378</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary=" Projeto - Criar um Image Rotator -&#10;aula 3">
+      <created>1613598687945</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1613598687945</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Como trabalhar com substr" />
     <MESSAGE value="Como trabalhar com toLowerCase e toUpperCase" />
     <MESSAGE value="correcao" />
     <MESSAGE value="Como trabalhar com Data" />
@@ -526,7 +525,8 @@
     <MESSAGE value=" Efeitos de animação personalizado" />
     <MESSAGE value=" Projeto - Criar um Image Rotator -&#10;aula 1" />
     <MESSAGE value="Projeto - Criar um Image Rotator -&#10;aula 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projeto - Criar um Image Rotator -&#10;aula 2" />
+    <MESSAGE value=" Projeto - Criar um Image Rotator -&#10;aula 3" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Projeto - Criar um Image Rotator -&#10;aula 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
