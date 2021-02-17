@@ -5,18 +5,16 @@ $(function () {
     $("#reverso").click(reverso)
 
     function mostrar() {
-        $("#janela").show(2000, function () {
-            alert("final da animacao")
-        })
+        $("#janela").fadeIn(2000)
     }
 
     function esconder() {
-        $("#janela").hide(300)
+        $("#janela").fadeOut(300)
 
     }
 
     function reverso() {
-        $("#janela").toggle(300)
+        $("#janela").fadeToggle(300)
 
     }
 

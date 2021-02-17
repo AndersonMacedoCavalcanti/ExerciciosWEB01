@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Enviar parâmetros para um função com evento.">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Efeitos básicos de animação">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/Unidade07-AnimaçõeseEfeitos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/estilos/estilo004.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/myJqueryScripts/my_Jquery07.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,14 +132,7 @@
       <workItem from="1613499681307" duration="759000" />
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
-      <workItem from="1613581949250" duration="9410000" />
-    </task>
-    <task id="LOCAL-00055" summary=" Compreender o Clear">
-      <created>1613257457966</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1613257457966</updated>
+      <workItem from="1613581949250" duration="9876000" />
     </task>
     <task id="LOCAL-00056" summary="Controlando elementos com overflow">
       <created>1613313341887</created>
@@ -481,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613589825617</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Efeitos básicos de animação">
+      <created>1613591755197</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1613591755197</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +497,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Compreender Loops" />
     <MESSAGE value="functions" />
     <MESSAGE value="Array, Ordenacao" />
     <MESSAGE value="Criar um sorteio de Mega-sena" />
@@ -526,7 +521,8 @@
     <MESSAGE value="Evento de Clique" />
     <MESSAGE value="Mostrar e esconder elementos com clique / Mostrar e esconder elementos ao rolar o mouse por cima." />
     <MESSAGE value="Enviar parâmetros para um função com evento." />
-    <option name="LAST_COMMIT_MESSAGE" value="Enviar parâmetros para um função com evento." />
+    <MESSAGE value="Efeitos básicos de animação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Efeitos básicos de animação" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
