@@ -4,57 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Projeto - Criar um Image Rotator - aula 4">
-      <change afterPath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/bootstrap-5.0.0-beta2-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/jqueryScript/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/myJqueryScripts/Jquery01.js" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Container">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,14 +148,7 @@
       <workItem from="1613499681307" duration="759000" />
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
-      <workItem from="1613581949250" duration="20231000" />
-    </task>
-    <task id="LOCAL-00063" summary="Como aplicar Clip ( Máscara )">
-      <created>1613328927896</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1613328927896</updated>
+      <workItem from="1613581949250" duration="22003000" />
     </task>
     <task id="LOCAL-00064" summary="Controlar conteúdo com barra de rolagem">
       <created>1613329185527</created>
@@ -539,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613600607176</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Container">
+      <created>1613602741062</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1613602741062</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +513,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="correcao" />
     <MESSAGE value="Como trabalhar com Data" />
     <MESSAGE value="correcao toUpperCase / trabalhando com datas" />
     <MESSAGE value=" Como trabalhar com Hora" />
@@ -584,7 +537,8 @@
     <MESSAGE value="Projeto - Criar um Image Rotator -&#10;aula 2" />
     <MESSAGE value=" Projeto - Criar um Image Rotator -&#10;aula 3" />
     <MESSAGE value="Projeto - Criar um Image Rotator - aula 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projeto - Criar um Image Rotator - aula 4" />
+    <MESSAGE value="Container" />
+    <option name="LAST_COMMIT_MESSAGE" value="Container" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
