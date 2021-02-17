@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Como alterar o scroll de uma página a&#10;partir de um evento">
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/hand_thumbs_up_icon_181484.ico" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real">
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/Unidade06-Eventos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/estilos/estilo003.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/myJqueryScripts/my_Jquery06.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/Unidade05-ScrollingConteúdo.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/Unidade05-ScrollingConteúdo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/estilos/estilo002.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/estilos/estilo002.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -66,6 +67,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\estilos" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
@@ -77,17 +79,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Unidade04-Alémdobásico.html">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -141,14 +132,11 @@
       <workItem from="1613425116847" duration="6780000" />
       <workItem from="1613438612943" duration="10576000" />
       <workItem from="1613449359855" duration="2383000" />
-      <workItem from="1613489477218" duration="9207000" />
-    </task>
-    <task id="LOCAL-00051" summary="Gradiente Radial">
-      <created>1613254050244</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1613254050244</updated>
+      <workItem from="1613489477218" duration="9634000" />
+      <workItem from="1613499681307" duration="759000" />
+      <workItem from="1613524700352" duration="585000" />
+      <workItem from="1613580040910" duration="17000" />
+      <workItem from="1613581949250" duration="1437000" />
     </task>
     <task id="LOCAL-00052" summary="tecnica layout janelas">
       <created>1613255299076</created>
@@ -486,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613496166377</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real">
+      <created>1613499039238</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1613499039238</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Criar um menu Drop Down - submenu escondido" />
     <MESSAGE value="Criar elementos com cores alternadas" />
     <MESSAGE value="Operadores de Comparação e ação condicional&#10;IF-ELSE" />
     <MESSAGE value="Operadores de Comparação de Tipos" />
@@ -531,7 +525,8 @@
     <MESSAGE value=" Detectar as dimensões da janela de um documento" />
     <MESSAGE value="Encontrar a posição de um elemento" />
     <MESSAGE value="Como alterar o scroll de uma página a&#10;partir de um evento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Como alterar o scroll de uma página a&#10;partir de um evento" />
+    <MESSAGE value="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real" />
+    <option name="LAST_COMMIT_MESSAGE" value="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
