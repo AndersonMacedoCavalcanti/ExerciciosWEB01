@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Evento de Clique">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/Unidade06-Eventos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/estilos/estilo003.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/myJqueryScripts/my_Jquery06.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/Unidade06-Eventos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/Unidade06-Eventos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/estilos/estilo003.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/estilos/estilo003.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/myJqueryScripts/my_Jquery06.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/myJqueryScripts/my_Jquery06.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,14 +136,7 @@
       <workItem from="1613499681307" duration="759000" />
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
-      <workItem from="1613581949250" duration="1437000" />
-    </task>
-    <task id="LOCAL-00052" summary="tecnica layout janelas">
-      <created>1613255299076</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1613255299076</updated>
+      <workItem from="1613581949250" duration="4495000" />
     </task>
     <task id="LOCAL-00053" summary="Rotacao de formas">
       <created>1613256138163</created>
@@ -481,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613499039238</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Evento de Clique">
+      <created>1613583468511</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1613583468512</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Criar elementos com cores alternadas" />
     <MESSAGE value="Operadores de Comparação e ação condicional&#10;IF-ELSE" />
     <MESSAGE value="Operadores de Comparação de Tipos" />
     <MESSAGE value="Compreender Loops" />
@@ -526,7 +525,8 @@
     <MESSAGE value="Encontrar a posição de um elemento" />
     <MESSAGE value="Como alterar o scroll de uma página a&#10;partir de um evento" />
     <MESSAGE value="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real" />
-    <option name="LAST_COMMIT_MESSAGE" value="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real" />
+    <MESSAGE value="Evento de Clique" />
+    <option name="LAST_COMMIT_MESSAGE" value="Evento de Clique" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

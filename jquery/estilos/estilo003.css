@@ -1,0 +1,12 @@
+#janela{
+    width: 200px;
+    height: 200px;
+    background-color: midnightblue;
+    cursor: pointer;
+}
+main{
+    width: 100px;
+    height: 500px;
+    background-color: darkcyan;
+
+}
