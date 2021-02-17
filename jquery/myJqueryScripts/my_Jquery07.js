@@ -5,16 +5,16 @@ $(function () {
     $("#reverso").click(reverso)
 
     function mostrar() {
-        $("#janela").fadeIn(2000)
+        $("#janela").slideDown(2000)
     }
 
     function esconder() {
-        $("#janela").fadeOut(300)
+        $("#janela").slideUp(2000)
 
     }
 
     function reverso() {
-        $("#janela").fadeToggle(300)
+        $("#janela").slideToggle(300)
 
     }
 
