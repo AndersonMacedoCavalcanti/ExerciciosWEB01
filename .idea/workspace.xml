@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Projeto - Criar um Image Rotator -&#10;aula 1">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Projeto - Criar um Image Rotator -&#10;aula 2">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jquery/Unidade07-AnimaçõeseEfeitos.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/Unidade07-AnimaçõeseEfeitos.html" afterDir="false" />
@@ -136,14 +136,7 @@
       <workItem from="1613499681307" duration="759000" />
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
-      <workItem from="1613581949250" duration="15488000" />
-    </task>
-    <task id="LOCAL-00060" summary="Absolute positioning">
-      <created>1613327894265</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1613327894265</updated>
+      <workItem from="1613581949250" duration="16416000" />
     </task>
     <task id="LOCAL-00061" summary="Fixed Positioning">
       <created>1613328054518</created>
@@ -481,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613597114167</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Projeto - Criar um Image Rotator -&#10;aula 2">
+      <created>1613597627378</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1613597627378</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Como trabalhar com charAt&#10;e split" />
     <MESSAGE value="Como trabalhar com substr" />
     <MESSAGE value="Como trabalhar com toLowerCase e toUpperCase" />
     <MESSAGE value="correcao" />
@@ -526,7 +525,8 @@
     <MESSAGE value="Efeitos de SlideUp, SlideDown e SlideToggle" />
     <MESSAGE value=" Efeitos de animação personalizado" />
     <MESSAGE value=" Projeto - Criar um Image Rotator -&#10;aula 1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Projeto - Criar um Image Rotator -&#10;aula 1" />
+    <MESSAGE value="Projeto - Criar um Image Rotator -&#10;aula 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto - Criar um Image Rotator -&#10;aula 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
