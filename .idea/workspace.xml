@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Alterando aparência de listas com BootStrap">
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Unidade05-BootstrapBotões,Vídeos,Imagens,TextoseTabelas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo03.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/myJqueryScripts/Jquery03.js" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Alterando os estilos dos botões">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/Unidade05-BootstrapBotões,Vídeos,Imagens,TextoseTabelas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/Unidade05-BootstrapBotões,Vídeos,Imagens,TextoseTabelas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,14 +149,7 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="16796000" />
-    </task>
-    <task id="LOCAL-00072" summary="Criar um menu vertical">
-      <created>1613411688851</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1613411688851</updated>
+      <workItem from="1613673751377" duration="17111000" />
     </task>
     <task id="LOCAL-00073" summary="Criar um menu horizontal">
       <created>1613412178637</created>
@@ -497,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613690916070</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Alterando os estilos dos botões">
+      <created>1613691328857</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1613691328857</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +514,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Remover, alterar e embrulhar elementos" />
     <MESSAGE value=" Detectar as dimensões da janela de um documento" />
     <MESSAGE value="Encontrar a posição de um elemento" />
     <MESSAGE value="Como alterar o scroll de uma página a&#10;partir de um evento" />
@@ -542,7 +538,8 @@
     <MESSAGE value="Adicionando classes do BootStrap" />
     <MESSAGE value="Alterando alinhamento" />
     <MESSAGE value="Alterando aparência de listas com BootStrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterando aparência de listas com BootStrap" />
+    <MESSAGE value="Alterando os estilos dos botões" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterando os estilos dos botões" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
