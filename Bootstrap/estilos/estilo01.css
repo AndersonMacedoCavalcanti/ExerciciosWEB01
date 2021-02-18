@@ -18,9 +18,32 @@ img{
 .container {
     text-align: center;
     margin: 10px;
+    padding: 80px;
+    background-color: #dddddd;
 }
 
 .icones{
     margin-bottom: 15px;
+}
+
+.exemplolinha2{
+    height: 100px;
+    width: 100%;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
 }
 
