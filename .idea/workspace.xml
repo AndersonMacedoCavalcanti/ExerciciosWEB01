@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Alterando alinhamento">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Alterando aparência de listas com BootStrap">
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Unidade05-BootstrapBotões,Vídeos,Imagens,TextoseTabelas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo03.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/myJqueryScripts/Jquery03.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Unidade04-BootstrapCSSClasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/Unidade04-BootstrapCSSClasses.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootstrap/myJqueryScripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootstrap/estilos" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -66,8 +68,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\myJqueryScripts" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\estilos" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\myJqueryScripts" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\myJqueryScripts" />
@@ -150,14 +152,7 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="16188000" />
-    </task>
-    <task id="LOCAL-00071" summary=" Personalizar primeira, última e&#10;qualquer ocorrência da lista.">
-      <created>1613411148280</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1613411148280</updated>
+      <workItem from="1613673751377" duration="16796000" />
     </task>
     <task id="LOCAL-00072" summary="Criar um menu vertical">
       <created>1613411688851</created>
@@ -495,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613689975838</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Alterando aparência de listas com BootStrap">
+      <created>1613690916070</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1613690916070</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +517,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Alterar atributos de um elemento" />
     <MESSAGE value=" Remover, alterar e embrulhar elementos" />
     <MESSAGE value=" Detectar as dimensões da janela de um documento" />
     <MESSAGE value="Encontrar a posição de um elemento" />
@@ -540,7 +541,8 @@
     <MESSAGE value="teste de layout (eu testando)" />
     <MESSAGE value="Adicionando classes do BootStrap" />
     <MESSAGE value="Alterando alinhamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterando alinhamento" />
+    <MESSAGE value="Alterando aparência de listas com BootStrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterando aparência de listas com BootStrap" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
