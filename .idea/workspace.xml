@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Compreender o Grid c/ exercício de&#10;colunas">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Determinar layouts diferentes com Grid">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/facebook_fb_logo_icon_181508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/instagram_ig_logo_icon_181500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/skype_logo_icon_181503.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/twitter_logo_icon_181501.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/whatsapp_logo_icon_181506.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/youtube_logo_icon_181507.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,14 +137,7 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="4542000" />
-    </task>
-    <task id="LOCAL-00065" summary="Aplicar CSS grid - layout centro, lateral...">
-      <created>1613406398723</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1613406398734</updated>
+      <workItem from="1613673751377" duration="5147000" />
     </task>
     <task id="LOCAL-00066" summary="Layout Flexivel">
       <created>1613407585606</created>
@@ -489,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613604291917</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="Determinar layouts diferentes com Grid">
+      <created>1613678433102</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1613678433102</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +502,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="correcao toUpperCase / trabalhando com datas" />
     <MESSAGE value=" Como trabalhar com Hora" />
     <MESSAGE value="Como trabalhar com objeto Object" />
     <MESSAGE value="Como trabalhar com objeto definir um método" />
@@ -534,7 +526,8 @@
     <MESSAGE value="Projeto - Criar um Image Rotator - aula 4" />
     <MESSAGE value="Container" />
     <MESSAGE value="Compreender o Grid c/ exercício de&#10;colunas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Compreender o Grid c/ exercício de&#10;colunas" />
+    <MESSAGE value="Determinar layouts diferentes com Grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Determinar layouts diferentes com Grid" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
