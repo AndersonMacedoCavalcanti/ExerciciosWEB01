@@ -15,18 +15,82 @@
 <body>
     <main>
         <header>
-            <nav></nav>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#">
+                    <img id="logo" src="../HTML/imagens/coffee_cup_icon_181496.ico" class="d-inline-block align-top" alt="">
+                    Bootstrap
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Link</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Dropdown
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Action</a>
+                                <a class="dropdown-item" href="#">Another action</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Something else here</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link disabled" href="#">Disabled</a>
+                        </li>
+                    </ul>
+                    <form class="form-inline my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                </div>
+            </nav>
         </header>
 
-         <div class="container mw-100">
-             <div class="row"> <!--linha-->
+        <div class="container pc2 mw-100">
+            <div class="row row2"> <!--linha-->
+                <div class="col-sm-hidden col-md-12 col-lg-6  col-xl-6" id="avatar">
+                    <img class="img1"  src="../HTML/imagens/laptop_computer_electronic_device_technology_icon_153135.png" alt="avatar">
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 df" id="avatarTex" >
+                <div class="col-sm-12 col-md-12 col-lg-9 col-xl-9" >
+                    <h1>Informações do produto</h1>
+                    <p>Pra você que busca um notebook para usar no trabalho ou mesmo para os momentos de entretenimento, a Lenovo apresenta o notebook Ideapad S145 81V70008BR.Com design compacto, ele tem abertura de 180o e tela LED antirreflexo de 15,6" com resolução HD</p>
 
+                    <div class="row row3"> <!--linha-->
+                        <div class="d-none d-sm-none d-md-block col-md-4 col-lg-4 col-xl-4 icon2" id="i2">
+                            <img src="../HTML/imagens/bubble_chat_message_conversation_icon_181497.ico">
+                        </div>
+
+                        <div class="d-none d-sm-none d-md-block col-md-4 col-lg-4 col-xl-4 icon2" id="i3">
+                            <img src="../HTML/imagens/hand_thumbs_up_icon_181484.ico">
+                        </div>
+
+                        <div class="d-none d-sm-none d-md-block col-md-4 col-lg-4 col-xl-4 icon2" id="i4">
+                            <img src="../HTML/imagens/coffee_cup_icon_181496.ico">
+                        </div>
+                    </div>
+                    </div>
+                 </div>
+            </div>
+        </div>
+
+        <div class="container pc mw-100">
+            <h1 id="section2"> Conheca todas as logos desenvolvidas</h1>
+            <div class="row "> <!--linha-->
                  <div class="clearfix visible-sm-block"></div><!--para corrigir o problema dos demis itens cairem por conta do tamanho do item acima, essa funcao e usada acima do item problematico-->
                  <div class="col-sm-6 col-md-4 col-lg-4  col-xl-2" id="facebook">
                     <img class="icones"  src="../HTML/imagens/facebook_fb_logo_icon_181508.png" alt="logo facebook">
                     <h1>Logo Corporativo</h1>
-                    <p>Seus logos com jeito 100% profissional, confira todas nossas ofertas e aproveite.
-                        Seus logos com jeito 100% profissional, confira todas nossas ofertas e aproveite.</p>
+                    <p>Seus logos com jeito 100% profissional, confira todas nossas ofertas e aproveite.</p>
                 </div>
                  <div class=" col-sm-6 col-md-4 col-lg-4 col-xl-2" id="instagram">
                     <img class="icones" src="../HTML/imagens/instagram_ig_logo_icon_181500.png" alt="logo instagram">
@@ -38,7 +102,7 @@
                     <h1>Logo Corporativo</h1>
                     <p>Seus logos com jeito 100% profissional, confira todas nossas ofertas e aproveite.</p>
                 </div>
-                 <div class="col-sm-6 col-md-4 col-xl-2" id="twitter">
+                 <div class="col-sm-6 col-md-4 col-lg-4 col-xl-2" id="twitter">
                     <img class="icones" src="../HTML/imagens/twitter_logo_icon_181501.png" alt="logo twitter">
                     <h1>Logo Corporativo</h1>
                     <p>Seus logos com jeito 100% profissional, confira todas nossas ofertas e aproveite.</p>
@@ -55,15 +119,35 @@
                 </div>
 
              </div>
-
-             <div class="row">
-                 <div class="exemplolinha2 red  col-sm-12 col-md-6"></div>
-                 <div class="exemplolinha2 green    col-sm-12 col-md-6"></div>
-                 <div class="exemplolinha2 blue col-sm-12 col-md-6"></div>
-                 <div class="exemplolinha2 yellow   col-sm-12 col-md-6"></div>
-
-             </div>
     </div>
+
+        <div class="container pc3 mw-100">
+            <div class="row row22"> <!--linha-->
+                <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 df" id="avatarTex2" >
+                    <div class="col-sm-12 col-md-12 col-lg-9 col-xl-9" >
+                        <h1>Informações do produto</h1>
+                        <p>Pra você que busca um notebook para usar no trabalho ou mesmo para os momentos de entretenimento, a Lenovo apresenta o notebook Ideapad S145 81V70008BR.Com design compacto, ele tem abertura de 180o e tela LED antirreflexo de 15,6" com resolução HD</p>
+
+                        <div class="row row3"> <!--linha-->
+                            <div class="d-none d-sm-none d-md-block col-md-4 col-lg-4 col-xl-4 icon2" >
+                                <img src="../HTML/imagens/bubble_chat_message_conversation_icon_181497.ico">
+                            </div>
+
+                            <div class="d-none d-sm-none d-md-block col-md-4 col-lg-4 col-xl-4 icon2" >
+                                <img src="../HTML/imagens/hand_thumbs_up_icon_181484.ico">
+                            </div>
+
+                            <div class="d-none d-sm-none d-md-block col-md-4 col-lg-4 col-xl-4 icon2" >
+                                <img src="../HTML/imagens/coffee_cup_icon_181496.ico">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-hidden col-md-12 col-lg-6  col-xl-6" id="avatar2">
+                    <img class="img1"  src="../HTML/imagens/man_avatar_user_account_confirm_approve_complete_icon_153151.png" alt="avatar">
+                </div>
+            </div>
+        </div>
 
 
 

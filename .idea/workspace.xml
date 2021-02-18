@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Corrigindo problemas de CSS">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adicionando Row">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/laptop_computer_electronic_device_technology_icon_153135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/man_avatar_user_account_confirm_approve_complete_icon_153151.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" afterDir="false" />
@@ -138,14 +140,7 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="5779000" />
-    </task>
-    <task id="LOCAL-00067" summary="Configurando larguras&#10;máximas e mínimas">
-      <created>1613407752900</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1613407752900</updated>
+      <workItem from="1613673751377" duration="14419000" />
     </task>
     <task id="LOCAL-00068" summary="Redimensionar imagens">
       <created>1613409427318</created>
@@ -483,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613679131001</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Adicionando Row">
+      <created>1613679959346</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1613679959347</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +505,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Como trabalhar com objeto Object" />
     <MESSAGE value="Como trabalhar com objeto definir um método" />
     <MESSAGE value="JQUERY / Inserir conteúdo" />
     <MESSAGE value="Adicionando conteudo a pagina com jquery" />
@@ -528,7 +529,8 @@
     <MESSAGE value="Compreender o Grid c/ exercício de&#10;colunas" />
     <MESSAGE value="Determinar layouts diferentes com Grid" />
     <MESSAGE value="Corrigindo problemas de CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo problemas de CSS" />
+    <MESSAGE value="Adicionando Row" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Row" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

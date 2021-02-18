@@ -8,18 +8,29 @@ html,body{
     font-family: Arial,sans-serif;
     font-size: 35px;
 }
+
 img{
     width: 100px;
     height: 100px;
 
 }
 
+#logo{
+    width: 50px;
+    height: 50px;
+    margin-top: -10px;
+}
 
-.container {
+li{
+    margin-top: -5px;
+}
+
+.pc {
     text-align: center;
-    margin: 10px;
-    padding: 80px;
+    margin: 100px 10px;
+    padding: 150px 0;
     background-color: #dddddd;
+
 }
 
 .icones{
@@ -47,3 +58,35 @@ img{
     background-color: yellow;
 }
 
+.img1{
+    width: 500px;
+    height: 500px;
+
+}
+
+.row2{
+    padding: 0 0 60px 0;
+    text-align: center;
+}
+
+.row22{
+    padding: 50px 0 60px 200px;
+    text-align: center;
+}
+
+#avatarTex{
+    padding: 150px 0 0 0;
+}
+
+#avatarTex2{
+    padding: 150px 0 0 0;
+}
+
+.icon2{
+    margin-top: 40px;
+}
+
+#section2{
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
