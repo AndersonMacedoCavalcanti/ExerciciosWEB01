@@ -1,8 +1,26 @@
-.col-sm-4 h1{
-    font-size: 35px;
+
+html,body{
+    height: 100%;
+    width: 100%;
 }
 
-.col-sm-4 p{
-    font-size: 15px;
-    text-indent: 5px;
+.row h1{
+    font-family: Arial,sans-serif;
+    font-size: 35px;
 }
+img{
+    width: 100px;
+    height: 100px;
+
+}
+
+
+.container {
+    text-align: center;
+    margin: 10px;
+}
+
+.icones{
+    margin-bottom: 15px;
+}
+

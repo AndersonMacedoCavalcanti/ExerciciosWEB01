@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Container">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Compreender o Grid c/ exercício de&#10;colunas">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/facebook_fb_logo_icon_181508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/instagram_ig_logo_icon_181500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/skype_logo_icon_181503.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/twitter_logo_icon_181501.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/whatsapp_logo_icon_181506.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/youtube_logo_icon_181507.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" afterDir="false" />
@@ -80,17 +86,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Unidade04-Alémdobásico.html">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -148,14 +143,8 @@
       <workItem from="1613499681307" duration="759000" />
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
-      <workItem from="1613581949250" duration="22003000" />
-    </task>
-    <task id="LOCAL-00064" summary="Controlar conteúdo com barra de rolagem">
-      <created>1613329185527</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1613329185527</updated>
+      <workItem from="1613581949250" duration="22374000" />
+      <workItem from="1613673751377" duration="4542000" />
     </task>
     <task id="LOCAL-00065" summary="Aplicar CSS grid - layout centro, lateral...">
       <created>1613406398723</created>
@@ -493,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613602741062</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Compreender o Grid c/ exercício de&#10;colunas">
+      <created>1613604291917</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1613604291917</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,7 +509,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Como trabalhar com Data" />
     <MESSAGE value="correcao toUpperCase / trabalhando com datas" />
     <MESSAGE value=" Como trabalhar com Hora" />
     <MESSAGE value="Como trabalhar com objeto Object" />
@@ -538,7 +533,8 @@
     <MESSAGE value=" Projeto - Criar um Image Rotator -&#10;aula 3" />
     <MESSAGE value="Projeto - Criar um Image Rotator - aula 4" />
     <MESSAGE value="Container" />
-    <option name="LAST_COMMIT_MESSAGE" value="Container" />
+    <MESSAGE value="Compreender o Grid c/ exercício de&#10;colunas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compreender o Grid c/ exercício de&#10;colunas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
