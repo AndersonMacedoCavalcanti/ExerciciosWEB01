@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="teste de layout (eu testando)">
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Unidade04-BootstrapCSSClasses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo02.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/myJqueryScripts/Jquery02.js" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Alterando alinhamento">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/Unidade04-BootstrapCSSClasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/Unidade04-BootstrapCSSClasses.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,21 +150,7 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="15215000" />
-    </task>
-    <task id="LOCAL-00069" summary="list-style-position: inside;">
-      <created>1613410351846</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1613410351846</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Personalizar aparência de uma&#10;lista">
-      <created>1613410815562</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1613410815563</updated>
+      <workItem from="1613673751377" duration="16188000" />
     </task>
     <task id="LOCAL-00071" summary=" Personalizar primeira, última e&#10;qualquer ocorrência da lista.">
       <created>1613411148280</created>
@@ -497,7 +481,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613689158119</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="Adicionando classes do BootStrap">
+      <created>1613689784961</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1613689784961</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Alterando alinhamento">
+      <created>1613689975838</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1613689975838</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,8 +515,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="JQUERY / Inserir conteúdo" />
-    <MESSAGE value="Adicionando conteudo a pagina com jquery" />
     <MESSAGE value="Alterar atributos de um elemento" />
     <MESSAGE value=" Remover, alterar e embrulhar elementos" />
     <MESSAGE value=" Detectar as dimensões da janela de um documento" />
@@ -542,7 +538,9 @@
     <MESSAGE value="Corrigindo problemas de CSS" />
     <MESSAGE value="Adicionando Row" />
     <MESSAGE value="teste de layout (eu testando)" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste de layout (eu testando)" />
+    <MESSAGE value="Adicionando classes do BootStrap" />
+    <MESSAGE value="Alterando alinhamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterando alinhamento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
