@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adicionando Row">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="teste de layout (eu testando)">
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Unidade04-BootstrapCSSClasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo02.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/myJqueryScripts/Jquery02.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/laptop_computer_electronic_device_technology_icon_153135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/imagens/man_avatar_user_account_confirm_approve_complete_icon_153151.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/CursoV-Unidade03Grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo01.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootstrap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootstrap/myJqueryScripts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -69,11 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\myJqueryScripts" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\myJqueryScripts" />
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery" />
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\CSS\estilos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery" />
@@ -82,6 +81,19 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Unidade04-Alémdobásico.html">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -140,14 +152,7 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="14419000" />
-    </task>
-    <task id="LOCAL-00068" summary="Redimensionar imagens">
-      <created>1613409427318</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1613409427318</updated>
+      <workItem from="1613673751377" duration="15215000" />
     </task>
     <task id="LOCAL-00069" summary="list-style-position: inside;">
       <created>1613410351846</created>
@@ -485,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613679959347</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="teste de layout (eu testando)">
+      <created>1613689157919</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1613689158119</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +517,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Como trabalhar com objeto definir um método" />
     <MESSAGE value="JQUERY / Inserir conteúdo" />
     <MESSAGE value="Adicionando conteudo a pagina com jquery" />
     <MESSAGE value="Alterar atributos de um elemento" />
@@ -530,7 +541,8 @@
     <MESSAGE value="Determinar layouts diferentes com Grid" />
     <MESSAGE value="Corrigindo problemas de CSS" />
     <MESSAGE value="Adicionando Row" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Row" />
+    <MESSAGE value="teste de layout (eu testando)" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste de layout (eu testando)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
