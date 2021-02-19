@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Alterando os estilos dos botões">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Habilitando ou desabilitando botões">
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bootstrap/Unidade05-BootstrapBotões,Vídeos,Imagens,TextoseTabelas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/Unidade05-BootstrapBotões,Vídeos,Imagens,TextoseTabelas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrap/estilos/estilo03.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo03.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,21 +151,7 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="17111000" />
-    </task>
-    <task id="LOCAL-00073" summary="Criar um menu horizontal">
-      <created>1613412178637</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1613412178637</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Criar um menu Drop Down - submenu escondido">
-      <created>1613414069249</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1613414069249</updated>
+      <workItem from="1613673751377" duration="19465000" />
     </task>
     <task id="LOCAL-00075" summary="Criar elementos com cores alternadas">
       <created>1613414491565</created>
@@ -494,7 +482,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613691328857</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary=" Alterando o tamanho dos botões">
+      <created>1613691730145</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1613691730145</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Habilitando ou desabilitando botões">
+      <created>1613691804196</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1613691804196</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,8 +516,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Detectar as dimensões da janela de um documento" />
-    <MESSAGE value="Encontrar a posição de um elemento" />
     <MESSAGE value="Como alterar o scroll de uma página a&#10;partir de um evento" />
     <MESSAGE value="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real" />
     <MESSAGE value="Evento de Clique" />
@@ -539,7 +539,9 @@
     <MESSAGE value="Alterando alinhamento" />
     <MESSAGE value="Alterando aparência de listas com BootStrap" />
     <MESSAGE value="Alterando os estilos dos botões" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alterando os estilos dos botões" />
+    <MESSAGE value=" Alterando o tamanho dos botões" />
+    <MESSAGE value="Habilitando ou desabilitando botões" />
+    <option name="LAST_COMMIT_MESSAGE" value="Habilitando ou desabilitando botões" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

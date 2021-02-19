@@ -1,0 +1,30 @@
+.imga{
+clear: left;
+}
+
+#imagem1{
+    background-color: blue;
+    width:200px;
+    height: 200px;
+    float: left;
+    margin:2px;
+
+}
+
+#imagem2{
+    background-color: blue;
+    width:200px;
+    height: 200px;
+    float: left;
+    margin:2px;
+
+}
+
+#imagem3{
+    background-color: blue;
+    width:200px;
+    height: 200px;
+    float: left;
+    margin: 2px 2px 10px;
+
+}
