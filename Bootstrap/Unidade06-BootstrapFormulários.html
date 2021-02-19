@@ -16,55 +16,28 @@
     <header>
         <nav></nav>
     </header>
-    <div class="container">
-        <form class="">
-
+    <div class="container-fluid">
+    <form>
+        <div class="form-inline">
             <div class="form-group">
-                <label for="nome">Nome Completo</label>
-                <input class="form-control" type="text" id="nome" placeholder="Nome"/>
+                <label for="nome" class="sr-only">Nome</label>
+                <input class="form-control" type="text" id="nome" placeholder="Seu nome">
             </div>
 
             <div class="form-group">
-
-                <label for="email">Email</label>
-                <input class="form-control" type="text" id="email" placeholder="Email"/>
+                <label for="email"  class="sr-only">Email</label>
+                <input class="form-control"  type="email" id="email" placeholder="seu email">
             </div>
-
-            <div class="form-group">
-
-                    <label for="senha">Senha</label>
-                    <input class="form-control" type="password" id="senha" placeholder="Senha"/>
-            </div>
-
-            <div class="form-group">
-
-            <label for="selecao">Prato preferido?</label>
-                <select  class="form-control" id="selecao">
-                    <option>Escolha uma opção</option>
-                    <option>Feijoada</option>
-                    <option>Churrasco</option>
-                    <option>Sushi</option>
-                    <option>Pizza</option>
-                </select>
-            </div>
-
-            <div class="form-group">
-
-                <label for="comentario">Comentários</label>
-                <textarea class="form-control" id="comentario"></textarea>
-            </div>
-
 
             <div class="form-group form-check">
                 <label class="form-check-label" for="lista">
                     <input  type="checkbox" id="lista" class="form-check-input">Inscrever-me na newsletter
                 </label>
             </div>
-
-            <input class="btn btn-primary btn-block btn-lg " type="submit" value="Enviar">
-        </form>
+        <button class="btn btn-primary" type="submit" >Cadastrar-me</button>
+        </div>
+    </form>
     </div>
-
 
     <section></section>
     <article></article>
