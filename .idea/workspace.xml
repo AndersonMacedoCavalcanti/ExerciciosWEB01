@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Aplicando estilos em tabelas">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Adaptando o tamanho do vídeo">
+      <change afterPath="$PROJECT_DIR$/Bootstrap/Unidade06-BootstrapFormulários.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/estilos/estilo04.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/myJqueryScripts/Jquery04.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Unidade05-BootstrapBotões,Vídeos,Imagens,TextoseTabelas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/Unidade05-BootstrapBotões,Vídeos,Imagens,TextoseTabelas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,14 +152,7 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="20421000" />
-    </task>
-    <task id="LOCAL-00078" summary="Compreender Loops">
-      <created>1613428583963</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1613428583963</updated>
+      <workItem from="1613673751377" duration="21382000" />
     </task>
     <task id="LOCAL-00079" summary="functions">
       <created>1613429754078</created>
@@ -494,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613694878544</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Adaptando o tamanho do vídeo">
+      <created>1613695172899</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1613695172899</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +517,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Mostrar e esconder elementos com clique / Mostrar e esconder elementos ao rolar o mouse por cima." />
     <MESSAGE value="Enviar parâmetros para um função com evento." />
     <MESSAGE value="Efeitos básicos de animação" />
     <MESSAGE value="Efeitos de FadeIn, FadeOut, FadeTo e FadeToggle" />
@@ -539,7 +541,8 @@
     <MESSAGE value="Aplicando estilos em imagens" />
     <MESSAGE value="Aplicando estilos em textos" />
     <MESSAGE value=" Aplicando estilos em tabelas" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Aplicando estilos em tabelas" />
+    <MESSAGE value="Adaptando o tamanho do vídeo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adaptando o tamanho do vídeo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
