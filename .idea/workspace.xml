@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Criar formulários Inline">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Formulários horizontais&#10;, com defeito (tem que arrumar)">
+      <change afterPath="$PROJECT_DIR$/Bootstrap/estilos/estiloHome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/jqueryScript/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/myJqueryScripts/JqueryHome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bootstrap/projetoTeste/PageHome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/2102-vivo-controle-tiktok-13GB-desk-1920x703.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/2102-vivo-pre-cadastro-linha-galaxy-desk-1920x703.jpg.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HTML/imagens/Curriculo - Editado 2 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/business-4328465_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/conversation_chat_deal_agreement_icon_124665.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/corona-4960366_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/vivo-disney-wandavision-ftth-desk-2102-1920x703.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/imagens/wifi.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ExerciciosAula01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ExerciciosAula01.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Unidade06-BootstrapFormulários.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/Unidade06-BootstrapFormulários.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +67,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootstrap/estilos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bootstrap" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -66,9 +77,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\estilos" />
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\myJqueryScripts" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\myJqueryScripts" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\myJqueryScripts" />
     </key>
@@ -79,15 +90,13 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Unidade04-Alémdobásico.html">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,14 +159,8 @@
       <workItem from="1613524700352" duration="585000" />
       <workItem from="1613580040910" duration="17000" />
       <workItem from="1613581949250" duration="22374000" />
-      <workItem from="1613673751377" duration="23468000" />
-    </task>
-    <task id="LOCAL-00081" summary="Criar um sorteio de Mega-sena">
-      <created>1613442433696</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1613442433697</updated>
+      <workItem from="1613673751377" duration="23989000" />
+      <workItem from="1613758486891" duration="26304000" />
     </task>
     <task id="LOCAL-00082" summary="arquivo renomeado">
       <created>1613442461036</created>
@@ -495,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613696922293</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Formulários horizontais&#10;, com defeito (tem que arrumar)">
+      <created>1613698049992</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1613698049992</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +525,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Efeitos de FadeIn, FadeOut, FadeTo e FadeToggle" />
     <MESSAGE value="Efeitos de SlideUp, SlideDown e SlideToggle" />
     <MESSAGE value=" Efeitos de animação personalizado" />
     <MESSAGE value=" Projeto - Criar um Image Rotator -&#10;aula 1" />
@@ -540,7 +549,8 @@
     <MESSAGE value="Adaptando o tamanho do vídeo" />
     <MESSAGE value=" Aplicar BootStrap para otimizar Formulários" />
     <MESSAGE value="Criar formulários Inline" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criar formulários Inline" />
+    <MESSAGE value="Formulários horizontais&#10;, com defeito (tem que arrumar)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formulários horizontais&#10;, com defeito (tem que arrumar)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
