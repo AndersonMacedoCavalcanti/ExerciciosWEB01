@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Arrow function">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Usando o this">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECMAScript/LetEVar.js" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript/LetEVar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECMAScript/Unidade05-FunçõeseObjetos.html" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript/Unidade05-FunçõeseObjetos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +79,7 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html">
+  <component name="RunManager" selected="Node.js.LetEVar.js">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -107,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html" />
         <item itemvalue="Node.js.LetEVar.js" />
+        <item itemvalue="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html" />
         <item itemvalue="Node.js.Unidade09-Object.js" />
         <item itemvalue="Node.js.Unidade08-Date.js" />
         <item itemvalue="Node.js.Unidade07-Strings.js" />
@@ -159,14 +160,7 @@
       <workItem from="1614193464984" duration="2216000" />
       <workItem from="1614271834845" duration="834000" />
       <workItem from="1614273031234" duration="1239000" />
-      <workItem from="1614284246134" duration="4677000" />
-    </task>
-    <task id="LOCAL-00091" summary="Como trabalhar com objeto Object">
-      <created>1613448648998</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1613448648998</updated>
+      <workItem from="1614284246134" duration="5311000" />
     </task>
     <task id="LOCAL-00092" summary="Como trabalhar com objeto definir um método">
       <created>1613448965986</created>
@@ -504,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614288983358</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="Usando o this">
+      <created>1614289658548</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1614289658548</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +525,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Corrigindo problemas de CSS" />
     <MESSAGE value="Adicionando Row" />
     <MESSAGE value="teste de layout (eu testando)" />
     <MESSAGE value="Adicionando classes do BootStrap" />
@@ -549,7 +549,8 @@
     <MESSAGE value="Parâmetro Default de funções" />
     <MESSAGE value="Repetindo strings" />
     <MESSAGE value="Arrow function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrow function" />
+    <MESSAGE value="Usando o this" />
+    <option name="LAST_COMMIT_MESSAGE" value="Usando o this" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

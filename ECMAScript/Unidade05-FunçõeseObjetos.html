@@ -21,15 +21,13 @@
            var jogador = { //OBJ
                nome:"messi", //propriedades
                Habilidades:["chutar","driblar","correr"], //propriedades
-               escreverHabilidades: function(){ // metodos
-                   var _this = this; // tranfere a propriedades do this interno para ser usado fora
-                   this.Habilidades.forEach(function(skill){
-                       alert(_this.nome + " e bom em "+ skill);
-                   });
+               escreverHabilidades(){ // metodos
+                   this.Habilidades.forEach(skill => { alert(this.nome + " e bom em "+ skill);});
                }
            }
 
            jogador.escreverHabilidades();
+
 
 
 
