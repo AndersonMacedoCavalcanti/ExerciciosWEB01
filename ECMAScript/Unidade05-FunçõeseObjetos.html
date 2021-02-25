@@ -18,13 +18,19 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.min.js"></script>
         <script type="text/babel">
 
-          function jogoEliminatorio(time1, time2="portugal"){
-                alert(`Hoje tem ${time1} contra ${time2}`)
-          }
+            var estatisticas = {
+                gols(qtd){
+                    alert("gol ".repeat(qtd))
+                },
 
-          jogoEliminatorio("brasil")
+                desarmes(qtd){
+                    alert("desarmes ".repeat(qtd))
+                }
+            }
 
-          alert(salada)
+            estatisticas.gols(3);
+            estatisticas.desarmes(8)
+
 
         </script>
 </head>
