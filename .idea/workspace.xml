@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Usando o método bind e o método arrow&#10;function">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Extrair valores de um Object com Destructuring&#10;Assignment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECMAScript/LetEVar.js" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript/LetEVar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECMAScript/Unidade05-FunçõeseObjetos.html" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript/Unidade05-FunçõeseObjetos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,21 +160,7 @@
       <workItem from="1614193464984" duration="2216000" />
       <workItem from="1614271834845" duration="834000" />
       <workItem from="1614273031234" duration="1239000" />
-      <workItem from="1614284246134" duration="5625000" />
-    </task>
-    <task id="LOCAL-00093" summary="JQUERY / Inserir conteúdo">
-      <created>1613491043231</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1613491043231</updated>
-    </task>
-    <task id="LOCAL-00094" summary="Adicionando conteudo a pagina com jquery">
-      <created>1613491767913</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1613491767913</updated>
+      <workItem from="1614284246134" duration="6639000" />
     </task>
     <task id="LOCAL-00095" summary="Alterar atributos de um elemento">
       <created>1613492147326</created>
@@ -503,7 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614290289428</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary=" Extrair valores de um array com Destructuring&#10;Assignment">
+      <created>1614290593038</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1614290593038</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Extrair valores de um Object com Destructuring&#10;Assignment">
+      <created>1614290826584</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1614290826584</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,8 +525,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="teste de layout (eu testando)" />
-    <MESSAGE value="Adicionando classes do BootStrap" />
     <MESSAGE value="Alterando alinhamento" />
     <MESSAGE value="Alterando aparência de listas com BootStrap" />
     <MESSAGE value="Alterando os estilos dos botões" />
@@ -548,7 +548,9 @@
     <MESSAGE value="Arrow function" />
     <MESSAGE value="Usando o this" />
     <MESSAGE value="Usando o método bind e o método arrow&#10;function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Usando o método bind e o método arrow&#10;function" />
+    <MESSAGE value=" Extrair valores de um array com Destructuring&#10;Assignment" />
+    <MESSAGE value="Extrair valores de um Object com Destructuring&#10;Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extrair valores de um Object com Destructuring&#10;Assignment" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

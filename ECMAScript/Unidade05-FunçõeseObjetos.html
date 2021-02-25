@@ -18,15 +18,14 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.min.js"></script>
         <script type="text/babel">
 
-           var {tipo,marca,tampas} = {
-               tipo:"caneta",
-               cor:"Azul",
-               marca:"Bic",
-               tampas:["Redondas","quadradas"]
+           function* idCriador(){
+               var i = 0;
+               while(true){
+                   yield i++;
+               }
            }
 
-           alert(marca)
-           alert(tampas[1])
+           var g = idCriador();
 
 
         </script>
