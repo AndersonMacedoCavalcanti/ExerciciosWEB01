@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="projeto pessoal 2">
-      <change afterPath="$PROJECT_DIR$/ECMAScript/LetEVar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ECMAScript/Unidade04-ComeçandoaprogramaremES6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Usando let para manter valor local.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Unidade06-BootstrapFormulários.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/Unidade06-BootstrapFormulários.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/estilos/estiloHome.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/estilos/estiloHome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/projetoTeste/PageHome.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrap/projetoTeste/PageHome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECMAScript/Unidade04-ComeçandoaprogramaremES6.html" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript/Unidade04-ComeçandoaprogramaremES6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.LetEVar.js">
+  <component name="RunManager" selected="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -95,10 +90,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetEVar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ECMAScript/LetEVar.js" working-dir="$PROJECT_DIR$/ECMAScript">
+    <configuration name="Unidade04-ComeçandoaprogramaremES6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ECMAScript/Unidade04-ComeçandoaprogramaremES6.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Unidade06-Números.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade06-Números.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
+    <configuration name="LetEVar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ECMAScript/LetEVar.js" working-dir="$PROJECT_DIR$/ECMAScript">
       <method v="2" />
     </configuration>
     <configuration name="Unidade07-Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade07-Strings.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
@@ -112,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html" />
         <item itemvalue="Node.js.LetEVar.js" />
         <item itemvalue="Node.js.Unidade09-Object.js" />
         <item itemvalue="Node.js.Unidade08-Date.js" />
         <item itemvalue="Node.js.Unidade07-Strings.js" />
-        <item itemvalue="Node.js.Unidade06-Números.js" />
       </list>
     </recent_temporary>
   </component>
@@ -164,21 +159,7 @@
       <workItem from="1614193464984" duration="2216000" />
       <workItem from="1614271834845" duration="834000" />
       <workItem from="1614273031234" duration="1239000" />
-      <workItem from="1614284246134" duration="2060000" />
-    </task>
-    <task id="LOCAL-00083" summary="Como trabalhar com charAt&#10;e split">
-      <created>1613442852472</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1613442852472</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Como trabalhar com substr">
-      <created>1613443169910</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1613443169910</updated>
+      <workItem from="1614284246134" duration="2709000" />
     </task>
     <task id="LOCAL-00085" summary="Como trabalhar com toLowerCase e toUpperCase">
       <created>1613445498692</created>
@@ -509,7 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613785246263</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Subindo arquivos">
+      <created>1614287180746</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1614287180746</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Usando let para manter valor local.">
+      <created>1614287226678</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1614287226678</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,8 +524,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Efeitos de animação personalizado" />
-    <MESSAGE value=" Projeto - Criar um Image Rotator -&#10;aula 1" />
     <MESSAGE value="Projeto - Criar um Image Rotator -&#10;aula 2" />
     <MESSAGE value=" Projeto - Criar um Image Rotator -&#10;aula 3" />
     <MESSAGE value="Projeto - Criar um Image Rotator - aula 4" />
@@ -554,7 +547,9 @@
     <MESSAGE value="Criar formulários Inline" />
     <MESSAGE value="Formulários horizontais&#10;, com defeito (tem que arrumar)" />
     <MESSAGE value="projeto pessoal 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="projeto pessoal 2" />
+    <MESSAGE value="Subindo arquivos" />
+    <MESSAGE value="Usando let para manter valor local." />
+    <option name="LAST_COMMIT_MESSAGE" value="Usando let para manter valor local." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

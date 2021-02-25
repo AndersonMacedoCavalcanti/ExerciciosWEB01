@@ -17,13 +17,15 @@
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.min.js"></script>
         <script type="text/babel">
-          for(let i = 0; i <= 45 ; i++){
-            let div = document.createElement("div");
-            div.onclick = function(){
-              alert("Voce clicou numero: "+i);
-            }
-            document.getElementsByTagName("section")[0].appendChild(div);
+
+          const NASCIMENTO = 1997;
+
+          function calcularIdade(anoAtual){
+            return anoAtual-NASCIMENTO;
           }
+
+          alert(calcularIdade(2021))
+
         </script>
 </head>
 <body>
