@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Generator - exemplo 2">
+      <change afterPath="$PROJECT_DIR$/ECMAScript/Unidade06-Classes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECMAScript/LetEVar.js" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript/LetEVar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECMAScript/Unidade05-FunçõeseObjetos.html" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript/Unidade05-FunçõeseObjetos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,14 +159,7 @@
       <workItem from="1614193464984" duration="2216000" />
       <workItem from="1614271834845" duration="834000" />
       <workItem from="1614273031234" duration="1239000" />
-      <workItem from="1614284246134" duration="7821000" />
-    </task>
-    <task id="LOCAL-00097" summary=" Detectar as dimensões da janela de um documento">
-      <created>1613493820387</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1613493820388</updated>
+      <workItem from="1614284246134" duration="8850000" />
     </task>
     <task id="LOCAL-00098" summary="Encontrar a posição de um elemento">
       <created>1613494869439</created>
@@ -505,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614292459554</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="Generator - exemplo 2">
+      <created>1614292842492</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1614292842492</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
