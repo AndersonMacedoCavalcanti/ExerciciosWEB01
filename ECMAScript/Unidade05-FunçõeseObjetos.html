@@ -18,16 +18,11 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.min.js"></script>
         <script type="text/babel">
 
-           var jogador = { //OBJ
-               nome:"messi", //propriedades
-               Habilidades:["chutar","driblar","correr"], //propriedades
-               escreverHabilidades(){ // metodos
-                   this.Habilidades.forEach(skill => { alert(this.nome + " e bom em "+ skill);});
-               }
-           }
+           var [primeiro,segundo,...resto] = ["Uva","Maca","Pera","Mamao"]
 
-           jogador.escreverHabilidades();
+           var fruta = [resto]
 
+           alert(fruta)
 
 
 
