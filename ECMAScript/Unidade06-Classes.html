@@ -8,21 +8,36 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser-polyfill.js"></script>
 
         <script type="text/babel">
+class Produto{
+    constructor(nome,preco) {
+        this.preco = preco;
+        this.nome = nome;
+    }
 
-        class Produto{
-            constructor(nome,preco) {
-                this.preco = preco;
-                this.nome = nome;
-            }
+    escreverDados(){
+        console.log(`minha ${this.nome} custa ${this.preco}`)
+    }
 
-            escreverDados(){
-                console.log(`minha ${this.nome} custa ${this.preco}`)
-            }
+}
 
-        }
+    class Tv extends Produto{
 
-        var caneta = new Produto("Caneta",5.99);
-        caneta.escreverDados();
+        constructor(nome, preco, marca) {
+            super(nome, preco);
+            this.marca = marca;
+
+        };
+
+        escreverDados(){
+            console.log(`minha ${this.nome} da marca ${this.marca} custa ${this.preco}`)
+        };
+    }
+
+    var caneta = new Produto("Caneta",5.99);
+    caneta.escreverDados();
+
+    var tv1 = new Tv("tv smart",15000,"Samsung");
+    tv1.escreverDados();
 
         </script>
 </head>
