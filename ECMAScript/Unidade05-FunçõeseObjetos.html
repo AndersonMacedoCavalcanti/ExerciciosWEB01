@@ -18,10 +18,20 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.min.js"></script>
         <script type="text/babel">
 
-           var minhaSlada = (frutas) => alert(frutas) //arrow function substitui a escrita da funcao ex: function tal(fruta){}...
+           var jogador = { //OBJ
+               nome:"messi", //propriedades
+               Habilidades:["chutar","driblar","correr"], //propriedades
+               escreverHabilidades: function(){ // metodos
+                   var _this = this; // tranfere a propriedades do this interno para ser usado fora
+                   this.Habilidades.forEach(function(skill){
+                       alert(_this.nome + " e bom em "+ skill);
+                   });
+               }
+           }
+
+           jogador.escreverHabilidades();
 
 
-           minhaSlada(["uva","laranja"]);
 
         </script>
 </head>
