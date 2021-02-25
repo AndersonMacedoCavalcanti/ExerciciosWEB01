@@ -18,12 +18,15 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.min.js"></script>
         <script type="text/babel">
 
-           var [primeiro,segundo,...resto] = ["Uva","Maca","Pera","Mamao"]
+           var {tipo,marca,tampas} = {
+               tipo:"caneta",
+               cor:"Azul",
+               marca:"Bic",
+               tampas:["Redondas","quadradas"]
+           }
 
-           var fruta = [resto]
-
-           alert(fruta)
-
+           alert(marca)
+           alert(tampas[1])
 
 
         </script>
