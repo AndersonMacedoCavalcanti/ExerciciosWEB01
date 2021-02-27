@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Arredondar variáveis">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" NULL">
       <change beforePath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,21 +177,7 @@
       <workItem from="1614377115378" duration="186000" />
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
-      <workItem from="1614456545019" duration="4694000" />
-    </task>
-    <task id="LOCAL-00108" summary=" Projeto - Criar um Image Rotator -&#10;aula 1">
-      <created>1613597114167</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1613597114167</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Projeto - Criar um Image Rotator -&#10;aula 2">
-      <created>1613597627378</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1613597627378</updated>
+      <workItem from="1614456545019" duration="5089000" />
     </task>
     <task id="LOCAL-00110" summary=" Projeto - Criar um Image Rotator -&#10;aula 3">
       <created>1613598687945</created>
@@ -522,7 +508,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614461184341</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary=" Boolean">
+      <created>1614461442573</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1614461442573</updated>
+    </task>
+    <task id="LOCAL-00158" summary=" NULL">
+      <created>1614461592077</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1614461592077</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,8 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="projeto pessoal 2" />
-    <MESSAGE value="Subindo arquivos" />
     <MESSAGE value="Usando let para manter valor local." />
     <MESSAGE value="Usando const" />
     <MESSAGE value="Template String" />
@@ -567,7 +565,9 @@
     <MESSAGE value="Funções numéricas" />
     <MESSAGE value="Testar o tipo de números das variáveis" />
     <MESSAGE value="Arredondar variáveis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arredondar variáveis" />
+    <MESSAGE value=" Boolean" />
+    <MESSAGE value=" NULL" />
+    <option name="LAST_COMMIT_MESSAGE" value=" NULL" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

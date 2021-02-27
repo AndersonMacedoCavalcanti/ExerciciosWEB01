@@ -1,5 +1,7 @@
 <?php
-	$_fumante = null;
+	$_nome = "Anderson Macedo Cavalcanti";
+	$_telefone = "1515615151";
+	$_fumante = false;
 ?>
 
 
@@ -10,12 +12,13 @@
  </head>
  <body>
 	<?php
+	// isset verifica se existe valor na variavel ou se ela esta configurada
 
-	if(is_null($_fumante)) {
-        echo "O valor e null";
-    }else{
-        echo "O valor nao e null";
-    }
+    echo isset($_nome) . "<br>";
+    echo isset($_telefone) . "<br>";
+    echo isset($_fumante) . "<br>";
+
+
     ?>
  </body>
 </html>
