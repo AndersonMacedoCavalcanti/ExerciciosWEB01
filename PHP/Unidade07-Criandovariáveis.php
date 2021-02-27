@@ -1,5 +1,6 @@
 <?php
-	$_nome = "Curso PHP Fundamental";
+	$_salario = 800;
+	$_meses = 3;
 ?>
 
 
@@ -10,24 +11,26 @@
  </head>
  <body>
 	<?php
-		// strlen - Retorna a quantidade de letras
-		echo strlen ($_nome)." - ";
 
-		// stripos - Retorna primeira ocorrencia
-		echo stripos($_nome,"P")." - ";
+	//Multiplicacao e Divisao
+	echo $_salario * $_meses."<br>";
+    echo $_salario / 2 . "<br>";
 
-		// strripos - Retorna ultima ocorrencia
-        echo strripos($_nome,"P")." - ";
+    //Exponencial
+	echo "Exponencial: ". pow(2,3) . "<br>";
 
-        // strtolower - Converte para eltras mini
-		echo strtolower($_nome)." - ";
+	//Raix Quadrada
+	echo "Raiz quadrada: " . sqrt(36) . "<br>";
 
-		// strtolower - Converte para eltras Maius
-		echo strtoupper($_nome)." - ";
+	//Randomico Generica
+	echo "Numeros Genericos: " . rand() . "<br>";
 
-		// SUBSTR_COUNT - Conta quantas ocorrencias
-		echo substr_count($_nome,"P")." - ";
-	    echo substr_count($_nome,"PHP")." - ";
+	//Randomicos entre intervalo
+    echo "Numeros Genericos: " . rand(0,10) . "<br>";
+
+    //Valor absoluto
+	echo "Numero abs: " . abs(-50) . "<br>"
+
 
     ?>
  </body>
