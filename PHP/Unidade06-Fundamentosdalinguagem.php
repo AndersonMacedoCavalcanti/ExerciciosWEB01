@@ -4,6 +4,9 @@
   <title>Teste PHP</title>
  </head>
  <body>
-  <?php echo "<p>Olá Mundo</p>";?>
+  <?php
+    // Comentario PHP -- ele nao e visivel para o usuario pelo inspecionador do navegador
+    echo "<p>Olá Mundos</p>";
+    ?>
  </body>
 </html>
