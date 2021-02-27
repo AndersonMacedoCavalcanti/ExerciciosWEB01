@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Funções de Strings">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Funções numéricas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" afterDir="false" />
     </list>
@@ -178,14 +178,7 @@
       <workItem from="1614377115378" duration="186000" />
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
-      <workItem from="1614456545019" duration="3313000" />
-    </task>
-    <task id="LOCAL-00105" summary="Efeitos de FadeIn, FadeOut, FadeTo e FadeToggle">
-      <created>1613592079861</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1613592079861</updated>
+      <workItem from="1614456545019" duration="4039000" />
     </task>
     <task id="LOCAL-00106" summary="Efeitos de SlideUp, SlideDown e SlideToggle">
       <created>1613592238417</created>
@@ -523,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614458759348</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="Funções numéricas">
+      <created>1614460146134</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1614460146134</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +543,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Aplicar BootStrap para otimizar Formulários" />
     <MESSAGE value="Criar formulários Inline" />
     <MESSAGE value="Formulários horizontais&#10;, com defeito (tem que arrumar)" />
     <MESSAGE value="projeto pessoal 2" />
@@ -568,7 +567,8 @@
     <MESSAGE value="Como criar suas primeiras variáveis em PHP" />
     <MESSAGE value="Variáveis de Strings" />
     <MESSAGE value="Funções de Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funções de Strings" />
+    <MESSAGE value="Funções numéricas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funções numéricas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
