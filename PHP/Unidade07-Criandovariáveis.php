@@ -1,5 +1,5 @@
 <?php
-	$_gasolina = 5.99;
+	$_fumante = false;
 ?>
 
 
@@ -10,15 +10,12 @@
  </head>
  <body>
 	<?php
-	// arredondar para media
-		echo " Arredondando para media $_gasolina = " . round($_gasolina) . "<br><br>";
 
-	// arredondar para cima
-        echo " Arredondando para cima $_gasolina = " . ceil($_gasolina) . "<br><br>";
-
-	//arredondar para baixo
-     echo " Arredondando para baixo $_gasolina = " . floor($_gasolina) . "<br><br>";
-
+	if($_fumante) {
+        echo "Ele fuma";
+    }else{
+        echo "Ele nao fuma";
+    }
     ?>
  </body>
 </html>
