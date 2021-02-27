@@ -1,5 +1,5 @@
 <?php
-$_dia = "sexta";
+$_dia = "terce";
 ?>
 
 <html lang = "pt-BR">
@@ -10,16 +10,7 @@ $_dia = "sexta";
  <body>
 	<?php
 
-		switch ($_dia){
-			case "segunda":
-				echo "segunda";
-				break;
-			case "sexta":
-				echo "sexta";
-				break;
-			default:
-				echo "nada";
-		}
+		echo $_dia=="sexta"?"ok":"que pena";
 
     ?>
  </body>
