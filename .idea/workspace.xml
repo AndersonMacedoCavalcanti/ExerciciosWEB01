@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Classes">
-      <change beforePath="$PROJECT_DIR$/ECMAScript/Unidade06-Classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/ECMAScript/Unidade06-Classes.html" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Herança">
+      <change afterPath="$PROJECT_DIR$/PHP/teste.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,6 +39,16 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PHP/teste.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/jquery/Unidade04-Alémdobásico.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="9f263b9f-f170-43d9-932f-18886cd137db" name="Apache Local Web Server" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -54,14 +68,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ECMAScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../php/php.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,40 +94,39 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.LetEVar.js">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php">
+    <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
+      <method v="2" />
     </configuration>
     <configuration name="Unidade04-ComeçandoaprogramaremES6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ECMAScript/Unidade04-ComeçandoaprogramaremES6.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unidade06-Fundamentosdalinguagem.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP/Unidade06-Fundamentosdalinguagem.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="teste.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ExerciciosAula01/PHP/teste.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="LetEVar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ECMAScript/LetEVar.js" working-dir="$PROJECT_DIR$/ECMAScript">
       <method v="2" />
     </configuration>
-    <configuration name="Unidade07-Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade07-Strings.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Apache Local Web Server">
       <method v="2" />
     </configuration>
-    <configuration name="Unidade08-Date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade08-Date.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
-      <method v="2" />
-    </configuration>
-    <configuration name="Unidade09-Object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JAVASCRIPT/Unidade09-Object.js" working-dir="$PROJECT_DIR$/JAVASCRIPT">
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.teste.php" />
+      <item itemvalue="JavaScript Debug.Unidade04-Alémdobásico.html" />
+      <item itemvalue="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html" />
+      <item itemvalue="Node.js.LetEVar.js" />
+      <item itemvalue="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php" />
+        <item itemvalue="JavaScript Debug.Unidade04-Alémdobásico.html" />
+        <item itemvalue="JavaScript Debug.teste.php" />
         <item itemvalue="Node.js.LetEVar.js" />
         <item itemvalue="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html" />
-        <item itemvalue="Node.js.Unidade09-Object.js" />
-        <item itemvalue="Node.js.Unidade08-Date.js" />
-        <item itemvalue="Node.js.Unidade07-Strings.js" />
       </list>
     </recent_temporary>
   </component>
@@ -158,14 +174,10 @@
       <workItem from="1614193464984" duration="2216000" />
       <workItem from="1614271834845" duration="834000" />
       <workItem from="1614273031234" duration="1239000" />
-      <workItem from="1614284246134" duration="9356000" />
-    </task>
-    <task id="LOCAL-00099" summary="Como alterar o scroll de uma página a&#10;partir de um evento">
-      <created>1613496166375</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1613496166377</updated>
+      <workItem from="1614284246134" duration="10922000" />
+      <workItem from="1614377115378" duration="186000" />
+      <workItem from="1614377348315" duration="4351000" />
+      <workItem from="1614382489790" duration="266000" />
     </task>
     <task id="LOCAL-00100" summary="Como alterar o scroll para mais de um elemento / Ajustando a altura e largura dos elementos em tempo real">
       <created>1613499039238</created>
@@ -503,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614293946507</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary=" Herança">
+      <created>1614294441676</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1614294441676</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,7 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Alterando o tamanho dos botões" />
     <MESSAGE value="Habilitando ou desabilitando botões" />
     <MESSAGE value="Aplicando estilos em imagens" />
     <MESSAGE value="Aplicando estilos em textos" />
@@ -548,7 +566,8 @@
     <MESSAGE value="Generators" />
     <MESSAGE value="Generator - exemplo 2" />
     <MESSAGE value=" Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Classes" />
+    <MESSAGE value=" Herança" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Herança" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
