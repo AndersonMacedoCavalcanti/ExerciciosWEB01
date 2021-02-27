@@ -1,11 +1,7 @@
 <?php
-	$_salada = [
-			"vitamina"=>"laranja","pesego",
-			"suco"=>"uva"];
-
+	
 	$_lista = array("joao","marcus","gustavo");
 
-	$_numerso = [47,29,42,04,27,21];
 ?>
 
 
@@ -17,48 +13,9 @@
  <body>
 	<?php
 
-	array_push($_salada,"teste");
-    array_pop($_salada);
-
-	foreach( array_keys($_salada) as $_value ){
-		echo $_value . " - ";
-	}
-
-    echo "<br>";
-
-    foreach( $_salada as $_value ){
-        echo $_value . " - ";
-    }
-
+	echo in_array("joao",$_lista); // retorna 1 ou 0
 	echo "<br>";
-
-    array_push($_lista,"teste");
-    array_unshift($_lista,"teste");
-    array_pop($_lista);
-
-
-
-    foreach( $_lista as $_value ){
-        echo $_value . " - ";
-    }
-
-    echo "<br>";
-    echo "<br>";
-
-
-
-    sort($_numerso); // ou rsort
-
-    print_r($_numerso);
-
-    echo "<br>";
-
-    echo min($_numerso);
-    echo "<br>";
-
-    echo max($_numerso);
-
-
+	echo array_search("gustavo",$_lista); //retorna a posicao do elemento
 
     ?>
  </body>
