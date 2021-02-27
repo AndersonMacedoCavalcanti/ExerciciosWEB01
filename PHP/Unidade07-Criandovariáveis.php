@@ -1,15 +1,17 @@
 <?php
-$_nomee = "Anderson Macedo Cavalcanti";
-$_salario = 3000;
+	$_marcar = 'Fiat';
+	$_nome = "Uno";
 ?>
+
 
 <html lang = "pt-BR">
  <head>
   <meta charset="UTF-8">
-  <title>Teste PHP</title>
+  <title>Unidade 7</title>
  </head>
  <body>
-    <?php echo $_nomee;?>
- <p><?php echo $_salario;?></p>
+	<?php
+		echo $_marcar .", ". $_nome;
+	?>
  </body>
 </html>
