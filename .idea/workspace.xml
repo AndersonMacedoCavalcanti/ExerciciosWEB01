@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" NULL">
-      <change beforePath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="ISSET">
+      <change afterPath="$PROJECT_DIR$/PHP/Unidade08-CriandoArraynoPHP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,14 +178,7 @@
       <workItem from="1614377115378" duration="186000" />
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
-      <workItem from="1614456545019" duration="5089000" />
-    </task>
-    <task id="LOCAL-00110" summary=" Projeto - Criar um Image Rotator -&#10;aula 3">
-      <created>1613598687945</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1613598687945</updated>
+      <workItem from="1614456545019" duration="7575000" />
     </task>
     <task id="LOCAL-00111" summary="Projeto - Criar um Image Rotator - aula 4">
       <created>1613600607176</created>
@@ -522,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614461592077</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="ISSET">
+      <created>1614461790082</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1614461790082</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +543,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Usando let para manter valor local." />
     <MESSAGE value="Usando const" />
     <MESSAGE value="Template String" />
     <MESSAGE value="Operador Spread" />
@@ -567,7 +567,8 @@
     <MESSAGE value="Arredondar variáveis" />
     <MESSAGE value=" Boolean" />
     <MESSAGE value=" NULL" />
-    <option name="LAST_COMMIT_MESSAGE" value=" NULL" />
+    <MESSAGE value="ISSET" />
+    <option name="LAST_COMMIT_MESSAGE" value="ISSET" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
