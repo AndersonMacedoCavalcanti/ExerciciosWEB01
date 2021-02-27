@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Inserir um comentário">
-      <change afterPath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Variáveis de Strings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,21 +178,7 @@
       <workItem from="1614377115378" duration="186000" />
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
-      <workItem from="1614456545019" duration="904000" />
-    </task>
-    <task id="LOCAL-00102" summary="Mostrar e esconder elementos com clique / Mostrar e esconder elementos ao rolar o mouse por cima.">
-      <created>1613586759938</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1613586759938</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Enviar parâmetros para um função com evento.">
-      <created>1613589825617</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1613589825617</updated>
+      <workItem from="1614456545019" duration="1950000" />
     </task>
     <task id="LOCAL-00104" summary="Efeitos básicos de animação">
       <created>1613591755197</created>
@@ -522,7 +509,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614457012597</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Como criar suas primeiras variáveis em PHP">
+      <created>1614457614330</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1614457614330</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Variáveis de Strings">
+      <created>1614457846422</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1614457846422</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,8 +543,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Aplicando estilos em textos" />
-    <MESSAGE value=" Aplicando estilos em tabelas" />
     <MESSAGE value="Adaptando o tamanho do vídeo" />
     <MESSAGE value=" Aplicar BootStrap para otimizar Formulários" />
     <MESSAGE value="Criar formulários Inline" />
@@ -567,7 +566,9 @@
     <MESSAGE value=" Herança" />
     <MESSAGE value="Como Adicionar códigos PHP a sua página" />
     <MESSAGE value="Inserir um comentário" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserir um comentário" />
+    <MESSAGE value="Como criar suas primeiras variáveis em PHP" />
+    <MESSAGE value="Variáveis de Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variáveis de Strings" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
