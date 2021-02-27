@@ -1,5 +1,5 @@
 <?php
-	$_fumante = false;
+	$_fumante = null;
 ?>
 
 
@@ -11,10 +11,10 @@
  <body>
 	<?php
 
-	if($_fumante) {
-        echo "Ele fuma";
+	if(is_null($_fumante)) {
+        echo "O valor e null";
     }else{
-        echo "Ele nao fuma";
+        echo "O valor nao e null";
     }
     ?>
  </body>
