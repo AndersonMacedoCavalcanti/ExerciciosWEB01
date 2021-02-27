@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Funções numéricas">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Testar o tipo de números das variáveis">
       <change beforePath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade07-Criandovariáveis.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,14 +177,7 @@
       <workItem from="1614377115378" duration="186000" />
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
-      <workItem from="1614456545019" duration="4039000" />
-    </task>
-    <task id="LOCAL-00106" summary="Efeitos de SlideUp, SlideDown e SlideToggle">
-      <created>1613592238417</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1613592238417</updated>
+      <workItem from="1614456545019" duration="4341000" />
     </task>
     <task id="LOCAL-00107" summary=" Efeitos de animação personalizado">
       <created>1613596303524</created>
@@ -523,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614460146134</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Testar o tipo de números das variáveis">
+      <created>1614460835036</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1614460835036</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Criar formulários Inline" />
     <MESSAGE value="Formulários horizontais&#10;, com defeito (tem que arrumar)" />
     <MESSAGE value="projeto pessoal 2" />
     <MESSAGE value="Subindo arquivos" />
@@ -568,7 +566,8 @@
     <MESSAGE value="Variáveis de Strings" />
     <MESSAGE value="Funções de Strings" />
     <MESSAGE value="Funções numéricas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funções numéricas" />
+    <MESSAGE value="Testar o tipo de números das variáveis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testar o tipo de números das variáveis" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
