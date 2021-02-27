@@ -1,5 +1,6 @@
 <?php
 $_dia = "terce";
+$_list = [1,2,5,7,9,4,3]
 ?>
 
 <html lang = "pt-BR">
@@ -10,7 +11,9 @@ $_dia = "terce";
  <body>
 	<?php
 
-		echo $_dia=="sexta"?"ok":"que pena";
+		for ($_i = 0; $_i < count($_list); $_i++){
+			echo $_i . "<br>";
+		}
 
     ?>
  </body>

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Pesquisa dentro de um array">
-      <change afterPath="$PROJECT_DIR$/PHP/Unidade09-AçõesCondicionais.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Como funciona o operador Ternário">
+      <change beforePath="$PROJECT_DIR$/PHP/Unidade09-AçõesCondicionais.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade09-AçõesCondicionais.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,21 +177,7 @@
       <workItem from="1614377115378" duration="186000" />
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
-      <workItem from="1614456545019" duration="8447000" />
-    </task>
-    <task id="LOCAL-00113" summary="Compreender o Grid c/ exercício de&#10;colunas">
-      <created>1613604291917</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1613604291917</updated>
-    </task>
-    <task id="LOCAL-00114" summary="Determinar layouts diferentes com Grid">
-      <created>1613678433102</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1613678433102</updated>
+      <workItem from="1614456545019" duration="8844000" />
     </task>
     <task id="LOCAL-00115" summary="Corrigindo problemas de CSS">
       <created>1613679131000</created>
@@ -522,7 +508,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614464719145</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="Switch Case">
+      <created>1614465175643</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1614465175643</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Como funciona o operador Ternário">
+      <created>1614465266135</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1614465266135</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,8 +542,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Operador Spread" />
-    <MESSAGE value="Parâmetro Default de funções" />
     <MESSAGE value="Repetindo strings" />
     <MESSAGE value="Arrow function" />
     <MESSAGE value="Usando o this" />
@@ -567,7 +565,9 @@
     <MESSAGE value="ISSET" />
     <MESSAGE value=" Funções para Array" />
     <MESSAGE value="Pesquisa dentro de um array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pesquisa dentro de um array" />
+    <MESSAGE value="Switch Case" />
+    <MESSAGE value="Como funciona o operador Ternário" />
+    <option name="LAST_COMMIT_MESSAGE" value="Como funciona o operador Ternário" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
