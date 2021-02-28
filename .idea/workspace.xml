@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Identificar o operador ternario">
-      <change beforePath="$PROJECT_DIR$/PHP/Unidade14-Formulário.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade14-Formulário.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Form - single page">
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +16,7 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -42,6 +43,7 @@
     <setting file="file://$PROJECT_DIR$/PHP/Unidade06-Fundamentosdalinguagem.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/jquery/Unidade04-Alémdobásico.html" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="9f263b9f-f170-43d9-932f-18886cd137db" name="Apache Local Web Server" />
@@ -74,7 +76,7 @@
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -93,22 +95,11 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.ComocriarumaconexãocomMySQL.php">
+    <configuration name="ComocriarumaconexãocomMySQL.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Unidade04-ComeçandoaprogramaremES6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ECMAScript/Unidade04-ComeçandoaprogramaremES6.html" useBuiltInWebServerPort="true">
+    <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Unidade06-Fundamentosdalinguagem.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP/Unidade06-Fundamentosdalinguagem.php" useBuiltInWebServerPort="true">
@@ -126,17 +117,17 @@
     <list>
       <item itemvalue="JavaScript Debug.teste.php" />
       <item itemvalue="JavaScript Debug.Unidade04-Alémdobásico.html" />
-      <item itemvalue="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html" />
       <item itemvalue="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php" />
+      <item itemvalue="JavaScript Debug.ComocriarumaconexãocomMySQL.php" />
       <item itemvalue="Node.js.LetEVar.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ComocriarumaconexãocomMySQL.php" />
         <item itemvalue="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php" />
         <item itemvalue="JavaScript Debug.Unidade04-Alémdobásico.html" />
         <item itemvalue="JavaScript Debug.teste.php" />
         <item itemvalue="Node.js.LetEVar.js" />
-        <item itemvalue="JavaScript Debug.Unidade04-ComeçandoaprogramaremES6.html" />
       </list>
     </recent_temporary>
   </component>
@@ -189,14 +180,7 @@
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
-      <workItem from="1614528784790" duration="7804000" />
-    </task>
-    <task id="LOCAL-00128" summary=" Aplicar BootStrap para otimizar Formulários">
-      <created>1613696106181</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1613696106181</updated>
+      <workItem from="1614528784790" duration="10327000" />
     </task>
     <task id="LOCAL-00129" summary="Criar formulários Inline">
       <created>1613696922293</created>
@@ -534,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614536818044</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="Form - single page">
+      <created>1614537230851</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1614537230851</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +545,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Variáveis de Strings" />
     <MESSAGE value="Funções de Strings" />
     <MESSAGE value="Funções numéricas" />
     <MESSAGE value="Testar o tipo de números das variáveis" />
@@ -579,7 +569,8 @@
     <MESSAGE value="Resgatar informações do formulário" />
     <MESSAGE value="Identificação do recebimento" />
     <MESSAGE value=" Identificar o operador ternario" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Identificar o operador ternario" />
+    <MESSAGE value="Form - single page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Form - single page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
