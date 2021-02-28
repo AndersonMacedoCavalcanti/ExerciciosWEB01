@@ -26,14 +26,16 @@ if(!$produto){
   <title>Unidade 7</title>
  </head>
  <body>
+	<ol>
+	    <?php
+	        while($registros = mysqli_fetch_row($produto)){ // pode usar assoc no lugar de row para mostrar como indice o nome das colunuas
+	    ?>
+		    <li><?php echo $registros[1]?></li>
 
-    <?php
-    while($registros = mysqli_fetch_assoc($produto)){ // pode usar assoc no lugar de row para mostrar como indice o nome das colunuas
-    	print_r($registros);
-    	echo "<br>";
-
-    }
-    ?>
+	    <?php
+	        }
+	    ?>
+	</ol>
 
  </body>
 </html>
