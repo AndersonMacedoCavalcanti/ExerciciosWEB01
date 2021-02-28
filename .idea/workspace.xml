@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Mostrar dia da semana em português">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="DIFF -  DateInterval Object">
+      <change afterPath="$PROJECT_DIR$/PHP/Unidade13-Linkscomparâmetros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/abacate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/destino.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/fonte.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/laranja.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/maca.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/imagens/abacate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/imagens/laranja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/imagens/maca.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Unidade12-DataeHora.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade12-DataeHora.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,14 +198,7 @@
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
-      <workItem from="1614528784790" duration="4034000" />
-    </task>
-    <task id="LOCAL-00121" summary="Alterando os estilos dos botões">
-      <created>1613691328857</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1613691328857</updated>
+      <workItem from="1614528784790" duration="4739000" />
     </task>
     <task id="LOCAL-00122" summary=" Alterando o tamanho dos botões">
       <created>1613691730145</created>
@@ -535,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614532508188</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="DIFF -  DateInterval Object">
+      <created>1614533378558</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1614533378558</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +563,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Generators" />
     <MESSAGE value="Generator - exemplo 2" />
     <MESSAGE value=" Classes" />
     <MESSAGE value=" Herança" />
@@ -580,7 +587,8 @@
     <MESSAGE value="Mostrar Hora e Data" />
     <MESSAGE value="Mostrar Hora em Português" />
     <MESSAGE value="Mostrar dia da semana em português" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mostrar dia da semana em português" />
+    <MESSAGE value="DIFF -  DateInterval Object" />
+    <option name="LAST_COMMIT_MESSAGE" value="DIFF -  DateInterval Object" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
