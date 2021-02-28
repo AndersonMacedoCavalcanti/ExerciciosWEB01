@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Mostrar os dados dentro de um elemento lista">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Liberar espaço da consulta">
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/utilitarios/curso1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/utilitarios/curso2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PHP - Banco de dados BASICO" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -82,19 +85,31 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\ECMAScript" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\myJqueryScripts" />
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\estilos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO\utilitarios" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\jquery\jqueryScript\estilos" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.ComocriarumaconexãocomMySQL.php">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComocriarumaconexãocomMySQL.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -181,14 +196,7 @@
       <workItem from="1614456545019" duration="9875000" />
       <workItem from="1614528784790" duration="10327000" />
       <workItem from="1614539681417" duration="1401000" />
-      <workItem from="1614551086784" duration="2370000" />
-    </task>
-    <task id="LOCAL-00133" summary="Usando let para manter valor local.">
-      <created>1614287226678</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1614287226678</updated>
+      <workItem from="1614551086784" duration="3291000" />
     </task>
     <task id="LOCAL-00134" summary="Usando const">
       <created>1614287622347</created>
@@ -526,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614552630253</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="Liberar espaço da consulta">
+      <created>1614553738361</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1614553738363</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,7 +561,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Boolean" />
     <MESSAGE value=" NULL" />
     <MESSAGE value="ISSET" />
     <MESSAGE value=" Funções para Array" />
@@ -571,7 +585,8 @@
     <MESSAGE value="Criar uma consulta a uma tabela" />
     <MESSAGE value="Fazer listagem de dados" />
     <MESSAGE value="Mostrar os dados dentro de um elemento lista" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mostrar os dados dentro de um elemento lista" />
+    <MESSAGE value="Liberar espaço da consulta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Liberar espaço da consulta" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
