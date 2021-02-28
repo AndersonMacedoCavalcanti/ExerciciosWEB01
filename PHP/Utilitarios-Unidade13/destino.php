@@ -7,12 +7,21 @@
     <img>
 
         <?php
-            $_salada = array("../imagens/laranja.jpg","../imagens/maca.jpg","../imagens/abacate.jpg");
-            $_codig = $_GET["codigo"]; // pegar o codigo da url
+            $_dados = $_POST; // pegar o codigo da url
+	        $_nome = $_POST["nome"]; // pegar o codigo da url
+            $_email = $_POST["email"]; // pegar o codigo da url
+
+            echo $_nome . "<br><br>";
+
+            echo $_email . "<br><br>";
 
         ?>
 
-        <img src="<?php echo $_salada[$_codig] ?>">
+        <pre>
+	        <?php
+	            print_r($_dados);
+	        ?>
+        </pre>
 
 
     </body>
