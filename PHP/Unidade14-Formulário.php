@@ -1,3 +1,16 @@
+
+<?php
+
+	if(isset($_POST["submit"])){
+        echo $_nome =  isset($_POST["nome"])?$_POST["nome"].  "<br>":"Nao definido" . "<br>";
+        echo $_nome =  isset($_POST["email"])?$_POST["email"] . "<br>":"Nao definido" . "<br>";
+
+    }
+
+
+?>
+
+
 <html lang = "pt-BR">
 	 <head>
 		  <meta charset="UTF-8">
@@ -32,7 +45,7 @@
 	 </head>
 	 <body>
 
-	 <form action="Utilitarios-Unidade13/destino.php" method="POST">
+	 <form action="Unidade14-Formulário.php" method="POST">
 
 		 <label for="nome">Nome Completo</label>
 		 <input type="text" name="nome" id="nome" required>

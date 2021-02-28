@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Identificação do recebimento">
-      <change beforePath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/destino.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/destino.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment=" Identificar o operador ternario">
+      <change beforePath="$PROJECT_DIR$/PHP/Unidade14-Formulário.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade14-Formulário.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,14 +189,7 @@
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
-      <workItem from="1614528784790" duration="7423000" />
-    </task>
-    <task id="LOCAL-00127" summary="Adaptando o tamanho do vídeo">
-      <created>1613695172899</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1613695172899</updated>
+      <workItem from="1614528784790" duration="7804000" />
     </task>
     <task id="LOCAL-00128" summary=" Aplicar BootStrap para otimizar Formulários">
       <created>1613696106181</created>
@@ -534,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614536414151</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary=" Identificar o operador ternario">
+      <created>1614536818044</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1614536818044</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +554,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Como criar suas primeiras variáveis em PHP" />
     <MESSAGE value="Variáveis de Strings" />
     <MESSAGE value="Funções de Strings" />
     <MESSAGE value="Funções numéricas" />
@@ -579,7 +578,8 @@
     <MESSAGE value="Mostrar informações do formulário" />
     <MESSAGE value="Resgatar informações do formulário" />
     <MESSAGE value="Identificação do recebimento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Identificação do recebimento" />
+    <MESSAGE value=" Identificar o operador ternario" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Identificar o operador ternario" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
