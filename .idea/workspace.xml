@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Include e Include_once&#10;usar outros arquivos php">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Require e require_once">
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/conexao/conexao.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,14 +195,7 @@
       <workItem from="1614456545019" duration="9875000" />
       <workItem from="1614528784790" duration="10327000" />
       <workItem from="1614539681417" duration="1401000" />
-      <workItem from="1614551086784" duration="3631000" />
-    </task>
-    <task id="LOCAL-00135" summary="Template String">
-      <created>1614287803002</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1614287803002</updated>
+      <workItem from="1614551086784" duration="4647000" />
     </task>
     <task id="LOCAL-00136" summary="Operador Spread">
       <created>1614288113450</created>
@@ -538,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614554868899</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="Require e require_once">
+      <created>1614555096088</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1614555096088</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +560,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ISSET" />
     <MESSAGE value=" Funções para Array" />
     <MESSAGE value="Pesquisa dentro de um array" />
     <MESSAGE value="Switch Case" />
@@ -583,7 +584,8 @@
     <MESSAGE value="Mostrar os dados dentro de um elemento lista" />
     <MESSAGE value="Liberar espaço da consulta" />
     <MESSAGE value="Include e Include_once&#10;usar outros arquivos php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Include e Include_once&#10;usar outros arquivos php" />
+    <MESSAGE value="Require e require_once" />
+    <option name="LAST_COMMIT_MESSAGE" value="Require e require_once" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
