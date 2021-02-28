@@ -8,9 +8,15 @@
 
 if (mysqli_connect_errno()) {
         echo "Failed to connect to MySQL: " . mysqli_connect_error();
-    }else{
-	echo "Tudo ok";
+    }
+
+$consultas_produtos = "select * from produto";
+$produto = mysqli_query($conecta,$consultas_produtos);
+
+if(!$produto){
+	die("falha na consulta");
 }
+
 
 ?>
 

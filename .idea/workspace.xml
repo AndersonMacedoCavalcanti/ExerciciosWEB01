@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Form - single page">
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Como criar uma conexão com MySQL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,13 +181,7 @@
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
       <workItem from="1614528784790" duration="10327000" />
-    </task>
-    <task id="LOCAL-00129" summary="Criar formulários Inline">
-      <created>1613696922293</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1613696922293</updated>
+      <workItem from="1614539681417" duration="708000" />
     </task>
     <task id="LOCAL-00130" summary="Formulários horizontais&#10;, com defeito (tem que arrumar)">
       <created>1613698049992</created>
@@ -525,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614537230851</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="Como criar uma conexão com MySQL">
+      <created>1614539829874</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1614539829874</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Funções de Strings" />
     <MESSAGE value="Funções numéricas" />
     <MESSAGE value="Testar o tipo de números das variáveis" />
     <MESSAGE value="Arredondar variáveis" />
@@ -570,7 +570,8 @@
     <MESSAGE value="Identificação do recebimento" />
     <MESSAGE value=" Identificar o operador ternario" />
     <MESSAGE value="Form - single page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Form - single page" />
+    <MESSAGE value="Como criar uma conexão com MySQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Como criar uma conexão com MySQL" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
