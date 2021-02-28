@@ -27,6 +27,13 @@ if(!$produto){
  </head>
  <body>
 
+    <?php
+    while($registros = mysqli_fetch_assoc($produto)){ // pode usar assoc no lugar de row para mostrar como indice o nome das colunuas
+    	print_r($registros);
+    	echo "<br>";
+
+    }
+    ?>
 
  </body>
 </html>
