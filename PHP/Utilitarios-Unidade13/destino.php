@@ -9,17 +9,8 @@
 
         <?php
 
-        if(isset($_POST["nome"])){
-            $_nome = $_POST["nome"];
-        }else{
-            echo  $_nome = "Nao definido" . "<br>";
-        }
-
-        if(isset($_POST["email"])){
-            $_nome = $_POST["email"];
-        }else{
-            echo $_email = "Nao definido";
-        }
+      echo $_nome =  isset($_POST["nome"])?$_POST["nome"].  "<br>":"Nao definido" . "<br>";
+      echo $_nome =  isset($_POST["email"])?$_POST["email"] . "<br>":"Nao definido" . "<br>";
 
 
         ?>
