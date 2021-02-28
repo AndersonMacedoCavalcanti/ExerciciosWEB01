@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="foreach">
+      <change afterPath="$PROJECT_DIR$/PHP/Unidade12-DataeHora.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP/Unidade09-AçõesCondicionais.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade09-AçõesCondicionais.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +95,17 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -179,14 +190,7 @@
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
-      <workItem from="1614528784790" duration="155000" />
-    </task>
-    <task id="LOCAL-00116" summary="Adicionando Row">
-      <created>1613679959346</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1613679959347</updated>
+      <workItem from="1614528784790" duration="647000" />
     </task>
     <task id="LOCAL-00117" summary="teste de layout (eu testando)">
       <created>1613689157919</created>
@@ -524,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614465763209</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="foreach">
+      <created>1614529149960</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1614529149960</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +555,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Arrow function" />
     <MESSAGE value="Usando o this" />
     <MESSAGE value="Usando o método bind e o método arrow&#10;function" />
     <MESSAGE value=" Extrair valores de um array com Destructuring&#10;Assignment" />
@@ -569,7 +579,8 @@
     <MESSAGE value="Switch Case" />
     <MESSAGE value="Como funciona o operador Ternário" />
     <MESSAGE value="for" />
-    <option name="LAST_COMMIT_MESSAGE" value="for" />
+    <MESSAGE value="foreach" />
+    <option name="LAST_COMMIT_MESSAGE" value="foreach" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
