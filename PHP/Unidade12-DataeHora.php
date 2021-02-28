@@ -15,11 +15,12 @@
 	 $_minutos = $_agora["minutes"];
 	 $_hora=$_agora["hours"];
 
-	 $_dia=$_agora["mday"];
+	 $_dia= strftime("%A	");
 	 $_mes = strftime("%B");
 	 $_ano=$_agora["year"];
 
-	 echo $_dia . " " . $_mes . " de " . $_ano;
+	 echo $_dia . " de " . $_mes . " de " . $_ano;
+
 
     ?>
  </body>
