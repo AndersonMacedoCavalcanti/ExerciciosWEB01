@@ -4,10 +4,11 @@
   <title>Unidade 7</title>
  </head>
  <body>
+    <?php require("utilitarios/curso3.php"); //caso o require encontre algum erro todu o processamento e parado ?>
 
-    <?php include("utilitarios/curso1.php"); ?>
+    <?php require("utilitarios/curso1.php"); ?>
     "<br>"
-    <?php include_once("utilitarios/curso1.php"); ?> // inclui somente um vez o codigo, caso ele ja esteja sendo incluido nao repitira o codigo
+    <?php require("utilitarios/curso2.php"); ?>
 
  </body>
 </html>

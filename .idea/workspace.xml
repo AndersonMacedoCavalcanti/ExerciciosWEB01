@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Liberar espaço da consulta">
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/utilitarios/curso1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/utilitarios/curso2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Include e Include_once&#10;usar outros arquivos php">
       <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,14 +193,7 @@
       <workItem from="1614456545019" duration="9875000" />
       <workItem from="1614528784790" duration="10327000" />
       <workItem from="1614539681417" duration="1401000" />
-      <workItem from="1614551086784" duration="3291000" />
-    </task>
-    <task id="LOCAL-00134" summary="Usando const">
-      <created>1614287622347</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1614287622347</updated>
+      <workItem from="1614551086784" duration="3631000" />
     </task>
     <task id="LOCAL-00135" summary="Template String">
       <created>1614287803002</created>
@@ -541,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614553738363</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="Include e Include_once&#10;usar outros arquivos php">
+      <created>1614554868899</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1614554868899</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +558,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" NULL" />
     <MESSAGE value="ISSET" />
     <MESSAGE value=" Funções para Array" />
     <MESSAGE value="Pesquisa dentro de um array" />
@@ -586,7 +582,8 @@
     <MESSAGE value="Fazer listagem de dados" />
     <MESSAGE value="Mostrar os dados dentro de um elemento lista" />
     <MESSAGE value="Liberar espaço da consulta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Liberar espaço da consulta" />
+    <MESSAGE value="Include e Include_once&#10;usar outros arquivos php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Include e Include_once&#10;usar outros arquivos php" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
