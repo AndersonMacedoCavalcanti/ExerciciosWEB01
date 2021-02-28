@@ -1,6 +1,8 @@
 <?php
-$_dia = "terce";
-$_list = [1,2,5,7,9,4,3]
+
+$_list = ["nome"=>"anderson",
+		"sobrenome"=>"macedo"]
+
 ?>
 
 <html lang = "pt-BR">
@@ -11,8 +13,8 @@ $_list = [1,2,5,7,9,4,3]
  <body>
 	<?php
 
-		for ($_i = 0; $_i < count($_list); $_i++){
-			echo $_i . "<br>";
+		foreach($_list as $_key => $_values){
+			echo $_key . ": " . $_values . "<br>";
 		}
 
     ?>
