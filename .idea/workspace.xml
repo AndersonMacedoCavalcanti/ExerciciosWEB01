@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Links com parâmetros">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Resgatar com parâmetros">
       <change beforePath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/destino.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/destino.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,14 +189,7 @@
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
-      <workItem from="1614528784790" duration="5091000" />
-    </task>
-    <task id="LOCAL-00123" summary="Habilitando ou desabilitando botões">
-      <created>1613691804196</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1613691804196</updated>
+      <workItem from="1614528784790" duration="5462000" />
     </task>
     <task id="LOCAL-00124" summary="Aplicando estilos em imagens">
       <created>1613694203331</created>
@@ -534,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614534110174</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="Resgatar com parâmetros">
+      <created>1614534301347</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1614534301347</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +554,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Classes" />
     <MESSAGE value=" Herança" />
     <MESSAGE value="Como Adicionar códigos PHP a sua página" />
     <MESSAGE value="Inserir um comentário" />
@@ -579,7 +578,8 @@
     <MESSAGE value="Mostrar dia da semana em português" />
     <MESSAGE value="DIFF -  DateInterval Object" />
     <MESSAGE value="Links com parâmetros" />
-    <option name="LAST_COMMIT_MESSAGE" value="Links com parâmetros" />
+    <MESSAGE value="Resgatar com parâmetros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resgatar com parâmetros" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

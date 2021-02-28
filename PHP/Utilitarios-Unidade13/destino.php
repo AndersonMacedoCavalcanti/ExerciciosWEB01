@@ -4,13 +4,15 @@
         <meta charset="UTF-8">
         <title>Curso PHP FUNDAMENTAL</title>
     </head>
-    <body>
+    <img>
 
         <?php
+            $_salada = array("../imagens/laranja.jpg","../imagens/maca.jpg","../imagens/abacate.jpg");
             $_codig = $_GET["codigo"]; // pegar o codigo da url
 
-            echo $_codig;
         ?>
+
+        <img src="<?php echo $_salada[$_codig] ?>">
 
 
     </body>
