@@ -4,25 +4,24 @@
         <meta charset="UTF-8">
         <title>Curso PHP FUNDAMENTAL</title>
     </head>
+    <body>
     <img>
 
         <?php
-            $_dados = $_POST; // pegar o codigo da url
-	        $_nome = $_POST["nome"]; // pegar o codigo da url
-            $_email = $_POST["email"]; // pegar o codigo da url
 
-            echo $_nome . "<br><br>";
+        if(isset($_POST["nome"])){
+            $_nome = $_POST["nome"];
+        }else{
+            echo  $_nome = "Nao definido" . "<br>";
+        }
 
-            echo $_email . "<br><br>";
+        if(isset($_POST["email"])){
+            $_nome = $_POST["email"];
+        }else{
+            echo $_email = "Nao definido";
+        }
+
 
         ?>
-
-        <pre>
-	        <?php
-	            print_r($_dados);
-	        ?>
-        </pre>
-
-
     </body>
 </html>

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Mostrar informações do formulário">
-      <change afterPath="$PROJECT_DIR$/PHP/Unidade14-Formulário.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Resgatar informações do formulário">
       <change beforePath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/destino.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Utilitarios-Unidade13/destino.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,14 +189,7 @@
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
-      <workItem from="1614528784790" duration="6719000" />
-    </task>
-    <task id="LOCAL-00125" summary="Aplicando estilos em textos">
-      <created>1613694484359</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1613694484359</updated>
+      <workItem from="1614528784790" duration="7097000" />
     </task>
     <task id="LOCAL-00126" summary=" Aplicando estilos em tabelas">
       <created>1613694878544</created>
@@ -536,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614534717007</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="Resgatar informações do formulário">
+      <created>1614535969255</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1614535969255</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +554,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Como Adicionar códigos PHP a sua página" />
     <MESSAGE value="Inserir um comentário" />
     <MESSAGE value="Como criar suas primeiras variáveis em PHP" />
     <MESSAGE value="Variáveis de Strings" />
@@ -581,7 +578,8 @@
     <MESSAGE value="Links com parâmetros" />
     <MESSAGE value="Resgatar com parâmetros" />
     <MESSAGE value="Mostrar informações do formulário" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mostrar informações do formulário" />
+    <MESSAGE value="Resgatar informações do formulário" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resgatar informações do formulário" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
