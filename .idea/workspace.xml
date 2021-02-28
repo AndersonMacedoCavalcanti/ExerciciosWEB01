@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Fazer listagem de dados">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Mostrar os dados dentro de um elemento lista">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,14 +181,7 @@
       <workItem from="1614456545019" duration="9875000" />
       <workItem from="1614528784790" duration="10327000" />
       <workItem from="1614539681417" duration="1401000" />
-      <workItem from="1614551086784" duration="1284000" />
-    </task>
-    <task id="LOCAL-00132" summary="Subindo arquivos">
-      <created>1614287180746</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1614287180746</updated>
+      <workItem from="1614551086784" duration="2370000" />
     </task>
     <task id="LOCAL-00133" summary="Usando let para manter valor local.">
       <created>1614287226678</created>
@@ -527,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614540991901</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <task id="LOCAL-00181" summary="Mostrar os dados dentro de um elemento lista">
+      <created>1614552630252</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1614552630253</updated>
+    </task>
+    <option name="localTasksCounter" value="182" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Arredondar variáveis" />
     <MESSAGE value=" Boolean" />
     <MESSAGE value=" NULL" />
     <MESSAGE value="ISSET" />
@@ -572,7 +570,8 @@
     <MESSAGE value="Como criar uma conexão com MySQL" />
     <MESSAGE value="Criar uma consulta a uma tabela" />
     <MESSAGE value="Fazer listagem de dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fazer listagem de dados" />
+    <MESSAGE value="Mostrar os dados dentro de um elemento lista" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mostrar os dados dentro de um elemento lista" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

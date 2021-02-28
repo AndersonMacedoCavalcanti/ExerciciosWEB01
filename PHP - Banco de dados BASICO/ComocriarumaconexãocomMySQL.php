@@ -37,9 +37,11 @@ if(!$produto){
 	    ?>
 	</ol>
 
+    <?php
+    mysqli_close($conecta); // sempre fechar as conexoes
+    ?>
+
+
  </body>
 </html>
 
-<?php
-    mysqli_close($conecta);
-?>
