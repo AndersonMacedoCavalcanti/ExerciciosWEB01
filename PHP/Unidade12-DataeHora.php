@@ -1,27 +1,30 @@
 
 <html lang = "pt-BR">
- <head>
-  <meta charset="UTF-8">
-  <title>Unidade 7</title>
+	 <head>
+		  <meta charset="UTF-8">
+		  <title>Unidade 7</title>
 
- </head>
- <body>
-	<?php
-	setlocale(LC_TIME, "portuguese");
-	date_default_timezone_set("Brazil/East");
+	 </head>
+	 <body>
+		<?php
 
-	 $_agora = getdate();
-	 $_segundo =$_agora["seconds"];
-	 $_minutos = $_agora["minutes"];
-	 $_hora=$_agora["hours"];
+			$_data1 = new DateTime("2016-01-01");
+			$_date2 = new DateTime("2020-01-04");
+			$_intervalo = $_data1 -> diff($_date2);
 
-	 $_dia= strftime("%A	");
-	 $_mes = strftime("%B");
-	 $_ano=$_agora["year"];
+		?>
 
-	 echo $_dia . " de " . $_mes . " de " . $_ano;
+		<pre>
+			<?php
+				print_r($_intervalo);
+	         ?>
+		</pre>
 
+	    <pre>
+		    <?php
+			    print_r($_intervalo -> format("%a"));
+		    ?>
+	    </pre>
 
-    ?>
- </body>
+	 </body>
 </html>

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Mostrar Hora e Data">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Mostrar dia da semana em português">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/Unidade12-DataeHora.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade12-DataeHora.php" afterDir="false" />
     </list>
@@ -190,21 +190,7 @@
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
-      <workItem from="1614528784790" duration="3269000" />
-    </task>
-    <task id="LOCAL-00119" summary="Alterando alinhamento">
-      <created>1613689975838</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1613689975838</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Alterando aparência de listas com BootStrap">
-      <created>1613690916070</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1613690916070</updated>
+      <workItem from="1614528784790" duration="4034000" />
     </task>
     <task id="LOCAL-00121" summary="Alterando os estilos dos botões">
       <created>1613691328857</created>
@@ -535,7 +521,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614530829358</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="Mostrar Hora em Português">
+      <created>1614532396384</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1614532396384</updated>
+    </task>
+    <task id="LOCAL-00169" summary="Mostrar dia da semana em português">
+      <created>1614532508188</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1614532508188</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,8 +555,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Extrair valores de um array com Destructuring&#10;Assignment" />
-    <MESSAGE value="Extrair valores de um Object com Destructuring&#10;Assignment" />
     <MESSAGE value="Generators" />
     <MESSAGE value="Generator - exemplo 2" />
     <MESSAGE value=" Classes" />
@@ -580,7 +578,9 @@
     <MESSAGE value="foreach" />
     <MESSAGE value="GetDate" />
     <MESSAGE value="Mostrar Hora e Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mostrar Hora e Data" />
+    <MESSAGE value="Mostrar Hora em Português" />
+    <MESSAGE value="Mostrar dia da semana em português" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mostrar dia da semana em português" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
