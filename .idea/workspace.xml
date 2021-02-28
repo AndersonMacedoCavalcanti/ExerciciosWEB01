@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="GetDate">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Mostrar Hora e Data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP/Unidade12-DataeHora.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/Unidade12-DataeHora.php" afterDir="false" />
     </list>
@@ -190,14 +190,7 @@
       <workItem from="1614377348315" duration="4351000" />
       <workItem from="1614382489790" duration="266000" />
       <workItem from="1614456545019" duration="9875000" />
-      <workItem from="1614528784790" duration="1651000" />
-    </task>
-    <task id="LOCAL-00118" summary="Adicionando classes do BootStrap">
-      <created>1613689784961</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1613689784961</updated>
+      <workItem from="1614528784790" duration="3269000" />
     </task>
     <task id="LOCAL-00119" summary="Alterando alinhamento">
       <created>1613689975838</created>
@@ -535,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614529941528</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="Mostrar Hora e Data">
+      <created>1614530829358</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1614530829358</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +555,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Usando o método bind e o método arrow&#10;function" />
     <MESSAGE value=" Extrair valores de um array com Destructuring&#10;Assignment" />
     <MESSAGE value="Extrair valores de um Object com Destructuring&#10;Assignment" />
     <MESSAGE value="Generators" />
@@ -580,7 +579,8 @@
     <MESSAGE value="for" />
     <MESSAGE value="foreach" />
     <MESSAGE value="GetDate" />
-    <option name="LAST_COMMIT_MESSAGE" value="GetDate" />
+    <MESSAGE value="Mostrar Hora e Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mostrar Hora e Data" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -7,13 +7,20 @@
  </head>
  <body>
 	<?php
+	setlocale(LC_TIME, "portuguese");
 	date_default_timezone_set("Brazil/East");
-	 $_agora = getdate();
-	 $_hora = $_agora["hours"] . ":" . $_agora["minutes"]  . ":" . $_agora["seconds"] . "<br><br>";
-	 $_data = ($_agora["mday"]<10 ? "0" . $_agora["mday"] : $_agora["mday"]) . "/" . ($_agora["mon"]<10 ? "0" . $_agora["mon"] : $_agora["mon"])  . "/" . $_agora["year"] . "<br><br>";
 
-	 echo $_hora;
-	 echo $_data;
+	 $_agora = getdate();
+	 $_segundo =$_agora["seconds"];
+	 $_minutos = $_agora["minutes"];
+	 $_hora=$_agora["hours"];
+
+	 $_dia=$_agora["mday"];
+	 $_mes = strftime("%B");
+	 $_ano=$_agora["year"];
+
+	 echo $_dia . " " . $_mes . " de " . $_ano;
+
     ?>
  </body>
 </html>
