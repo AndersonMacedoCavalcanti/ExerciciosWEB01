@@ -1,7 +1,10 @@
 <?php require_once("../PHP - Banco de dados BASICO/conexao/conexao.php");
 
-	$consultas_produtos = "select * from produto";
+	$proximo = $_GET;
+
+	$consultas_produtos = "select * from produto limit " . intval($proximo["submit"]) . ",5";
 	$produto = mysqli_query($conecta,$consultas_produtos);
+
 
 	if(!$produto){
 			echo "falha na consulta";
@@ -16,6 +19,40 @@
 	<meta charset="utf-8">
 	<title>Unidade 4</title>
 	<link href="estilos/estiloUni04.css" rel="stylesheet">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser-polyfill.js"></script>
+	<script type="text/babel">
+
+		function f() {
+
+            function f2() {
+
+                var qt = parseInt("<?php echo count($linha = mysqli_fetch_assoc($produto)); ?>")
+	                for(var i = 0; i < qt ; i++ ){
+		                var elemento_pai = document.getElementById("test");
+		                var element = document.createElement("input");
+		                element.value=i;
+		                element.type = "submit";
+		                element.id = "submit";
+		                element.name = "submit"
+		                elemento_pai.appendChild(element);
+	                }
+            }
+
+            f2();
+
+            function f3(){
+                var b = document.querySelector("h1");
+                b.setAttribute("style", "color:green");
+            }
+
+            f3();
+
+        }
+        f();
+
+
+	</script>
 </head>
 <body>
 <main>
@@ -35,25 +72,28 @@
 	</header>
 	<section class="container-principal">
 
-		<?php
+		<section class="container-listagem">
 
-		while($linha = mysqli_fetch_assoc($produto)){
-			?>
+			<section class="container-listagem-item">
+				<?php while($linha = mysqli_fetch_assoc($produto)){ ?>
 
-			<ul>
-				<li><?php echo $linha["IDPRODUTO"]?>
-				<li><?php echo $linha["NOME"]?>
-				<li><?php echo $linha["VALOR"]?>
-			</ul>
+					<ul>
+						<li><?php echo $linha["IDPRODUTO"]?>
+						<li><?php echo $linha["NOME"]?>
+						<li><?php echo $linha["VALOR"]?>
+					</ul>
+
+				<?php };
+                ?>
+
+			</section>
+
+			<form method="GET" action="Unidade04-ListagemdeProdutos.php" id="test">
 
 
-			<?php
-		}
+			</form>
 
-        ?>
-
-
-
+		</section>
 	</section>
 	<article></article>
 	<aside></aside>

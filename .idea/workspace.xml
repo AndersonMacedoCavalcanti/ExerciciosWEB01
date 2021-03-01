@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Criar arquivo de conexão  separado">
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/estiloUni04.css" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="LAYOUT / Realizar uma listagem de produtos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/estiloUni04.css" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/estiloUni04.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,14 +186,7 @@
       <workItem from="1614528784790" duration="10327000" />
       <workItem from="1614539681417" duration="1401000" />
       <workItem from="1614551086784" duration="11371000" />
-      <workItem from="1614562813472" duration="684000" />
-    </task>
-    <task id="LOCAL-00137" summary="Parâmetro Default de funções">
-      <created>1614288370943</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1614288370943</updated>
+      <workItem from="1614562813472" duration="9960000" />
     </task>
     <task id="LOCAL-00138" summary="Repetindo strings">
       <created>1614288666632</created>
@@ -531,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614556064512</updated>
     </task>
-    <option name="localTasksCounter" value="186" />
+    <task id="LOCAL-00186" summary="LAYOUT / Realizar uma listagem de produtos">
+      <created>1614563573896</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1614563573896</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Pesquisa dentro de um array" />
     <MESSAGE value="Switch Case" />
     <MESSAGE value="Como funciona o operador Ternário" />
     <MESSAGE value="for" />
@@ -576,7 +575,8 @@
     <MESSAGE value="Include e Include_once&#10;usar outros arquivos php" />
     <MESSAGE value="Require e require_once" />
     <MESSAGE value="Criar arquivo de conexão  separado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criar arquivo de conexão  separado" />
+    <MESSAGE value="LAYOUT / Realizar uma listagem de produtos" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAYOUT / Realizar uma listagem de produtos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
