@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Require e require_once">
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/conexao/conexao.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Criar arquivo de conexão  separado">
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/estiloUni04.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -65,6 +65,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -97,31 +98,20 @@
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\HTML" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ComocriarumaconexãocomMySQL.php">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.Unidade04-ListagemdeProdutos.php">
     <configuration name="ComocriarumaconexãocomMySQL.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Unidade04-Alémdobásico.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ExerciciosAula01/jquery/Unidade04-Alémdobásico.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="Unidade04-ListagemdeProdutos.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Unidade06-Fundamentosdalinguagem.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP/Unidade06-Fundamentosdalinguagem.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="teste.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/ExerciciosAula01/PHP/teste.php" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="LetEVar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ECMAScript/LetEVar.js" working-dir="$PROJECT_DIR$/ECMAScript">
       <method v="2" />
     </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Apache Local Web Server">
@@ -132,15 +122,15 @@
       <item itemvalue="JavaScript Debug.Unidade04-Alémdobásico.html" />
       <item itemvalue="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php" />
       <item itemvalue="JavaScript Debug.ComocriarumaconexãocomMySQL.php" />
-      <item itemvalue="Node.js.LetEVar.js" />
+      <item itemvalue="JavaScript Debug.Unidade04-ListagemdeProdutos.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Unidade04-ListagemdeProdutos.php" />
         <item itemvalue="JavaScript Debug.ComocriarumaconexãocomMySQL.php" />
         <item itemvalue="JavaScript Debug.Unidade06-Fundamentosdalinguagem.php" />
         <item itemvalue="JavaScript Debug.Unidade04-Alémdobásico.html" />
         <item itemvalue="JavaScript Debug.teste.php" />
-        <item itemvalue="Node.js.LetEVar.js" />
       </list>
     </recent_temporary>
   </component>
@@ -195,14 +185,8 @@
       <workItem from="1614456545019" duration="9875000" />
       <workItem from="1614528784790" duration="10327000" />
       <workItem from="1614539681417" duration="1401000" />
-      <workItem from="1614551086784" duration="4647000" />
-    </task>
-    <task id="LOCAL-00136" summary="Operador Spread">
-      <created>1614288113450</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1614288113451</updated>
+      <workItem from="1614551086784" duration="11371000" />
+      <workItem from="1614562813472" duration="684000" />
     </task>
     <task id="LOCAL-00137" summary="Parâmetro Default de funções">
       <created>1614288370943</created>
@@ -540,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614555096088</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="Criar arquivo de conexão  separado">
+      <created>1614556064512</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1614556064512</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,7 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value=" Funções para Array" />
     <MESSAGE value="Pesquisa dentro de um array" />
     <MESSAGE value="Switch Case" />
     <MESSAGE value="Como funciona o operador Ternário" />
@@ -585,7 +575,8 @@
     <MESSAGE value="Liberar espaço da consulta" />
     <MESSAGE value="Include e Include_once&#10;usar outros arquivos php" />
     <MESSAGE value="Require e require_once" />
-    <option name="LAST_COMMIT_MESSAGE" value="Require e require_once" />
+    <MESSAGE value="Criar arquivo de conexão  separado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criar arquivo de conexão  separado" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
