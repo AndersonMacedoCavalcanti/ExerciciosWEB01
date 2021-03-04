@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="LAYOUT / Realizar uma listagem de produtos">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="TESTE PARTICULAR DE LISTAGEM SEQUNCIAL">
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade05-Listagem-Detalhe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/_incluir/cabecalho.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/_incluir/rodape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/listagemDetalhada.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/1495815224-jd15_84582.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/cumputerTela.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/icon-shoppingbag2_87956.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/matrixPad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/minipc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/notebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/notebook2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/notebook3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/pc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/shopping-basket256_24919.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/tablet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/tablet2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/tablet3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/imagens-prod/tablet4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/estiloUni04.css" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/estiloUni04.css" afterDir="false" />
@@ -44,7 +64,6 @@
     <setting file="file://$PROJECT_DIR$/PHP/Unidade06-Fundamentosdalinguagem.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/jquery/Unidade04-Alémdobásico.html" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="9f263b9f-f170-43d9-932f-18886cd137db" name="Apache Local Web Server" />
@@ -71,7 +90,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PHP - Banco de dados BASICO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -85,11 +104,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO\estilos" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO\_incluir" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\ECMAScript" />
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap" />
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\Bootstrap\myJqueryScripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO\utilitarios" />
@@ -99,6 +118,17 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Unidade04-ListagemdeProdutos.php">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComocriarumaconexãocomMySQL.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -186,14 +216,11 @@
       <workItem from="1614528784790" duration="10327000" />
       <workItem from="1614539681417" duration="1401000" />
       <workItem from="1614551086784" duration="11371000" />
-      <workItem from="1614562813472" duration="9960000" />
-    </task>
-    <task id="LOCAL-00138" summary="Repetindo strings">
-      <created>1614288666632</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1614288666632</updated>
+      <workItem from="1614562813472" duration="13303000" />
+      <workItem from="1614619356044" duration="6774000" />
+      <workItem from="1614639803243" duration="670000" />
+      <workItem from="1614714827235" duration="1448000" />
+      <workItem from="1614884198329" duration="10135000" />
     </task>
     <task id="LOCAL-00139" summary="Arrow function">
       <created>1614288983357</created>
@@ -531,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614563573896</updated>
     </task>
-    <option name="localTasksCounter" value="187" />
+    <task id="LOCAL-00187" summary="TESTE PARTICULAR DE LISTAGEM SEQUNCIAL">
+      <created>1614573203057</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1614573203057</updated>
+    </task>
+    <option name="localTasksCounter" value="188" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +585,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Switch Case" />
     <MESSAGE value="Como funciona o operador Ternário" />
     <MESSAGE value="for" />
     <MESSAGE value="foreach" />
@@ -576,7 +609,8 @@
     <MESSAGE value="Require e require_once" />
     <MESSAGE value="Criar arquivo de conexão  separado" />
     <MESSAGE value="LAYOUT / Realizar uma listagem de produtos" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAYOUT / Realizar uma listagem de produtos" />
+    <MESSAGE value="TESTE PARTICULAR DE LISTAGEM SEQUNCIAL" />
+    <option name="LAST_COMMIT_MESSAGE" value="TESTE PARTICULAR DE LISTAGEM SEQUNCIAL" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

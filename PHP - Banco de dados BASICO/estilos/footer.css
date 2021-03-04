@@ -1,0 +1,52 @@
+html,body,main{
+    margin: 0;
+    padding: 0;
+}
+
+/* -------- Estilo foooter ---------*/
+
+footer{
+    padding: 10px;
+    width: 100%;
+    background: linear-gradient(to right,blueviolet,darkblue);
+    text-align: left;
+}
+footer ul li{
+    list-style-type: none;
+    margin: 15px;
+}
+footer ul li a{
+    text-decoration: none;
+    color:white;
+}
+.copyright{
+    text-align: center;
+    margin:10px;
+    color:white;
+    font-size:20px;
+}
+.social-container{
+    display:grid;
+}
+.social-item{
+    grid-column-start: 1;
+}
+.social-item img{
+    width: 80px;
+    height: 80px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.grid-container{
+    display:grid;
+    margin-bottom: 30px;
+}
+.grid-item1{
+    grid-column-start: 1;
+}
+.grid-item2{
+    grid-column-start: 2;
+}
+.grid-item3{
+    grid-column-start: 3;
+}

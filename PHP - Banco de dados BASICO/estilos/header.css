@@ -1,0 +1,44 @@
+html,body,main{
+    margin: 0;
+    padding: 0;
+}
+
+/* -------- Estilo Header princial ---------*/
+
+header ul li{
+    list-style-type: none;
+    margin: 15px;
+    display:inline-block;
+}
+header ul li a{
+    text-decoration: none;
+    color:black;
+    font-size:25px
+}
+header img{
+    width:90px;
+    height:90px;
+}
+.container-nav{
+    display: grid;
+}
+.nav-item{
+    grid-column-start: 3;
+}
+.nav-item-logo{
+    grid-column-start:2;
+}
+
+@media (max-width: 720px) {
+
+    header ul li a{
+        font-size:20px
+    }
+}
+
+.barra-principal{
+    width:100%;
+    height:50px;
+    background: linear-gradient(to right,blueviolet,darkblue);
+    margin-bottom: 50px;
+}
