@@ -37,8 +37,24 @@ header img{
 }
 
 .barra-principal{
-    width:100%;
+    text-align: right;
     height:50px;
     background: linear-gradient(to right,blueviolet,darkblue);
     margin-bottom: 50px;
+    padding:30px;
+}
+
+#search{
+    width:500px;
+    height:50px;
+    border-radius: 10px;
+    font-size:18px;
+    padding:10px;
+    vertical-align: 100%;
+}
+
+#search-image{
+
+    height:50px;
+    width:50px;
 }

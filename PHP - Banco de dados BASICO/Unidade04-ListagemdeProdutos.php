@@ -1,7 +1,10 @@
 <?php require_once("../PHP - Banco de dados BASICO/conexao/conexao.php");
 
 
-$consulta = "select * from produto limit 0,8";
+$consulta = "select * from produto";
+$consulta .= " where NOME like '%";
+$consulta .=$_GET["search"];
+$consulta .="%' limit 0,8";
 $produtos = mysqli_query($conecta,$consulta);
 
 
@@ -25,6 +28,7 @@ $produtos = mysqli_query($conecta,$consulta);
 	<?php
     include("_incluir/cabecalho.php");
     ?>
+
 
 	<section>
 		<ul class="container-menu-l">

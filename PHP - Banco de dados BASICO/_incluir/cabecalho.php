@@ -10,6 +10,11 @@
 				<li><a href="">Trabelhe conosco</a></li>
 			</ul>
 		</nav>
-		<section class="barra-principal"></section>
+		<section class="barra-principal">
+			<form action="Unidade04-ListagemdeProdutos.php" method="get">
+				<input type="search" name="search" id="search" placeholder="Nome do Produto">
+				<input type="image" src="imagens-prod/search_locate_find_13974.ico" alt="Submit" id="search-image">
+			</form>
+		</section>
 	</header>
 

@@ -61,3 +61,25 @@ html,body,main{
     font-size:32px;
     color:darkblue;
 }
+
+/* -------- Estilo Pesquisa ---------*/
+
+.pesquisa{
+    text-align: center;
+}
+
+#search{
+    width:500px;
+    height:50px;
+    border-radius: 10px;
+    font-size:18px;
+    padding:10px;
+}
+
+#barraPesquisa{
+    text-align: center;
+    width:100%;
+    height:50px;
+    background: darkblue;
+    padding: 10px;
+}
