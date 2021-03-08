@@ -1,4 +1,7 @@
 <?php require_once("../PHP - Banco de dados BASICO/conexao/conexao.php");
+
+    session_start();
+    $_SESSION["usuario"] = rand(-9999999999,9999999999);
 ?>
 
 
@@ -24,8 +27,12 @@
     <?php
     include("_incluir/rodape.php")
     ?>
+	<p><?php echo $_SESSION["usuario"];?></p>
+	<div>
+		<p>Voce esta na pagina 1</p>
+		<a href="pagina2.php">Pagina 2</a>
+	</div>
 </main>
 </body>
 </html>
 
-<?php mysqli_close($conecta) ?>

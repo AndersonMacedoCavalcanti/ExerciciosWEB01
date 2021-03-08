@@ -19,11 +19,11 @@ session_start();
 	<?php
     include("_incluir/cabecalho.php");
     ?>
-
-	<p><?php echo $_SESSION["usuario"];?></p>
+	<?php unset($_SESSION["usuario"])?> //desconecta
+	// session_destroy(); - Destroi todas as sessoes sem precisar dizer qual
 	<div>
-		<p>Voce esta na pagina 2</p>
-		<a href="logout.php">Pagina 2</a>
+		<p>Voce esta na pagina de logout</p>
+		<a href="pagina2.php">Pagina 2</a>
 	</div>
 
 
