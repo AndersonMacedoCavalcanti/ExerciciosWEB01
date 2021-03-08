@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="ajustes">
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/logout.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Variavel de SESSION (LOGIN E LOGOUT)">
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/pagina1.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/pagina1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/pagina2.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/pagina2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PHP - Banco de dados BASICO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -85,8 +84,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO\estilos" />
+      <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP - Banco de dados BASICO\_incluir" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\PHP" />
       <recent name="C:\Users\ander\Desktop\ExerciciosAula01\ECMAScript" />
@@ -204,14 +203,7 @@
       <workItem from="1614639803243" duration="670000" />
       <workItem from="1614714827235" duration="1448000" />
       <workItem from="1614884198329" duration="10273000" />
-      <workItem from="1615231413026" duration="6300000" />
-    </task>
-    <task id="LOCAL-00141" summary="Usando o método bind e o método arrow&#10;function">
-      <created>1614290289428</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1614290289428</updated>
+      <workItem from="1615231413026" duration="10163000" />
     </task>
     <task id="LOCAL-00142" summary=" Extrair valores de um array com Destructuring&#10;Assignment">
       <created>1614290593038</created>
@@ -549,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615236943027</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="Variavel de SESSION (LOGIN E LOGOUT)">
+      <created>1615237967586</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1615237967586</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +568,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="foreach" />
     <MESSAGE value="GetDate" />
     <MESSAGE value="Mostrar Hora e Data" />
     <MESSAGE value="Mostrar Hora em Português" />
@@ -594,7 +592,8 @@
     <MESSAGE value="TESTE PARTICULAR DE LISTAGEM SEQUNCIAL" />
     <MESSAGE value="lista detalhada" />
     <MESSAGE value="ajustes" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustes" />
+    <MESSAGE value="Variavel de SESSION (LOGIN E LOGOUT)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variavel de SESSION (LOGIN E LOGOUT)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
