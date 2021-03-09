@@ -14,34 +14,39 @@ main{
 
 .container-principal{
     text-align: center;
-    width:500px;
-    height:600px;
+    width:700px;
+    height:800px;
     margin-left: auto;
     margin-right: auto;
     background: linear-gradient(to right,blueviolet,darkblue);
+    background-size: 150% 150%;
     border-radius: 10px;
     box-shadow: #cccccc 10px 10px 10px;
-    padding: 20px;
+    padding: 30px;
+    animation: colors 5s ease infinite;
 }
 
 .container-principal h1{
     color: white;
-    font-size: 50px;
+    font-size: 60px;
 }
 .container-principal form{
     text-align: left;
     color: white;
-    font-size: 25px;
+    font-size: 30px;
 }
 .container-principal input{
     display: block;
-    height:20px;
-    width:450px;
+    height:30px;
+    width:660px;
     border: transparent;
     border-radius: 10px;
     padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: darkblue;
+
 }
 
 .container-btn{
@@ -53,7 +58,7 @@ main{
     width:200px;
     height:80px;
     border-radius: 10px;
-    margin-top:30px;
+    margin-top:60px;
     cursor:pointer;
 
 
@@ -74,6 +79,22 @@ main{
 }
 
 .options-login{
-    margin:20px;
+    margin:60px;
     text-align: center;
+}
+
+@keyframes  colors{
+    0%{
+        background-position: 0 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+
+    }
+
+    100% {
+        background-position: 0 50%;
+
+    }
 }

@@ -20,7 +20,7 @@
 	<section class="container-principal">
 		<section>
 			<h1>Login</h1>
-			<form>
+			<form action="login.php" method="post">
 				<label for="text">E-mail</label>
 				<input type="email" name="email" id="email" placeholder="Digite seu e-mail" required="true">
 
