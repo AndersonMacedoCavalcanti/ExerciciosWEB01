@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="Variavel de SESSION (LOGIN E LOGOUT)">
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/estilos/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/login.php" afterDir="false" />
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="layout tela de login">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,15 +97,13 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Unidade04-ListagemdeProdutos.php">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -203,21 +200,8 @@
       <workItem from="1614639803243" duration="670000" />
       <workItem from="1614714827235" duration="1448000" />
       <workItem from="1614884198329" duration="10273000" />
-      <workItem from="1615231413026" duration="10163000" />
-    </task>
-    <task id="LOCAL-00142" summary=" Extrair valores de um array com Destructuring&#10;Assignment">
-      <created>1614290593038</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1614290593038</updated>
-    </task>
-    <task id="LOCAL-00143" summary="Extrair valores de um Object com Destructuring&#10;Assignment">
-      <created>1614290826584</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1614290826584</updated>
+      <workItem from="1615231413026" duration="10198000" />
+      <workItem from="1615320262174" duration="5839000" />
     </task>
     <task id="LOCAL-00144" summary="Generators">
       <created>1614291777643</created>
@@ -548,7 +532,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615237967586</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="layout tela de login">
+      <created>1615241692156</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1615241692156</updated>
+    </task>
+    <task id="LOCAL-00192" summary="Animacao gradient">
+      <created>1615325947870</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1615325947920</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,8 +566,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="GetDate" />
-    <MESSAGE value="Mostrar Hora e Data" />
     <MESSAGE value="Mostrar Hora em Português" />
     <MESSAGE value="Mostrar dia da semana em português" />
     <MESSAGE value="DIFF -  DateInterval Object" />
@@ -593,7 +589,9 @@
     <MESSAGE value="lista detalhada" />
     <MESSAGE value="ajustes" />
     <MESSAGE value="Variavel de SESSION (LOGIN E LOGOUT)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variavel de SESSION (LOGIN E LOGOUT)" />
+    <MESSAGE value="layout tela de login" />
+    <MESSAGE value="Animacao gradient" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animacao gradient" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
