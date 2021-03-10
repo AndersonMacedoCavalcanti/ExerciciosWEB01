@@ -1,11 +1,21 @@
 <?php require_once("../PHP - Banco de dados BASICO/conexao/conexao.php");
 
+session_start();
+if(empty($_SESSION["usuario"])){
+    header("location:login.php");
+}
 
-$consulta = "select * from produto";
-$consulta .= " where NOME like '%";
-$consulta .=$_GET["search"];
-$consulta .="%' limit 0,8";
-$produtos = mysqli_query($conecta,$consulta);
+$consulta = "select * from produto where NOME like ? limit 0,8";
+$pesquisa = $_GET["search"];
+
+if (isset($conecta)) {
+    $stmt = $conecta->prepare($consulta);
+	$stmt -> bindValue(1,'%'.$pesquisa.'%');
+    $stmt->execute();
+    $informacoes = $stmt->fetchAll(PDO::FETCH_ASSOC);
+}
+
+
 
 
 ?>
@@ -24,7 +34,6 @@ $produtos = mysqli_query($conecta,$consulta);
 </head>
 <body>
 <main>
-
 	<?php
     include("_incluir/cabecalho.php");
     ?>
@@ -43,18 +52,20 @@ $produtos = mysqli_query($conecta,$consulta);
 	<section class="container-principal">
 
 			<?php
-            while($linha = mysqli_fetch_assoc($produtos)){
-                ?>
+            if (!empty($informacoes)) {
+                foreach($informacoes as $linha){
+                    ?>
 
-				<ul class="container-prod">
-					<li><a href="Unidade05-Listagem-Detalhe.php?codigo=<?php echo $linha["IDPRODUTO"] ?>"><img src= "<?php echo $linha["IMAGEM"]  ?>" alt="<?php echo $linha["NOME"]  ?>"></a></li>
-					<li><?php echo $linha["NOME"]  ?></li>
-					<li><span class="texProd" id="textMarca"><strong>Marca: </strong></span> <?php echo $linha["MARCA"]  ?></li>
-					<li><?php echo $linha["DESCRICAO"]  ?></li>
-					<li><strong>Preço: <span id="textPreco"><?php echo $linha["VALOR"]  ?></span></strong></li>
-				</ul>
+				    <ul class="container-prod">
+					    <li><a href="Unidade05-Listagem-Detalhe.php?codigo=<?php echo $linha["IDPRODUTO"] ?>"><img src= "<?php echo $linha["IMAGEM"]  ?>" alt="<?php echo $linha["NOME"]  ?>"></a></li>
+					    <li><?php echo $linha["NOME"]  ?></li>
+					    <li><span class="texProd" id="textMarca"><strong>Marca: </strong></span> <?php echo $linha["MARCA"]  ?></li>
+					    <li><?php echo $linha["DESCRICAO"]  ?></li>
+					    <li><strong>Preço: <span id="textPreco"><?php echo $linha["VALOR"]  ?></span></strong></li>
+				    </ul>
 
-                <?php
+                    <?php
+                }
             }
             ?>
 
@@ -70,4 +81,3 @@ $produtos = mysqli_query($conecta,$consulta);
 </body>
 </html>
 
-<?php mysqli_close($conecta) ?>

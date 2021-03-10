@@ -1,25 +1,29 @@
 <?php require_once("../PHP - Banco de dados BASICO/conexao/conexao.php");
 
+	session_start();
+
 	if( $_POST['email'] != null && $_POST['password'] != null){
-		$email = $_POST['email'];
-		$password = $_POST['password'];
+		$email = addslashes($_POST['email']);
+		$password = addslashes($_POST['password']);
 
         $consulta = "SELECT EMAIL, PASSWORD FROM LOGIN";
-        $consulta .= " WHERE EMAIL = '{$email}'";
-        $consulta .= " and PASSWORD = '{$password}'";
+        $consulta .= " WHERE EMAIL = ?";
+        $consulta .= " and PASSWORD = ?";
+
 
         if (!empty($conecta)) {
-            $acesso = mysqli_query($conecta,$consulta);
-            if(!$acesso){
-            	die("Falha na consulta ao banco de dados");
-            }
+            $stmt = $conecta->prepare($consulta);
+            $stmt -> bindValue(1,$email);
+            $stmt -> bindValue(2,$password);
+            $stmt->execute();
 
-            $informacoes = mysqli_fetch_assoc($acesso);
+            $informacoes = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
             if(empty($informacoes)){
             	$mensagem = "Login sem sucesso";
             } else{
-            	Header("Location: Unidade04-ListagemdeProdutos.php");
+                $_SESSION["usuario"] = rand(-9999999999,9999999999);
+                Header("Location: Unidade04-ListagemdeProdutos.php");
             }
 }
 	}
@@ -46,7 +50,7 @@
 		<section>
 			<h1>Login</h1>
 			<form action="login.php" method="post">
-				<label for="text">E-mail</label>
+				<label for="email">E-mail</label>
 				<input type="email" name="email" id="email" placeholder="Digite seu e-mail" required="true">
 				<?php if (isset($mensagem)){?> <div><p class="erroLogin">* Verifique o E-mail digitado</p></div><?php }?>
 				<label for="password">Senha</label>
@@ -70,3 +74,4 @@
 </body>
 </html>
 
+<?php $conecta = null ?>

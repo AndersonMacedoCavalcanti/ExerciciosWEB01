@@ -1,12 +1,10 @@
 <?php
 
-$servidor = "localhost";
 $usuario = "anderson";
 $senha = 81718020;
-$banco = "web01";
-$conecta = mysqli_connect($servidor,$usuario,$senha,$banco);
+$conecta = new PDO("mysql:host=localhost;dbname=web01",$usuario,$senha);
 
-if (mysqli_connect_errno()) {
-    echo "Failed to connect to MySQL: " . mysqli_connect_error();
+if (!$conecta) {
+    echo "Failed to connect to MySQL: ";
 }
 

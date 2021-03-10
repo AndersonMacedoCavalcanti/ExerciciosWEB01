@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="layout tela de login">
+    <list default="true" id="9181f129-e15a-4aa0-ab99-9f70ad86b434" name="Default Changelist" comment="verificacao com bd login e senha">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade04-ListagemdeProdutos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade05-Listagem-Detalhe.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/Unidade05-Listagem-Detalhe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/conexao/conexao.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/conexao/conexao.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHP - Banco de dados BASICO/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP - Banco de dados BASICO/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,17 +100,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Unidade04-ListagemdeProdutos.php">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ComocriarumaconexãocomMySQL.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ExerciciosAula01/PHP - Banco de dados BASICO/ComocriarumaconexãocomMySQL.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -201,14 +193,8 @@
       <workItem from="1614714827235" duration="1448000" />
       <workItem from="1614884198329" duration="10273000" />
       <workItem from="1615231413026" duration="10198000" />
-      <workItem from="1615320262174" duration="5839000" />
-    </task>
-    <task id="LOCAL-00144" summary="Generators">
-      <created>1614291777643</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1614291777644</updated>
+      <workItem from="1615320262174" duration="6252000" />
+      <workItem from="1615350175712" duration="11274000" />
     </task>
     <task id="LOCAL-00145" summary="Generator - exemplo 2">
       <created>1614292459554</created>
@@ -546,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615325947920</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="verificacao com bd login e senha">
+      <created>1615329291700</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1615329291700</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +559,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Mostrar Hora em Português" />
     <MESSAGE value="Mostrar dia da semana em português" />
     <MESSAGE value="DIFF -  DateInterval Object" />
     <MESSAGE value="Links com parâmetros" />
@@ -591,7 +583,8 @@
     <MESSAGE value="Variavel de SESSION (LOGIN E LOGOUT)" />
     <MESSAGE value="layout tela de login" />
     <MESSAGE value="Animacao gradient" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animacao gradient" />
+    <MESSAGE value="verificacao com bd login e senha" />
+    <option name="LAST_COMMIT_MESSAGE" value="verificacao com bd login e senha" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
